@@ -1,0 +1,5049 @@
+{
+  "items": [
+    {
+      "description": "Update May 2026 Any links to my (old) website will cease this month - the old blogs are archive in another repo. If you want the latest news in EO I recommend Spectral Reflectance. My self employment ended in March 2026 but my love and joy for all things EO has not you can find me on LinkedIn Andrew Cutts\nA note of caution During the QC of links I note that the vast majority are 2years+ old or considerably older. Some repos are retired and still visible, some code is > 10 years old. Tread carefully. This list is open to PR's and suggestions, it is updated infrequently by myself. If you find a link that is helpful, share it! We have 1.3k stars now so plenty of eyes on it. You will get acknowledged in the contributors file.\nAnnotations are based on the headers - and where available - on the github accounts\n| Earth Observation introduction |\n| Open EO | remotesensing.info | Python processing | Resources for R | Languages other than Python and R | Training and Learning | Deep Learning & Machine Learning | GDAL of course | Earth Observation coding on YouTube | Google Earth Engine | Open Data Cube | Planetary Computer | QGIS and Grass | Climate & Weather resources | DEM projects | SAR | LiDAR | GEDI | InSAR | Landuse | Visualisation | EO code Competitions | ARD links | Useful EO code based twitter accounts | List of Great GitHub accounts | EO Geospatial companies or orgs making big contributions |\n| Cloud Native Geospatial | STAC | COG\nThese sections are non EO code specific, but included to be relevant | Interesting Non EO parts Python | Interesting Non EO parts other languages | Data | A footnote on awesome",
+      "items": [],
+      "title": "Latest news"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Start Here"
+    },
+    {
+      "description": "remotesening.info warrents its own section, the vast array of tools and processing software is incredible RemoteSensing - Short tutorials and reference to useful software tools for the acquisition and processing of remote sensed Earth Observation data",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ARCSI",
+          "description": "Software to automate the production of optical analysis ready data (ARD) from Landsat, Sentinel-2 and others",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-28T16:12:25Z",
+            "owner": "remotesensinginfo",
+            "repo": "arcsi",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eodatadown",
+          "description": "The Earth Observation Data Downloader (EODataDown) is a tool for automatically downloading and processing EO data to an analysis ready data product. This software forms a core component of a monitoring system based on EO data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-03T15:59:42Z",
+            "owner": "remotesensinginfo",
+            "repo": "eodatadown",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Remote Sensing.info"
+    },
+    {
+      "description": "This section full of great code and projects related to processing optical satellite imagery with . Please suggest groupings or re assignments if needed - the idea is to make the Python code examples here easier to find. Categories are highly subjective.",
+      "items": [],
+      "title": "processing of optical imagery (non deep learning)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sentinelsat",
+          "description": "Search and download Copernicus Sentinel satellite images sentinelsat docs",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-10-02T09:22:49Z",
+            "owner": "sentinelsat",
+            "repo": "sentinelsat",
+            "stars": 1019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Landsat-Util",
+          "description": "A utility to search, download and process Landsat 8 satellite imagery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-14T18:05:53Z",
+            "owner": "developmentseed",
+            "repo": "landsat-util",
+            "stars": 698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "landsatexplore",
+          "description": "Search and download Landsat scenes from EarthExplorer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-30T14:56:26Z",
+            "owner": "yannforget",
+            "repo": "landsatxplore",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LANDSAT-Download",
+          "description": "Automated download of LANDSAT data from USGS website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-12T09:54:52Z",
+            "owner": "olivierhagolle",
+            "repo": "LANDSAT-Download",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentinel-download",
+          "description": "Automated download of Sentinel-2 L1C data from ESA (through wget)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-30T17:19:55Z",
+            "owner": "olivierhagolle",
+            "repo": "Sentinel-download",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phidown",
+          "description": "Manage, search, and download Earth Observation data with Φ-down from Copernicus missions with ease and efficiency. docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-12T07:10:27Z",
+            "owner": "ESA-PhiLab",
+            "repo": "phidown",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sat-extractor",
+          "description": "Extract Satellite Imagery from public constellations at scale",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-04T23:57:13Z",
+            "owner": "FrontierDevelopmentLab",
+            "repo": "sat-extractor",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pylandsat",
+          "description": "Search, download, and preprocess Landsat imagery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-07T09:04:13Z",
+            "owner": "yannforget",
+            "repo": "pylandsat",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "get_modis",
+          "description": "Downloading MODIS data from the USGS repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-30T16:17:29Z",
+            "owner": "jgomezdans",
+            "repo": "get_modis",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esa_sentinel",
+          "description": "ESA Sentinel Search & Download API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-06-06T16:17:03Z",
+            "owner": "jonas-eberle",
+            "repo": "esa_sentinel",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sedas API",
+          "description": "client library for the SeDAS API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-15T09:34:22Z",
+            "owner": "SatelliteApplicationsCatapult",
+            "repo": "sedas_pyapi",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Download"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "felicette",
+          "description": "Satellite imagery for dummies.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-03-12T00:43:06Z",
+            "owner": "plant99",
+            "repo": "felicette",
+            "stars": 1842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geonotebook",
+          "description": "A Jupyter notebook extension for geospatial visualization and analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-21T15:53:04Z",
+            "owner": "OpenGeoscience",
+            "repo": "geonotebook",
+            "stars": 1086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CostalSat",
+          "description": "Global shoreline mapping tool from satellite imagery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-05T13:54:15Z",
+            "owner": "kvos",
+            "repo": "CoastSat",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verde",
+          "description": "Processing and gridding spatial data using Green's functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T17:47:38Z",
+            "owner": "fatiando",
+            "repo": "verde",
+            "stars": 665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EarthPy",
+          "description": "A package built to support working with spatial data using open source python. docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T20:25:58Z",
+            "owner": "earthlab",
+            "repo": "earthpy",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyresample",
+          "description": "Geospatial image resampling in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T12:25:07Z",
+            "owner": "pytroll",
+            "repo": "pyresample",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geocube",
+          "description": "Tool to convert geopandas vector data into rasterized xarray data. docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T19:22:48Z",
+            "owner": "corteva",
+            "repo": "geocube",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOReader",
+          "description": "Opensource library reading optical and SAR sensors, loading and stacking bands in a sensor-agnostic way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T19:02:39Z",
+            "owner": "sertit",
+            "repo": "eoreader",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s2p",
+          "description": "Satellite Stereo Pipeline",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-17T14:20:08Z",
+            "owner": "centreborelli",
+            "repo": "s2p",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RasterFrames / pyrasterframes",
+          "description": "brings together Earth-observation (EO) data access, cloud computing, and DataFrame-based data science. docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-30T03:32:49Z",
+            "owner": "locationtech",
+            "repo": "rasterframes",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bv",
+          "description": "Quickly view satellite imagery, hyperspectral imagery, and machine learning image outputs directly in your iTerm2 terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-01-17T03:08:40Z",
+            "owner": "daleroberts",
+            "repo": "bv",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xcube",
+          "description": "xcube is a package for generating and exploiting data cubes powered by xarray, dask, and zarr",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T09:42:00Z",
+            "owner": "xcube-dev",
+            "repo": "xcube",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mapchete",
+          "description": "Tile-based geodata processing using rasterio & Fiona",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:26:13Z",
+            "owner": "mapchete",
+            "repo": "mapchete",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cresi",
+          "description": "Road network extraction from satellite imagery, with speed and travel time estmates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-08-25T03:39:00Z",
+            "owner": "avanetten",
+            "repo": "cresi",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "onearth",
+          "description": "High-performance web services for tiled raster imagery and vector tiles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T18:29:55Z",
+            "owner": "nasa-gibs",
+            "repo": "onearth",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nansat",
+          "description": "Scientist friendly Python toolbox for processing 2D satellite Earth observation data. docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-02T12:47:16Z",
+            "owner": "nansencenter",
+            "repo": "nansat",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StarFM for Python",
+          "description": "The STARFM fusion model for (image fusion)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-08T14:51:11Z",
+            "owner": "nmileva",
+            "repo": "starfm4py",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unmixing",
+          "description": "Interactive tools for spectral mixture analysis of multispectral raster data in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-19T22:42:24Z",
+            "owner": "arthur-e",
+            "repo": "unmixing",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tifviewer",
+          "description": "A simple GeoTIFF viewer for the command line",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T23:44:03Z",
+            "owner": "nkeikon",
+            "repo": "tifviewer",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "6S_emulator",
+          "description": "Atmospheric correction in Python using a 6S emulator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-08-07T21:27:38Z",
+            "owner": "samsammurphy",
+            "repo": "6S_emulator",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telluric",
+          "description": "telluric is a library to manage vector and raster geospatial data in an interactive and easy way",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-12T01:40:37Z",
+            "owner": "satellogic",
+            "repo": "telluric",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Opensource-OBIA_processing_chain",
+          "description": "An open-source semi-automated processing chain for urban OBIA classification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-09-10T14:55:20Z",
+            "owner": "tgrippa",
+            "repo": "Opensource_OBIA_processing_chain",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Opensource_OBIA_processing_chain",
+          "description": "An open-source semi-automated processing chain for urban OBIA classification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-09-10T14:55:20Z",
+            "owner": "tgrippa",
+            "repo": "Opensource_OBIA_processing_chain",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SIAC",
+          "description": "A sensor invariant Atmospheric Correction (SIAC) alg doc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T10:28:30Z",
+            "owner": "MarcYin",
+            "repo": "SIAC",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CometTS",
+          "description": "Comet Time Series Toolset for working with a time-series of remote sensing imagery and user defined polygons",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-10-23T17:09:05Z",
+            "owner": "CosmiQ",
+            "repo": "CometTS",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ukis-csmask",
+          "description": "masks clouds and cloud shadows in Sentinel-2, Landsat-8, Landsat-7 and Landsat-5 images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-10T09:52:33Z",
+            "owner": "dlr-eoc",
+            "repo": "ukis-csmask",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SIF tools",
+          "description": "some tools for accessing OCO-2 data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-02-04T20:25:41Z",
+            "owner": "cfranken",
+            "repo": "SIF_tools",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python-Remote-Sensing-Scripts",
+          "description": "3. X scripts for remote sensing processing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-19T20:25:04Z",
+            "owner": "JavierLopatin",
+            "repo": "Python-Remote-Sensing-Scripts",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remote Sensing indicies calc",
+          "description": "Calculate spectral remote sensing indices from satellite imagery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-19T16:04:18Z",
+            "owner": "rander38",
+            "repo": "Remote-Sensing-Indices-Derivation-Tool",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyrgis",
+          "description": "This repository cointains the source code of the 'pyrsgis' package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-20T21:14:22Z",
+            "owner": "PratyushTripathy",
+            "repo": "pyrsgis",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LandSurfaceClustering",
+          "description": "Land surface classification using remote sensing data with unsupervised machine learning (k-means)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-29T10:19:30Z",
+            "owner": "lhalloran",
+            "repo": "LandSurfaceClustering",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python-for-remote-sensing",
+          "description": "codes for remote sensing applications will be uploaded. blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-02-13T11:25:56Z",
+            "owner": "Seyed-Ali-Ahmadi",
+            "repo": "Python-for-Remote-Sensing",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spatialist",
+          "description": "A module for spatial data handling",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:13:26Z",
+            "owner": "johntruckenbrodt",
+            "repo": "spatialist",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiletanic",
+          "description": "library to support generalized geographic tiling schemes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-04T14:47:31Z",
+            "owner": "DigitalGlobe",
+            "repo": "tiletanic",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S2_TOA_TO_LAI",
+          "description": "From Sentinel 2 TOA reflectance to LAI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-01T21:00:49Z",
+            "owner": "MarcYin",
+            "repo": "S2_TOA_TO_LAI",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "landsat and sentinel fusion",
+          "description": "Complementarity Between Sentinel-1 and Landsat 8 Imagery for Built-Up Mapping in Sub-Saharan Africa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-03-06T13:56:51Z",
+            "owner": "yannforget",
+            "repo": "landsat-sentinel-fusion",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipyearth",
+          "description": "An IPython Widget for Earth Maps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-29T13:00:24Z",
+            "owner": "davidbrochart",
+            "repo": "ipyearth",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Planet Movement",
+          "description": "Find and process Planet image pairs to highlight object movement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-16T00:35:58Z",
+            "owner": "rhammell",
+            "repo": "planet-movement",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "get_river_width",
+          "description": "Find the river width (and other properties) from a masked water image",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-29T09:32:08Z",
+            "owner": "brianna-corremonte",
+            "repo": "get_river_width",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jeolib-pyjeo",
+          "description": "pyjeo is a library for image processing for geospatial data implemented in JRC Ispra.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T13:30:38Z",
+            "owner": "ec-jrc",
+            "repo": "jeolib-pyjeo",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MTG FRP Fire Progression",
+          "description": "script for creating hourly and cumulative fire progression polygons from MTG (Meteosat Third Generation) FRP (Fire Radiative Power) data, with calibration against reference burned areas and fire intensity estimation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T23:37:59Z",
+            "owner": "PedroVenancio",
+            "repo": "mtg-frp-fire-progression",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vegetation health",
+          "description": "Predicting vegetation health from precipitation and temperature",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-05-02T17:48:07Z",
+            "owner": "tommylees112",
+            "repo": "vegetation_health",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cedar-datacube",
+          "description": "cedar - Create Earth engine Datacubes of Analytical Readiness docs",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-08-26T17:54:13Z",
+            "owner": "ceholden",
+            "repo": "cedar-datacube",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pykic",
+          "description": "'Python' module for remote sensing and GIS domain (image/signal, vector, miscellaneous processing)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-03T10:42:35Z",
+            "owner": "EkicierNico",
+            "repo": "pykic",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esda dissertation",
+          "description": "MSc Energy Systems & Data Analytics dissertation project notebooks - identifying solar PV from aerial imagery with computer vision",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-02-17T21:26:53Z",
+            "owner": "Rabscuttler",
+            "repo": "esda-dissertation",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geff_notebooks",
+          "description": "Jupyter notebooks to post-process fire danger data using /",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-19T11:12:47Z",
+            "owner": "cvitolo",
+            "repo": "geff_notebooks",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "extract_water",
+          "description": "Extract water from nIR imagery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-01T03:27:49Z",
+            "owner": "redfoxgis",
+            "repo": "extract_water",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openaq-s5",
+          "description": "Map openaq data onto Sentinel5P data using AWS lambda",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-12-08T10:58:49Z",
+            "owner": "JamesOConnor",
+            "repo": "openaq-s5",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IEO",
+          "description": "Irish Earth Observation (IEO) remote sensing data processing Python module",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-15T14:28:18Z",
+            "owner": "DrGuy",
+            "repo": "ieo",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stems - Spatio-temporal Tools for Earth Monitoring Science",
+          "description": "Spatio-temporal Tools for Earth Monitoring Science docs",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-08-19T23:13:43Z",
+            "owner": "ceholden",
+            "repo": "stems",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Satellite-Image-Analysis",
+          "description": "PlanetScope, Landsat-8 and Sentinel-2 Image analysis codes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-03-19T15:08:07Z",
+            "owner": "MasterPhysicist",
+            "repo": "Satellite-Image-Analysis",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fc-up42",
+          "description": "UP42 Block for Fractional Cover calculation from Sentinel 2 L2A Data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-03T00:03:52Z",
+            "owner": "petescarth",
+            "repo": "fc-up42",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IEOtools",
+          "description": "Tools for managing Earth observation data. Currently only supports Landsat imagery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-04T15:09:16Z",
+            "owner": "DrGuy",
+            "repo": "IEOtools",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tatortot",
+          "description": "Prototype for a simple image annotation tool",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-11-06T20:33:45Z",
+            "owner": "GeoBigData",
+            "repo": "tatortot",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "river-width",
+          "description": "Extracts water features from 4 band NAIP imagery and calculates river metrics.",
+          "children": []
+        }
+      ],
+      "title": "Processing imagery - post processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GeoLambda",
+          "description": "Create and deploy Geospatial AWS Lambda functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-07-02T04:18:28Z",
+            "owner": "developmentseed",
+            "repo": "geolambda",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rio-viz",
+          "description": "Visualize Cloud Optimized GeoTIFF in browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-29T03:24:13Z",
+            "owner": "developmentseed",
+            "repo": "rio-viz",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-sat-api-py",
+          "description": "Process Satellite data using AWS Lambda functions",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-12-04T01:56:05Z",
+            "owner": "RemotePixel",
+            "repo": "remotepixel-api",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentinel-s3",
+          "description": "libraries for extracting Sentinel-2's metadata from Amazon S3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-22T23:56:06Z",
+            "owner": "developmentseed",
+            "repo": "sentinel-s3",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cng-workshop",
+          "description": "Intro to cloud-native geospatial workshop",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-16T16:14:52Z",
+            "owner": "Element84",
+            "repo": "cng-workshop",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geocore",
+          "description": "GeoCore is an Open Source Cloud Native (AWS) Geospatial Catalog | GeoCore est un catalogue géospatial Open Source Cloud Native (AWS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2025-12-23T15:02:39Z",
+            "owner": "Canadian-Geospatial-Platform",
+            "repo": "geocore",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloud-native-geospatial",
+          "description": "resource introduction to cloud native geospatial",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-12T17:59:31Z",
+            "owner": "ua-datalab",
+            "repo": "cloud-native-geospatial",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Cloud Native Geospatial"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "titiler",
+          "description": "A modern dynamic tile server built on top of and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T14:45:21Z",
+            "owner": "developmentseed",
+            "repo": "titiler",
+            "stars": 1145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cogeo-mosaic",
+          "description": "Create and use COG mosaic based on mosaicJSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T10:38:32Z",
+            "owner": "developmentseed",
+            "repo": "cogeo-mosaic",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cogeotiff",
+          "description": "High performance cloud optimised geotiff reader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-23T17:02:57Z",
+            "owner": "blacha",
+            "repo": "cogeotiff",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "async-cog-reader",
+          "description": "Read Cloud Optimized GeoTiffs without GDAL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-02T07:24:45Z",
+            "owner": "geospatial-jeff",
+            "repo": "aiocogeo",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiocogeo",
+          "description": "Asynchronous cogeotiff reader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-02T07:24:45Z",
+            "owner": "geospatial-jeff",
+            "repo": "aiocogeo",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COG Dumper",
+          "description": "Dumps tiles out of a cloud optimized geotiff",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T14:35:33Z",
+            "owner": "mapbox",
+            "repo": "COGDumper",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COG Validator",
+          "description": "Cloud Optimized GeoTIFF validation service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-08T23:09:32Z",
+            "owner": "rouault",
+            "repo": "cog_validator",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentinel-2-cog",
+          "description": "Convert Sentinel-2 JPEG 2000 to COG with AWS Lambda",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-06T15:32:17Z",
+            "owner": "developmentseed",
+            "repo": "sentinel-2-cog",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COG pptx/pdf",
+          "description": "talk on COG",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-07T12:59:59Z",
+            "owner": "saheelBreezo",
+            "repo": "Cloud-Optimised-Geotiff",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecw-converter",
+          "description": "Dockerised scripts & Nextflow pipeline for converting ecw files to either geotiffs or Cloud Optimised Geotiffs (COGs)",
+          "children": []
+        }
+      ],
+      "title": "COG"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python from space",
+          "description": "Examples for Remote Sensing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-02-20T03:58:20Z",
+            "owner": "kscottz",
+            "repo": "PythonFromSpace",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Truck_Detection_Sentinel2_COVID19",
+          "description": "This repository is designated to detecting trucks using Sentinel-2 data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-06-12T10:11:50Z",
+            "owner": "hfisser",
+            "repo": "Truck_Detection_Sentinel2_COVID19",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Satellite imagery analysis with Python",
+          "description": "Getting acquainted with the concept of satellite imagery data and how it can be analyzed to investigate real-world environmental and humanitarian challenges. associated blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-12-08T09:15:33Z",
+            "owner": "parulnith",
+            "repo": "Satellite-Imagery-Analysis-with-Python",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Povetry predition using satellite imagery",
+          "description": "Poverty Prediction by Combination of Satellite Imagery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-11-23T03:39:26Z",
+            "owner": "carsonluuu",
+            "repo": "Poverty-Prediction-by-Satellite-Imagery",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ap-latem",
+          "description": "Detection of slums and informal settlements from satellite imagery",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-30T20:51:12Z",
+            "owner": "dymaxionlabs",
+            "repo": "ap-latam",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SentinelBot",
+          "description": "A twitter bot which processes raw sentinel data SentinelBot on twitter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T01:27:49Z",
+            "owner": "JamesOConnor",
+            "repo": "Sentinel_bot",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Satellite imagery in Pakistan",
+          "description": "This repository contains a study how we can examine the vegetation cover of a region with the help of satellite data. The notebook in this repository aims to familiarise with the concept of satellite imagery data and how it can be analyzed to investigate real-world environmental and humanitarian challenges.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-12-25T06:50:58Z",
+            "owner": "iam-mhaseeb",
+            "repo": "Satellite-Imagery-Analysis-of-Vegetation-in-Southern-Pakistan",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "local_structire_wpb-severity",
+          "description": "Analysis of drone imagery to characterize forest structure and severity of a tree killing insect",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-03-17T16:32:07Z",
+            "owner": "mikoontz",
+            "repo": "local-structure-wpb-severity",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "count blue pixels",
+          "description": "This project is an experiment in using simple image processing techniques on satellite images downloaded from Google Maps in order to quantify the relative density of temporary shelters in adjacent qudarants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2012-12-03T22:35:53Z",
+            "owner": "craic",
+            "repo": "count_shelters",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Case studies / Projects"
+    },
+    {
+      "description": "(you may need to create an account to use these resources)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SentinelHub-py",
+          "description": "Download and process satellite imagery in Python using Sentinel Hub services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T10:53:30Z",
+            "owner": "sentinel-hub",
+            "repo": "sentinelhub-py",
+            "stars": 908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Planet notebooks",
+          "description": "interactive notebooks from Planet Engineering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-18T14:55:06Z",
+            "owner": "planetlabs",
+            "repo": "notebooks",
+            "stars": 678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sentinel2-cloud-detector",
+          "description": "Sentinel Hub Cloud Detector for Sentinel-2 images in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-15T05:57:53Z",
+            "owner": "sentinel-hub",
+            "repo": "sentinel2-cloud-detector",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Planet-client-API",
+          "description": "client for Planet APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:47:19Z",
+            "owner": "planetlabs",
+            "repo": "planet-client-python",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orbit predictor",
+          "description": "Python library to propagate satellite orbits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-16T14:16:47Z",
+            "owner": "satellogic",
+            "repo": "orbit-predictor",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "up42-py",
+          "description": "Python SDK for UP42, the geospatial marketplace and developer platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T15:57:41Z",
+            "owner": "up42",
+            "repo": "up42-py",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "icecube",
+          "description": "Create time-series datacubes for supervised machine learning with ICEYE SAR images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-09T09:10:23Z",
+            "owner": "iceye-ltd",
+            "repo": "icecube",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maxar GDBx tools",
+          "description": "Python SDK for using GBDX.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-01-03T17:46:18Z",
+            "owner": "DigitalGlobe",
+            "repo": "gbdxtools",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Project Eucalyptus](https://github.com/Orbio-Earth/Project-Eucalyptus",
+          "description": "Open-source pipelines for satellite-based methane detection. Includes trained segmentation models, a synthetic plume generator, and benchmarking tools for Sentinel-2, Landsat 8/9, and EMIT. For research and non-commercial use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-06-26T15:00:55Z",
+            "owner": "Orbio-Earth",
+            "repo": "Project-Eucalyptus",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sky truth offshore methane",
+          "description": "Offshore methane detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-01T15:38:15Z",
+            "owner": "SkyTruth",
+            "repo": "offshore-methane",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdbx-surface-water",
+          "description": "Reservoir surface area detection with Digital Globe imagery and Bayesian methods",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-31T19:38:53Z",
+            "owner": "gena",
+            "repo": "gbdx-surface-water",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S2-superresolution",
+          "description": "Deep Learning-based algorithm to upsample all Sentinel-2 bands to 10m. Also an example how to use GPUs on UP42.",
+          "children": []
+        }
+      ],
+      "title": "Company specific examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Py6S",
+          "description": "A interface to the 6S Radiative Transfer Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-22T23:09:34Z",
+            "owner": "robintw",
+            "repo": "Py6S",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prosail",
+          "description": "bindings for the PROSAIL canopy reflectance model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-11T15:49:18Z",
+            "owner": "jgomezdans",
+            "repo": "prosail",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "radiometric_normalization",
+          "description": "Implementation of radiometric normalization workflows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-08T05:52:12Z",
+            "owner": "planetlabs",
+            "repo": "radiometric_normalization",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "color_balance",
+          "description": "Balance your colors!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-07T20:37:10Z",
+            "owner": "planetlabs",
+            "repo": "color_balance",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyProSail",
+          "description": "Python interface to the ProSAIL leaf/canopy reflectance model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fortran",
+            "last_commit": "2023-03-08T10:50:26Z",
+            "owner": "robintw",
+            "repo": "PyProSAIL",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACOLITE_MR",
+          "description": "ACOLITE_MR: Atmospheric correction for aquatic applications of metre-scale satellites",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-21T16:35:54Z",
+            "owner": "acolite",
+            "repo": "acolite_mr",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Landsat7 errors",
+          "description": "Identifies errors in raw values of Landsat 7",
+          "children": []
+        }
+      ],
+      "title": "Reflectance / pre processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rasterio",
+          "description": "Rasterio reads and writes geospatial raster datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:02:43Z",
+            "owner": "rasterio",
+            "repo": "rasterio",
+            "stars": 2558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SatPy",
+          "description": "package for earth-observing satellite data processing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T14:02:40Z",
+            "owner": "pytroll",
+            "repo": "satpy",
+            "stars": 1201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xarray-spatial",
+          "description": "Raster-based Spatial Analysis for",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T13:21:09Z",
+            "owner": "xarray-contrib",
+            "repo": "xarray-spatial",
+            "stars": 961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rioxarray",
+          "description": "geospatial xarray extension powered by rasterio docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T19:37:03Z",
+            "owner": "corteva",
+            "repo": "rioxarray",
+            "stars": 621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RasterStats",
+          "description": "Summary statistics of geospatial raster datasets based on vector geometries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-23T21:14:13Z",
+            "owner": "perrygeo",
+            "repo": "python-rasterstats",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whitebox Python",
+          "description": "WhiteboxTools Frontend",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-31T18:22:47Z",
+            "owner": "opengeos",
+            "repo": "whitebox-python",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyimpute",
+          "description": "Spatial classification and regression using Scikit-learn and Rasterio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-15T20:35:32Z",
+            "owner": "perrygeo",
+            "repo": "pyimpute",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dask-rasterio",
+          "description": "Read and write rasters in parallel using Rasterio and Dask",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-28T14:35:47Z",
+            "owner": "dymaxionlabs",
+            "repo": "dask-rasterio",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "actinia core",
+          "description": "Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T06:01:49Z",
+            "owner": "actinia-org",
+            "repo": "actinia-core",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ukis-pysat",
+          "description": "generic classes and functions to query, access and process multi-spectral and SAR satellite images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-06T05:53:00Z",
+            "owner": "dlr-eoc",
+            "repo": "ukis-pysat",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xarray pyconuk 2018",
+          "description": "Code and slides for my talk at PyCon UK 2018 on XArray",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-06-15T15:37:14Z",
+            "owner": "robintw",
+            "repo": "XArray_PyConUK2018",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[titiler-eopf](https://github.com/EOPF-Explorer/titiler-eopf",
+          "description": "TiTiler application for EOPF dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-10T01:27:26Z",
+            "owner": "EOPF-Explorer",
+            "repo": "titiler-eopf",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "actinia satellite plugin",
+          "description": "This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-07-30T09:20:12Z",
+            "owner": "actinia-org",
+            "repo": "actinia-satellite-plugin",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Python libraries related to EO"
+    },
+    {
+      "description": "R is not my area of expertise so this section is lighter than I'd like, plus I'd love to know what is a useful resource Books! Geospatial R Books - some books on geospatial",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lidR",
+          "description": "package for airborne LiDAR data manipulation and visualisation for forestry application. Plus lidRplugins - Extra functions and algorithms for lidR package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-18T12:07:51Z",
+            "owner": "r-lidar",
+            "repo": "lidR",
+            "stars": 703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spatiotemporal Arrays: Raster and Vector Datacubes",
+          "description": "Spatiotemporal Arrays, Raster and Vector Data Cube",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-20T14:56:02Z",
+            "owner": "r-spatial",
+            "repo": "stars",
+            "stars": 611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rnoaa",
+          "description": "R interface to many NOAA data APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-02-04T14:23:39Z",
+            "owner": "ropensci",
+            "repo": "rnoaa",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "getSpatialData",
+          "description": "An package making it easy to query, preview, download and preprocess multiple kinds of spatial data docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-07-10T15:43:49Z",
+            "owner": "16EAGLE",
+            "repo": "getSpatialData",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whiteboxR",
+          "description": "An R frontend of the advanced geospatial data analysis platform - whitebox-tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-10-21T00:26:06Z",
+            "owner": "opengeos",
+            "repo": "whiteboxR",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GDAL Cubes",
+          "description": "Earth Observation Data Cubes from Satellite Image Collections. Also here on github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-29T09:39:22Z",
+            "owner": "appelmar",
+            "repo": "gdalcubes",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ForestTools",
+          "description": "Detect and segment individual tree from remotely sensed data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-24T21:05:20Z",
+            "owner": "andrew-plowright",
+            "repo": "ForestTools",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MODISTools",
+          "description": "Interface to the MODIS Land Products Subsets Web Services Docs",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "R",
+            "last_commit": "2024-11-08T07:27:24Z",
+            "owner": "ropensci-archive",
+            "repo": "MODISTools",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "landsatlinkr",
+          "description": "An automated system for creating spectrally consistent and cloud-free Landsat image time series stacks from a combination of MSS, TM, ETM+, and OLI sensors project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-08-20T05:36:05Z",
+            "owner": "jdbcode",
+            "repo": "LandsatLinkr",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RGISTools",
+          "description": "Tools for Downloading, Customizing, and Processing Time Series of Satellite Images from Landsat, MODIS, and Sentinel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-02-09T17:48:51Z",
+            "owner": "spatialstatisticsupna",
+            "repo": "RGISTools",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "planetR",
+          "description": "(early development) R tools to search, activate and download satellite imagery from the Planet API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-01-17T16:44:09Z",
+            "owner": "bevingtona",
+            "repo": "planetR",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "planetR",
+          "description": "tools to search, activate and download satellite imagery from the Planet API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-01-17T16:44:09Z",
+            "owner": "bevingtona",
+            "repo": "planetR",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rerddap",
+          "description": "client for working with ERDDAP servers docs reference the ERDDAP Server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-08T23:49:39Z",
+            "owner": "ropensci",
+            "repo": "rerddap",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tree_segmentation",
+          "description": "LiDAR tree segmentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2020-01-26T05:54:30Z",
+            "owner": "redfoxgis",
+            "repo": "tree_segmentation",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rHarmonics",
+          "description": "package for harmonic modelling of time-series data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2020-08-21T12:46:43Z",
+            "owner": "MBalthasar",
+            "repo": "rHarmonics",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cognition-datasources",
+          "description": "Standardized query interface for searching geospatial assets via STAC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-25T22:31:33Z",
+            "owner": "geospatial-jeff",
+            "repo": "cognition-datasources",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caliver",
+          "description": "caliver: CALIbration and VERification of gridded fire danger models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-02-21T17:56:21Z",
+            "owner": "ecmwf",
+            "repo": "caliver",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Landsat_land_surface_temperature",
+          "description": "Estimate land surface temperature using Landsat satellite imagery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-11-03T14:05:28Z",
+            "owner": "alyssakullberg",
+            "repo": "Landsat_land_surface_temperature",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UAV-InvasiveSpp",
+          "description": "Mapping invasive tree species in Chile using UAV",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-02-13T20:22:31Z",
+            "owner": "JavierLopatin",
+            "repo": "UAV-InvasiveSpp",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spatial_Data_in_R",
+          "description": "SWIRL-course on spatial data in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-03-27T11:35:49Z",
+            "owner": "joheisig",
+            "repo": "Spatial_Data_in_R",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grassland-Species-Classification",
+          "description": "Codes for: Javier Lopatin, Fabian E. Fassnacht, Teja Kattenborn, Sebastian Schmidtlein. Mapping plant species in mixed grassland communities using close range imaging spectroscopy. Remote Sensing of Environment 201, 12-23.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2018-04-05T07:11:36Z",
+            "owner": "JavierLopatin",
+            "repo": "Grassland-Species-Classification",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Living England Project",
+          "description": "Sharing workflows created by the Living England project, Natural England. Predominantly in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-27T10:39:11Z",
+            "owner": "naturalengland",
+            "repo": "Living_England",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peatland-carbon-stock",
+          "description": "Codes for: Lopatin, J., et al. (2019). Using aboveground vegetation attributes as proxies for mapping peatland belowground carbon stocks. Remote Sens. Environ. 231, 111217",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-06-10T18:41:32Z",
+            "owner": "JavierLopatin",
+            "repo": "Peatland-carbon-stock",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpeciesRichness-GLMvsRF-LiDAR",
+          "description": "-codes for: Lopatin, J., Dolos, K., Hernández, J., Galleguillos, M., Fassnacht, F. E. (2016): Comparing Generalized Linear Models and random forest to model vascular plant species richness using LiDAR data in a natural forest in central Chile. Remote Sensing of Environment 173, pp. 200–210. 10.1016/j.rse.2015.11.029",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-01-04T13:16:06Z",
+            "owner": "JavierLopatin",
+            "repo": "SpeciesRichness-GLMvsRF-LiDAR",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clip_time_series",
+          "description": "create snippets of Landsat and Sentinel imagery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2017-08-10T10:59:27Z",
+            "owner": "lecrabe",
+            "repo": "clip_time_series",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swdt",
+          "description": "Sentinel-1 Water Dynamics Toolkit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2018-11-06T20:08:01Z",
+            "owner": "be-marc",
+            "repo": "swdt",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Resources for"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PDAL",
+          "description": "PDAL is Point Data Abstraction Library. GDAL for point cloud data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T16:01:59Z",
+            "owner": "PDAL",
+            "repo": "PDAL",
+            "stars": 1403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Worldview",
+          "description": "Interactive interface for browsing global, full-resolution satellite imagery application here",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T20:26:01Z",
+            "owner": "nasa-gibs",
+            "repo": "worldview",
+            "stars": 1261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EO Browser Custom Scripts",
+          "description": "A repository of custom scripts to be used with Sentinel Hub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T12:47:30Z",
+            "owner": "sentinel-hub",
+            "repo": "custom-scripts",
+            "stars": 700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stac-browser",
+          "description": "A Vue-based STAC browser intended for static + dynamic deployment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T14:56:46Z",
+            "owner": "radiantearth",
+            "repo": "stac-browser",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Global Forest Watch",
+          "description": "Global Forest Watch: An online, global, near-real time forest monitoring tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T14:13:11Z",
+            "owner": "wri",
+            "repo": "gfw",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GDAL with GoLang",
+          "description": "(golang) wrapper for GDAL, the Geospatial Data Abstraction Library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-31T20:29:39Z",
+            "owner": "lukeroth",
+            "repo": "gdal",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s1tbx",
+          "description": "The Sentinel-1 Toolbox -",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2024-08-07T08:40:45Z",
+            "owner": "senbox-org",
+            "repo": "s1tbx",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snap_engine",
+          "description": "ESA Earth Observation Toolbox and Development Platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T15:36:28Z",
+            "owner": "senbox-org",
+            "repo": "snap-engine",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "force",
+          "description": "Framework for Operational Radiometric Correction for Environmental monitoring in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-12T07:58:42Z",
+            "owner": "davidfrantz",
+            "repo": "force",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSGLib",
+          "description": "The remote sensing and GIS software library (RSGISLib) is a set of libraries and commands for the processing of spatial data (raster and vector). Functionality is via interface though",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-18T10:56:53Z",
+            "owner": "remotesensinginfo",
+            "repo": "rsgislib",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iris",
+          "description": "Semi-automatic tool for manual segmentation of multi-spectral and geo-spatial imagery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T13:26:26Z",
+            "owner": "ESA-PhiLab",
+            "repo": "iris",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArchGDAL - Julia",
+          "description": "A high level API for GDAL - Geospatial Data Abstract",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-08-13T14:55:38Z",
+            "owner": "yeesian",
+            "repo": "ArchGDAL.jl",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++ gdalcubes",
+          "description": "Earth observation data cubes from GDAL image collections",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-29T09:39:22Z",
+            "owner": "appelmar",
+            "repo": "gdalcubes",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s2tbx",
+          "description": "Sentinel 2 Toolbox (s2tbx) -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-04-17T09:46:56Z",
+            "owner": "senbox-org",
+            "repo": "s2tbx",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Julia_Geospatial",
+          "description": "Examples for a blog series on Geospatial using ArchGDAL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-12-19T10:36:15Z",
+            "owner": "acgeospatial",
+            "repo": "Julia_Geospatial",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "resto",
+          "description": "A metadata catalog and search engine for geospatialized data Stac!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-31T13:58:33Z",
+            "owner": "jjrom",
+            "repo": "resto",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sentinelhub-js",
+          "description": "Download and process satellite imagery in or using Sentinel Hub services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-18T11:30:46Z",
+            "owner": "sentinel-hub",
+            "repo": "sentinelhub-js",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "staccato",
+          "description": "implementation of the STAC spec",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-07-05T20:43:05Z",
+            "owner": "planetlabs",
+            "repo": "staccato",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "landsat_preprocess",
+          "description": "IPython notebook documenting a workflow for preprocessing Landsat data",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2014-09-15T17:57:32Z",
+            "owner": "ceholden",
+            "repo": "landsat_preprocess",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3tbx",
+          "description": "A toolbox for the OLCI and SLSTR instruments on board of ESA's Sentinel-3 satellite -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-04-17T09:46:54Z",
+            "owner": "senbox-org",
+            "repo": "s3tbx",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fmask",
+          "description": "The software called Fmask (Function of mask) is used for automated clouds, cloud shadows, and snow masking for Landsats 4-8 and Sentinel 2 images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T17:51:43Z",
+            "owner": "GERSL",
+            "repo": "Fmask",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stac-mode-validator",
+          "description": "Simple proof-of-concept to validate STAC Items, Catalogs, Collections and core extensions with node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-18T02:33:21Z",
+            "owner": "moregeo-it",
+            "repo": "stac-node-validator",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiffhax",
+          "description": "tiff metadata hex viewer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-06-18T15:32:59Z",
+            "owner": "emilyselwood",
+            "repo": "tiffhax",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stac4s",
+          "description": "a library with primitives to build applications using the SpatioTemporal Asset Catalogs specification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-07-19T00:19:32Z",
+            "owner": "stac-utils",
+            "repo": "stac4s",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiforearth-landcover-app",
+          "description": "web mapping app to test, tweak and train the land cover classification from a deep neural network model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-24T16:52:10Z",
+            "owner": "vannizhang",
+            "repo": "aiforearth-landcover-app",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLR-landTrendr",
+          "description": "Landsat-based Detection of Trends in Disturbance and Recovery algorimth modified to accept LandsatLinkr-processed imagery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "IDL",
+            "last_commit": "2016-07-20T22:52:47Z",
+            "owner": "jdbcode",
+            "repo": "LLR-LandTrendr",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "conda recipes",
+          "description": "Conda recipes for remote sensing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-04-07T10:46:39Z",
+            "owner": "yannforget",
+            "repo": "conda-recipes",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Landsat-solar-elevation",
+          "description": "A web app that plots annual solar elevation at the time of Landsat overpass for locations throughout the earth",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-09T00:27:36Z",
+            "owner": "jdbcode",
+            "repo": "landsat-solar-elevation",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "GeoTrellis homepage",
+          "description": "GeoTrellis is a geographic data processing engine for high performance applications.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GeoTrellis on Github - Scala",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Scala",
+                "last_commit": "2026-08-11T09:43:55Z",
+                "owner": "locationtech",
+                "repo": "geotrellis",
+                "stars": 1371
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Languages other than and"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Geo Tutorial V2",
+          "description": "Tutorial of fundamental remote sensing and GIS methodologies using open source software in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-05-24T20:17:06Z",
+            "owner": "patrickcgray",
+            "repo": "open-geo-tutorial",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Geo Tutorial V1",
+          "description": "Tutorial of basic remote sensing and GIS methodologies using open source software (GDAL in or )",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-08-10T03:31:17Z",
+            "owner": "ceholden",
+            "repo": "open-geo-tutorial",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyGIS",
+          "description": "pyGIS is an online textbook covering all the core geospatial functionality available in . This includes handling vector and raster data, satellite remote sensing, machine learning and deep learning applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-23T14:03:59Z",
+            "owner": "mmann1123",
+            "repo": "pyGIS",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Earth Data Lab",
+          "description": "A site dedicated to tutorials, course and other learning materials and resources developed by the Earth Lab team",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-07-21T18:30:04Z",
+            "owner": "earthlab",
+            "repo": "earthlab.github.io",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sentinel",
+          "description": "Repository created for the Earth Observation Sentinel project (use with SNAP)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-06-12T10:43:15Z",
+            "owner": "techforspace",
+            "repo": "sentinel",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "profLewis-geog0111",
+          "description": "UCL Geography: 4th year course, Scientific Computing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-06-08T16:43:54Z",
+            "owner": "profLewis",
+            "repo": "geog0111_OLD",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "training-workshop",
+          "description": "This repo contains all materials used on Planet's training workshop for Bahrain Defense Force",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-24T18:05:58Z",
+            "owner": "planetlabs",
+            "repo": "training-workshop",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foss4gUKJupyter",
+          "description": "FOSS4G UK 2019 Workshop \"Geoprocessing with Jupyter Notebooks\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-08-01T12:29:16Z",
+            "owner": "samfranklin",
+            "repo": "foss4guk19-jupyter",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "EO College Github",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tomography_tutorial",
+              "description": "A tutorial for Synthetic Aperture Radar Tomography",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-03-27T15:07:15Z",
+                "owner": "EO-College",
+                "repo": "tomography_tutorial",
+                "stars": 131
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Andrew Cutts Github",
+          "description": "I am an Earth Observation and Geospatial enthusiast, primarily using to automate and process images at scale using computer vision",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Satellite Imagery Python",
+              "description": "Sample sample scripts and notebooks on processing satellite imagery",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-05-03T19:12:27Z",
+                "owner": "acgeospatial",
+                "repo": "Satellite_Imagery_Python",
+                "stars": 206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Geospatial Python Programming Course",
+              "description": "This is an collection of blog posts turned into a course format",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-01-03T18:39:51Z",
+                "owner": "acgeospatial",
+                "repo": "Geospatial_Python_CourseV1",
+                "stars": 87
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Training and learning"
+    },
+    {
+      "description": "Robin Cole on satellite imagery and deep learning resources - Resources for deep learning with satellite & aerial imagery. This is the best place to go for this topic I've removed 95% of the associated links from awesome-eo-code as it is just a repetition.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-satellite-imagery-datasets",
+          "description": "List of satellite image training datasets with annotations for computer vision and deep learning.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-07-14T18:02:46Z",
+            "owner": "chrieke",
+            "repo": "awesome-satellite-imagery-datasets",
+            "stars": 3915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Vector",
+          "description": "A curated list of resources focused on Machine Learning in Geospatial Data Science.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-06-21T20:04:07Z",
+            "owner": "deepVector",
+            "repo": "geospatial-machine-learning",
+            "stars": 705
+          }
+        }
+      ],
+      "title": "Curated lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GDAL Cheat Sheet",
+          "description": "Cheat sheet for GDAL/OGR command-line tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-13T09:13:32Z",
+            "owner": "dwtkns",
+            "repo": "gdal-cheat-sheet",
+            "stars": 1222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "loam",
+          "description": "wrapper for GDAL in the browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-09T17:18:22Z",
+            "owner": "azavea",
+            "repo": "loam",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mrf",
+          "description": "GDAL-compatible file format driver designed for fast access to imagery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-07T19:51:09Z",
+            "owner": "nasa-gibs",
+            "repo": "mrf",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docker-base-gdal",
+          "description": "A base docker image for geospatial applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2022-12-23T23:19:46Z",
+            "owner": "perrygeo",
+            "repo": "docker-gdal-base",
+            "stars": 60
+          }
+        }
+      ],
+      "title": "GDAL of course"
+    },
+    {
+      "description": "& &\nBest to start here Awesome_GEE - A curated list of Google Earth Engine resources.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GEE Map",
+          "description": "A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T01:12:46Z",
+            "owner": "gee-community",
+            "repo": "geemap",
+            "stars": 4011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Earth Engine API",
+          "description": "and bindings for calling the Earth Engine API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T22:58:54Z",
+            "owner": "google",
+            "repo": "earthengine-api",
+            "stars": 3386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python GEE notebooks",
+          "description": "A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-03-16T15:05:05Z",
+            "owner": "giswqs",
+            "repo": "earthengine-py-notebooks",
+            "stars": 1552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rgee",
+          "description": "Google Earth Engine for docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-10T03:40:10Z",
+            "owner": "r-spatial",
+            "repo": "rgee",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crop_yield_prediction",
+          "description": "Crop Yield Prediction with Deep Learning with GEE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-27T09:09:30Z",
+            "owner": "JiaxuanYou",
+            "repo": "crop_yield_prediction",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ee-palettes",
+          "description": "A set of common color palettes for Google Earth Engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-09-23T22:04:23Z",
+            "owner": "gee-community",
+            "repo": "ee-palettes",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geetools",
+          "description": "A set of tools to use in Google Earth Engine Code Editor docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-02T23:06:19Z",
+            "owner": "fitoprincipe",
+            "repo": "geetools-code-editor",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EEwPython",
+          "description": "A series of Jupyter notebook to learn Google Earth Engine with",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-23T16:05:23Z",
+            "owner": "csaybar",
+            "repo": "EEwPython",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gee-up",
+          "description": "Simple CLI for Google Earth Engine Uploads docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-31T23:01:03Z",
+            "owner": "samapriya",
+            "repo": "geeup",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geeguide",
+          "description": "Harmonization of Landsat and Sentinel 2 in Google Earth Engine, documentation and scripts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-06-29T08:25:38Z",
+            "owner": "ndminhhus",
+            "repo": "geeguide",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ee-jupyter-examples",
+          "description": "Example Jupyter Notebooks, including ones that use the Earth Engine API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-03-31T22:05:46Z",
+            "owner": "tylere",
+            "repo": "ee-jupyter-examples",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geebap",
+          "description": "Best Available Pixel (BAP) composite in Google Earth Engine (GEE) using the API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-30T14:03:15Z",
+            "owner": "fitoprincipe",
+            "repo": "geebap",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gee_asset_manager",
+          "description": "Google Earth Engine Asset Manager with Addons docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-06T03:35:42Z",
+            "owner": "samapriya",
+            "repo": "gee_asset_manager_addon",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ee-tensorflow-notebooks",
+          "description": "Repository to place example notebooks for Deep Learning applications with TensorFlow and Earth Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-04-01T21:53:38Z",
+            "owner": "gee-community",
+            "repo": "ee-tensorflow-notebooks",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Best Available Pixel",
+          "description": "Best Available Pixel calculation using Google Earth Engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-23T08:02:46Z",
+            "owner": "saveriofrancini",
+            "repo": "bap",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "radiometric-slope-correction",
+          "description": "Radiometric Slope Correction of Sentinel-1 data on Google Earth Engine",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-09T10:31:50Z",
+            "owner": "ESA-PhiLab",
+            "repo": "radiometric-slope-correction",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Planet-GEE_Pipeline",
+          "description": "Planet and Google Earth Engine Pipeline Command Line Interface Tool docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-12T20:56:00Z",
+            "owner": "samapriya",
+            "repo": "Planet-GEE-Pipeline-CLI",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoogleEarthEngine-side-projects",
+          "description": "Google Earth Engine side projects and tutorial scripts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-12-27T14:08:13Z",
+            "owner": "chrieke",
+            "repo": "GoogleEarthEngine-side-projects",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "global-river-ice-dataset-from-landsat",
+          "description": "(Google Earth Engine), (Google Earth Engine) and code to extract river ice condition from Landsat satellites, to develop empirical model, and to predict future changes in river ice",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-30T20:36:57Z",
+            "owner": "seanyx",
+            "repo": "global-river-ice-dataset-from-Landsat",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEE code archive",
+          "description": "Unsorted archived Earth Engine scripts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-03T12:23:21Z",
+            "owner": "gena",
+            "repo": "ee-code-editor-archive",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HMS-Smoke",
+          "description": "HMS Smoke Explorer: To visualize NOAA's Hazard Mapping System (HMS) smoke product",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-06T13:01:48Z",
+            "owner": "tianjialiu",
+            "repo": "HMS-Smoke",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ecuador_SEPAL",
+          "description": "processing script for Sentinel-2 and Landsat-8",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-26T17:20:00Z",
+            "owner": "sig-gis",
+            "repo": "Ecuador_SEPAL",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoogleEarthEngine",
+          "description": "forestry related work",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-18T20:19:41Z",
+            "owner": "evan-delancey",
+            "repo": "GoogleEarthEngine",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remote-sensing-resistance",
+          "description": "Does heterogeneity in forest structure make a forest resistant to wildfire?",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-08T21:25:07Z",
+            "owner": "mikoontz",
+            "repo": "remote-sensing-resistance",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jupyterlab-ee",
+          "description": "Experiments related to getting JupyterLab and Earth Engine to work together.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-11-21T23:31:18Z",
+            "owner": "tylere",
+            "repo": "jupyterlab-ee",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloud frequency app",
+          "description": "CloudFrequency webapp, using Google App Engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-29T20:21:36Z",
+            "owner": "robintw",
+            "repo": "CloudFrequencyApp",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Building_Identification_Damage_Assessment",
+          "description": "Building Extraction and Damage Assessment from High Resolution Multi-spectral Images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-09-21T07:24:47Z",
+            "owner": "yuhhuang",
+            "repo": "Building_Identification_Damage_Assessment",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geecrop",
+          "description": "Earth Engine-based crop information",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-05-14T08:28:13Z",
+            "owner": "profLewis",
+            "repo": "geecrop",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEE_Functions",
+          "description": "A set of functions to work in Google Engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-06-19T08:14:38Z",
+            "owner": "JavierLopatin",
+            "repo": "GEE_Functions",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fire_Pattern_Analysis_CONUS",
+          "description": "Analysis of fire patterns and drivers in CONUS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-09-21T06:25:50Z",
+            "owner": "yuhhuang",
+            "repo": "Fire_Pattern_Analysis_CONUS",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ox_gee_tutorial",
+          "description": "Oxford MSc Introduction to Hydrological Applications in Google Earth Engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-11-15T15:02:10Z",
+            "owner": "tommylees112",
+            "repo": "ox_gee_tutorial",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EE-Examples",
+          "description": "some (old?) example scripts from Noel Gorelick - lead author Google Earth Engine: Planetary-scale geospatial analysis for everyone",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-02-07T14:55:50Z",
+            "owner": "gorelick",
+            "repo": "EE-Examples",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Earth Engine Repos",
+          "description": "all the repos matching",
+          "children": []
+        }
+      ],
+      "title": "Earth Engine"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Digital Earth Australia Notebooks",
+          "description": "Repository for Jupyter Notebooks, tools and workflows for continental-scale earth observation/geospatial analysis with Open Data Cube and",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-17T04:00:33Z",
+            "owner": "GeoscienceAustralia",
+            "repo": "dea-notebooks",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geocube",
+          "description": "Tool to convert geopandas vector data into rasterized xarray data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T19:22:48Z",
+            "owner": "corteva",
+            "repo": "geocube",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digital Earth Africa Sandbox Notebooks",
+          "description": "Extra documentation about using ODC with Jupyter Notebooks with DE Africa-specific examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-07T01:23:45Z",
+            "owner": "digitalearthafrica",
+            "repo": "deafrica-sandbox-notebooks",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ODC STAC",
+          "description": "A stand-alone Python library that allows the loading of STAC Items into an ODC-compatible Xarray",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T04:13:00Z",
+            "owner": "opendatacube",
+            "repo": "odc-stac",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "odc-tools",
+          "description": "ODC features that DEA is experimenting with or prototyping with the intention of being integrated into odc-core in the future",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:19:04Z",
+            "owner": "opendatacube",
+            "repo": "odc-tools",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "datacube-explorer",
+          "description": "Web-based exploration of Open Data Cube collections",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T23:06:39Z",
+            "owner": "opendatacube",
+            "repo": "datacube-explorer",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dea-coastlines",
+          "description": "Extracting tidally-constrained annual shorelines and robust rates of coastal change from freely available Earth observation data at continental scale",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-24T06:34:12Z",
+            "owner": "GeoscienceAustralia",
+            "repo": "dea-coastlines",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "data_cube_notebooks",
+          "description": "Jupyter Notebook examples for our Data Cube capable algorithms and functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-06T21:03:58Z",
+            "owner": "ceos-seo",
+            "repo": "data_cube_notebooks",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openeo_odc_driver",
+          "description": "OpenEO processing engine written in based on OpenDataCube, and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-08T12:21:24Z",
+            "owner": "Open-EO",
+            "repo": "openeo_odc_driver",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "odc-sh",
+          "description": "Sentinel Hub plugin for Open data cube",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-05-31T18:26:37Z",
+            "owner": "sentinel-hub",
+            "repo": "odc-sh",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Opendatacube",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datacube Core",
+              "description": "Open Data Cube analyses continental scale Earth Observation data through time",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-13T01:44:37Z",
+                "owner": "opendatacube",
+                "repo": "datacube-core",
+                "stars": 586
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datacube OWS",
+              "description": "Open web services for the Open Data Cube. Supports WMS, WMTS and WCS for any dataset indexed into the ODC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-11T07:15:00Z",
+                "owner": "opendatacube",
+                "repo": "datacube-ows",
+                "stars": 85
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Open Data Cube"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google Earth Engine Python examples",
+          "description": "Various examples for Google Earth Engine in using Jupyter Notebook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-08T11:52:24Z",
+            "owner": "renelikestacos",
+            "repo": "Google-Earth-Engine-Python-Examples",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stackstac",
+          "description": "Turn a STAC catalog into a dask-based xarray",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-10T04:34:02Z",
+            "owner": "gjoseph92",
+            "repo": "stackstac",
+            "stars": 270
+          }
+        }
+      ],
+      "title": "Other Datacube-related Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mircosoft PlanetaryComputer",
+          "description": "Issues, discussions, and information about the Microsoft Planetary Computer",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PlanetaryComputerExamples",
+              "description": "Examples of using the Planetary Computer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-26T18:46:19Z",
+                "owner": "microsoft",
+                "repo": "PlanetaryComputerExamples",
+                "stars": 453
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "planetary-computer-apis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-11T02:26:46Z",
+                "owner": "microsoft",
+                "repo": "planetary-computer-apis",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sdk-python",
+              "description": "Planetary Computer SDK for",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-05-28T04:27:25Z",
+                "owner": "microsoft",
+                "repo": "planetary-computer-sdk-for-python",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PlanetaryComputerDataCatalog",
+              "description": "Data catalog for the Microsoft Planetary Computer website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-06-26T19:11:04Z",
+                "owner": "microsoft",
+                "repo": "PlanetaryComputerDataCatalog",
+                "stars": 45
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-19T16:44:45Z",
+            "owner": "microsoft",
+            "repo": "PlanetaryComputer",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentinel2 on planetary computer",
+          "description": "notebook explores Sentinel-2 data on Microsoft's Planetary Computer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-06T17:40:54Z",
+            "owner": "Element84",
+            "repo": "geo-notebooks",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hottest panchayats kerala",
+          "description": "Figuring out what the hottest villages in Kerala are with the help of Microsoft's Planetary Computer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-24T14:37:05Z",
+            "owner": "shijithpk",
+            "repo": "hottest-panchayats-kerala",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "planetary-computer-deep-dives",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-11-16T15:47:23Z",
+            "owner": "TomAugspurger",
+            "repo": "planetary-computer-deep-dives",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gmv planetary computer S2 alerts",
+          "description": "Repo with the code producing the GMW alerts using the Microsoft Planetary Computer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-18T16:16:13Z",
+            "owner": "globalmangrovewatch",
+            "repo": "gmw_planetary_computer_s2_alerts",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "satio-pc",
+          "description": "Compute Sentinel features on Planetary Computer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-11T15:32:31Z",
+            "owner": "dzanaga",
+            "repo": "satio-pc",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Planetary Computer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "grass-dev-py3-pdal",
+          "description": "Dockerfile which compiles GRASS GIS 7.9 master with Python 3 and PDAL suppor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T21:55:39Z",
+            "owner": "OSGeo",
+            "repo": "grass",
+            "stars": 1153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qgis Earth Engine Plugin",
+          "description": "Integrates Google Earth Engine and QGIS using Python API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:10:45Z",
+            "owner": "gee-community",
+            "repo": "qgis-earthengine-plugin",
+            "stars": 513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NASA Earthdata QGIS Plugin",
+          "description": "A QGIS plugin for searching and visualizing NASA Earthdata",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T20:28:56Z",
+            "owner": "opengeos",
+            "repo": "qgis-nasa-earthdata-plugin",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TSTools - archived",
+          "description": "QGIS2 plugin tools for remote sensing timeseries",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-04-13T18:49:13Z",
+            "owner": "ceholden",
+            "repo": "TSTools",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qgis-plugin-planet",
+          "description": "Browse, filter, preview and download Planet Inc imagery in QGIS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-03T00:06:04Z",
+            "owner": "planetlabs",
+            "repo": "qgis-planet-plugin",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "QGIS and Grass"
+    },
+    {
+      "description": "These are resources. Please see R resources for info on R",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MetPy",
+          "description": "MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aqua-monitor",
+              "description": "Monitoring surface water changes from space at global scale. Also checkout the app",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2025-04-08T09:08:04Z",
+                "owner": "Deltares",
+                "repo": "aqua-monitor",
+                "stars": 60
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:53:23Z",
+            "owner": "Unidata",
+            "repo": "MetPy",
+            "stars": 1435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Climate data science",
+          "description": "Climate Data Science and Earth Observation with",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-10-10T19:31:32Z",
+            "owner": "willyhagi",
+            "repo": "climate-data-science",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eumetsat -python",
+          "description": "Shows how to read and plot satellite data from EUMETSAT NETCDF files",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-09-24T11:22:58Z",
+            "owner": "guidocioni",
+            "repo": "eumetsat-python",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3 tools",
+          "description": "A collection of sentinel 3 processing tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-06T14:32:56Z",
+            "owner": "maximlamare",
+            "repo": "s3_tools",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eumetsat",
+          "description": "Tools for downloading and processing satellite images from EUMETSAT",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-10-22T14:19:44Z",
+            "owner": "openclimatefix-archives",
+            "repo": "eumetsat",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ocean Color - Modis",
+          "description": "introduction to accessing and plotting ocean color satellite data from MODIS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-12-13T19:46:33Z",
+            "owner": "JackieVeatch",
+            "repo": "ocean_color",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coda_eumetsat",
+          "description": "Coda Eumetsat (coda.eumetsat.int) client for downloading data",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-06-11T14:20:31Z",
+            "owner": "nicolaerosca",
+            "repo": "coda_eumetsat",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COST-EUMETSAT-Training",
+          "description": "Material, data and presentations for the COST-EUMETSAT training school",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-02-08T14:24:19Z",
+            "owner": "gher-uliege",
+            "repo": "COST-EUMETSAT-Training",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Climate and weather based resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tin Terrain",
+          "description": "A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-03-08T09:05:58Z",
+            "owner": "heremaps",
+            "repo": "tin-terrain",
+            "stars": 612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DEM.net",
+          "description": "Digital Elevation model library in C#. 3D terrain models, line/point Elevations, intervisibility reports. Docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-18T19:02:30Z",
+            "owner": "dem-net",
+            "repo": "DEM.Net",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TauDEM",
+          "description": "Terrain Analysis Using Digital Elevation Models (TauDEM) software for hydrologic terrain analysis and channel network extraction. Docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-24T03:14:06Z",
+            "owner": "dtarb",
+            "repo": "TauDEM",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stereo Mapping to create Elevation with Python",
+          "description": "Satellite Stereo Pipeline",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-17T14:20:08Z",
+            "owner": "centreborelli",
+            "repo": "s2p",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dsm2dtm",
+          "description": "Python library for converting Digital Surface Models (DSMs) to Digital Terrain Models (DTMs).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-10T13:16:33Z",
+            "owner": "seedlit",
+            "repo": "dsm2dtm",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSM2DTM",
+          "description": "Code for the paper - Comparison of Digital Building Height Models Extracted from AW3D, TanDEM-X, ASTER, and SRTM Digital Surface Models over Yangon City",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-04-23T04:29:44Z",
+            "owner": "mprakhar",
+            "repo": "DSM2DTM",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "DEM projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyroSAR",
+          "description": "framework for large-scale SAR satellite data processing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T15:50:51Z",
+            "owner": "johntruckenbrodt",
+            "repo": "pyroSAR",
+            "stars": 610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sarsen",
+          "description": "Algorithms and utilities for Synthetic Aperture Radar (SAR) sensors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T16:43:36Z",
+            "owner": "bopen",
+            "repo": "sarsen",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RITSAR",
+          "description": "Synthetic Aperture Radar (SAR) Image Processing Toolbox for",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-24T17:44:43Z",
+            "owner": "dm6718",
+            "repo": "RITSAR",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpeSARToolkit",
+          "description": "High-level functionality for the inventory, download and pre-processing of Sentinel-1 data in the language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T11:00:59Z",
+            "owner": "ESA-PhiLab",
+            "repo": "OpenSarToolkit",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyRAT",
+          "description": "General purpose Synthetic Aperture Radar (SAR) postprocessing software package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-16T15:20:10Z",
+            "owner": "birgander2",
+            "repo": "PyRAT",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spacenet6 - SAR buildings",
+          "description": "The winning solutions for the SpaceNet 6 Challenge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-12-04T00:15:22Z",
+            "owner": "SpaceNetChallenge",
+            "repo": "SpaceNet_SAR_Buildings_Solutions",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sarbian",
+          "description": "a plug’n play Operation System (based on Debian Linux) with all the freely and openly available SAR processing software",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-09-04T13:33:49Z",
+            "owner": "EO-College",
+            "repo": "sarbian",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sentineldenoised",
+          "description": "Thermal noise subtraction, scalloping correction, angular correction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-04T11:53:29Z",
+            "owner": "nansencenter",
+            "repo": "sentinel1denoised",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sea_ice_drift",
+          "description": "Sea ice drift from Sentinel-1 SAR imagery using open source feature tracking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-24T07:50:40Z",
+            "owner": "nansencenter",
+            "repo": "sea_ice_drift",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Step by step: Radar-based flood mapping with Python",
+          "description": "and github link - This repository contains a Jupyter Notebook for automatic flood extent mapping using space-based information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-21T13:08:57Z",
+            "owner": "UN-SPIDER",
+            "repo": "radar-based-flood-mapping",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S1_NRB",
+          "description": "A prototype processor for the Sentinel-1 Normalised Radar Backscatter product.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-21T09:58:05Z",
+            "owner": "SAR-ARD",
+            "repo": "s1ard",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STAC Sentinel1",
+          "description": "stactools package for working with sentinel1 data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-13T20:20:33Z",
+            "owner": "stactools-packages",
+            "repo": "sentinel1",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAR docker",
+          "description": "Source files for Docker image mort/sardocker/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2016-12-16T11:04:48Z",
+            "owner": "mortcanty",
+            "repo": "SARDocker",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S1_ARD",
+          "description": "repository for testing analysis-readiness of Sentinel-1 RTC backscatter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-01-18T10:08:04Z",
+            "owner": "johntruckenbrodt",
+            "repo": "S1_ARD",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PySAR",
+          "description": "PyAR is a perpetually incomplete, general-purpose toolbox for common post-processing tasks involving synthetic aperture radar (SAR).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-12-22T20:37:12Z",
+            "owner": "bminchew",
+            "repo": "PySAR",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "infrastructure",
+          "description": "Mapping and monitoring of infrastructure in desert regions with Sentinel-1",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-09T10:08:15Z",
+            "owner": "ESA-PhiLab",
+            "repo": "infrastructure",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sentinel1-opds",
+          "description": "sentinel1-opds ingestion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-04T10:18:25Z",
+            "owner": "earthobservatory",
+            "repo": "sentinel1-opds",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s1prepro",
+          "description": "Automated pre-processing of Sentinel 1 (satellite radar imagery)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-05-29T00:18:11Z",
+            "owner": "benjimin",
+            "repo": "s1prepro",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sentinel1-Biodiversity",
+          "description": "Code, example dataset, and instructions of Sentinel-1 data pre-processing and pixel-based summary statistics used in \"Radar vision for mapping forest biodiversity from space\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2021-09-15T13:57:44Z",
+            "owner": "So-YeonBae",
+            "repo": "Sentinel1-Biodiversity",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome SAR",
+          "description": "A curated list of awesome Synthetic Aperture Radar (SAR) software, libraries, and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-07-11T17:15:16Z",
+            "owner": "lveci",
+            "repo": "awesome-sar",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rice_sentinel1",
+          "description": "classify rice from sentinel 1 data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-23T04:34:36Z",
+            "owner": "AndrewPham9",
+            "repo": "rice_sentinel1",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OST_Notebook",
+          "description": "The notebooks within this repository provide getting started tutorials for the use of the Open SAR Toolkit, found here in the ESA-philab github channel.",
+          "children": []
+        }
+      ],
+      "title": "SAR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lidar",
+          "description": "Terrain and hydrological analysis based on LiDAR-derived digital elevation models (DEM)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-25T20:31:17Z",
+            "owner": "opengeos",
+            "repo": "lidar",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IcePyx",
+          "description": "Python tools for obtaining and working with ICESat-2 data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T01:03:04Z",
+            "owner": "icesat2py",
+            "repo": "icepyx",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "usgs-lidar",
+          "description": "AWS Entwine Point Tiles USGS LiDAR Public Dataset GitHub repo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T16:14:05Z",
+            "owner": "hobuinc",
+            "repo": "usgs-lidar",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICESAT tools",
+          "description": "Tools and code for Icesat-2 data analysis (Python)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-26T14:04:11Z",
+            "owner": "icesat-2UT",
+            "repo": "PhoREAL",
+            "stars": 103
+          }
+        }
+      ],
+      "title": "LiDAR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rGEDI",
+          "description": "rGEDI: An R Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) Data Visualization and Processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-03-27T00:50:54Z",
+            "owner": "carlos-alberto-silva",
+            "repo": "rGEDI",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gedi-tutorials",
+          "description": "GEDI L3 and L4 Tutorials",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-07-23T14:46:26Z",
+            "owner": "ornldaac",
+            "repo": "gedi_tutorials",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyGEDI",
+          "description": "pyGEDI is a Python Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) mission, data extraction, analysis, processing and visualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-07-17T18:48:43Z",
+            "owner": "EduinHSERNA",
+            "repo": "pyGEDI",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pysl4land",
+          "description": "tools to process spaceborne lidar (GEDI and ICESAT2) for land (pySL4Land) applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-23T21:37:04Z",
+            "owner": "remotesensinginfo",
+            "repo": "pysl4land",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "q_research",
+          "description": "For processing of ICESat GLAS, GEDI and ICESat-2 LiDAR data, to derive q parameter for canopy height to density relationship",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-04T10:05:31Z",
+            "owner": "HeatherKmtb",
+            "repo": "q_research",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gedi",
+          "description": "tutorial to process and handle LiDAR GIDE datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-08-19T17:32:05Z",
+            "owner": "rodolfolotte",
+            "repo": "gedi",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEDI_Yucatan",
+          "description": "Supplementary material for the study: Space Lidar for Archaeology? Reanalyzing GEDI Data for Detection of Ancient Maya Buildings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2021-01-08T08:31:40Z",
+            "owner": "JohMast",
+            "repo": "GEDI_Yucatan",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sprnca_gedi",
+          "description": "WIP to map Foliage Height Diversity along the San Pedro Riparian Corridor with NASA's GEDI Lidar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-04-12T06:45:59Z",
+            "owner": "rbavery",
+            "repo": "sprnca_gedi",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "GEDI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MintPy",
+          "description": "Miami InSAR time-series software in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T00:58:37Z",
+            "owner": "insarlab",
+            "repo": "MintPy",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "isce2",
+          "description": "InSAR Scientific Computing Environment version 2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T19:42:59Z",
+            "owner": "isce-framework",
+            "repo": "isce2",
+            "stars": 659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiCSBAS",
+          "description": "LiCSBAS package to carry out InSAR time series analysis using LiCSAR products",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-29T12:12:27Z",
+            "owner": "yumorishita",
+            "repo": "LiCSBAS",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyRate",
+          "description": "A Python tool for estimating velocity and time-series from Interferometric Synthetic Aperture Radar (InSAR) data.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-07-06T22:21:20Z",
+            "owner": "GeoscienceAustralia",
+            "repo": "PyRate",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ISCE",
+          "description": "InSAR Scientific Computing Environment version 3 alpha",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T00:25:18Z",
+            "owner": "isce-framework",
+            "repo": "isce3",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snap2stamps",
+          "description": "Using SNAP as InSAR processor for StaMPS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-13T12:41:02Z",
+            "owner": "mdelgadoblasco",
+            "repo": "snap2stamps",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARIRA-tools",
+          "description": "Tools for exploiting ARIA standard products",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T02:29:44Z",
+            "owner": "aria-tools",
+            "repo": "ARIA-tools",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InSARFlow",
+          "description": "Parallel InSAR processing for Time-series analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-25T18:15:45Z",
+            "owner": "levuvietphong",
+            "repo": "InSARFlow",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROI_PAC-Sentinel1",
+          "description": "InSAR processing of Sentinel-1 using ROI_PAC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-12-17T21:08:37Z",
+            "owner": "RaphaelGrandin",
+            "repo": "ROI_PAC-Sentinel1",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "insar_scripts",
+          "description": "Useful scripts for working with roipac data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2014-08-29T20:02:01Z",
+            "owner": "scottyhq",
+            "repo": "insar_scripts",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ISCE_utils",
+          "description": "Small utility scripts for working with InSAR Scientific Computing Environment (ISCE) products",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-09T01:13:16Z",
+            "owner": "EJFielding",
+            "repo": "ISCE_utils",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "InSAR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Greppo",
+          "description": "Python framework for building geospatial web-applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-07T01:24:11Z",
+            "owner": "greppo-io",
+            "repo": "greppo",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tree height and canopy cover map in 3D",
+          "description": "Use Kepler.gl to visualise 3D and 2D data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-04-19T13:05:51Z",
+            "owner": "nkeikon",
+            "repo": "GEDI-experiment",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video map",
+          "description": "Tools to create, , export and share video maps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-26T20:59:47Z",
+            "owner": "openearth",
+            "repo": "videomap",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Visualisation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "challenges 2020",
+          "description": "ECMWF Summer of Weather Code 2020 challenges",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-03T12:15:01Z",
+            "owner": "ECMWFCode4Earth",
+            "repo": "challenges_2020",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "challenges 2021",
+          "description": "ECMWF Summer of Weather Code 2021 challenges",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-16T04:12:29Z",
+            "owner": "ECMWFCode4Earth",
+            "repo": "challenges_2021",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drivendataorg - cloud-cover-winners",
+          "description": "Code from the winning submissions for the On Cloud N: Cloud Cover Detection Challenge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-24T20:49:09Z",
+            "owner": "drivendataorg",
+            "repo": "cloud-cover-winners",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AtmosHack2018",
+          "description": "Contains information and resources for Copernicus Hackathon 2018 in Helsinki",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-11-14T14:15:38Z",
+            "owner": "wekeo",
+            "repo": "AtmosHack2018",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "crowdAI misisng maps challenge",
+          "description": "Building Missing Maps with Machine Learning",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "openAI solution",
+              "description": "Open solution to the Mapping Challenge",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-03-22T06:21:47Z",
+                "owner": "neptune-ai",
+                "repo": "open-solution-mapping-challenge",
+                "stars": 387
+              }
+            }
+          ]
+        }
+      ],
+      "title": "EO code Competitions"
+    },
+    {
+      "description": "Please do explore these accounts, there are some absolutely brilliant projects on these accounts. This was previously a section containing examples, but these are better grouped into the other headings and repitition of links removed. However I feel its very important to highlight individuals wherever possible, ordered by github account name.\n| Chis Holden | Christoph Rieke | gena | jgomezdans - blog | Johntruckhenbrodt | Marcus Netler | Oliverhagolle | PerryGeo | giswqs - Qiusheng Wu | rhammell | Remote pixel | robintw | Evan Roualt | samapriya | shakasom | yannforget | Pete Bunting | Vincent Sarago |",
+      "items": [],
+      "title": "Great Github accounts"
+    },
+    {
+      "description": "Github accounts only with examples of work. This section used to contain examples of work, these have been now regrouped into other sections to make them easier to find.\n| development seed | mapbox | Planet Labs, now just Planet | Digital Globe - now Maxar | Azavea | Radiant Earth foundation | Sentinel Hub | PyTroll | CosmiQ | Theia software and tools | sparkgeo | Geoscience Australia | Dymaxion Labs | Satellogic | senbox-org | Nasa-gibs | mundialis | ESA_PhiLab | Element 84",
+      "items": [],
+      "title": "EO Geospatial companies or orgs making big contributions"
+    },
+    {
+      "description": "This bit could potentially become the most valuable resource. Lets not ignore other sectors/industries/data science, instead lets embrace it and learn from all that other amazing stuff! This my prelude to saying we are earth data scientists",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deep learning with Python notebooks",
+          "description": "Jupyter notebooks for the code samples of the book \"Deep Learning with Python\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-18T05:12:40Z",
+            "owner": "fchollet",
+            "repo": "deep-learning-with-python-notebooks",
+            "stars": 20232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Semantic Segmentation",
+          "description": "awesome-semantic-segmentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-08T13:40:11Z",
+            "owner": "mrgloom",
+            "repo": "awesome-semantic-segmentation",
+            "stars": 10850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Change your Jupyter Theme",
+          "description": "Custom Jupyter Notebook Themes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-06-22T15:37:46Z",
+            "owner": "dunovank",
+            "repo": "jupyter-themes",
+            "stars": 9820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "introduction to ml with Python",
+          "description": "Notebooks and code for the book \"Introduction to Machine Learning with \"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-14T02:46:03Z",
+            "owner": "amueller",
+            "repo": "introduction_to_ml_with_python",
+            "stars": 8146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xarray",
+          "description": "N-D labeled arrays and datasets in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:43:00Z",
+            "owner": "pydata",
+            "repo": "xarray",
+            "stars": 4188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dtreeviz",
+          "description": "A library for decision tree visualization and model interpretation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-02T18:39:55Z",
+            "owner": "parrt",
+            "repo": "dtreeviz",
+            "stars": 3154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "realtime covid19 graphs in USA",
+          "description": "A collection of work related to COVID-19",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-09-22T13:46:23Z",
+            "owner": "k-sys",
+            "repo": "covid-19",
+            "stars": 1361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TernausNet - used in DSTL kaggle competition (came 3rd)",
+          "description": "UNet model with VGG11 encoder pre-trained on Kaggle Carvana dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-26T02:20:58Z",
+            "owner": "ternaus",
+            "repo": "TernausNet",
+            "stars": 1063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoStats, Resources",
+          "description": "Geostatistics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-27T17:35:14Z",
+            "owner": "GeostatsGuy",
+            "repo": "Resources",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Introduction to Python for computational science",
+          "description": "Book: Introduction to Python for Computational Science and Engineering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-14T10:30:17Z",
+            "owner": "fangohr",
+            "repo": "introduction-to-python-for-computational-science-and-engineering",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python_tips",
+          "description": "Some Python tips for beginner to intermediate users. Also used as a personal cheat sheet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-08-24T03:19:30Z",
+            "owner": "gpetepg",
+            "repo": "python_tips",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GDSL-UL/Teaching_Links",
+          "description": "In this repo we have aimed to provide links to useful teaching resources for teaching Geographic / Spatial Data Science, GIS and Statistics. (perhaps misplaced in this list?)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-19T10:23:37Z",
+            "owner": "GDSL-UL",
+            "repo": "Teaching_Links",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Classification-Algorithm",
+          "description": "Classification algorithm workshop for WiMLDS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-11-22T04:49:13Z",
+            "owner": "usmanr149",
+            "repo": "Classification-Algorithm",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Interesting Non EO parts Python"
+    },
+    {
+      "description": "There are many awesome lists relating to 'Geo'. I use that term as widely as possible. This list is not meant to replace these lists. Earth Observation is still way behind the GIS world in terms of audience, reach, number of users etc. Things are changing though, by bringing these links together I hope you can see that there has been so much progress in the last 5 years. I do hope these links are helpful espcially to those who are new to Earth Observation, but also to people like me who with several years of experience think they may have seen it all - we haven't and there is still so much to learn. Earth Observation is not just an academic 'thing' or a basemap anymore, it forms the basis for a growing and diverse business environment. Lets embrace this.\nFinally, I wanted to acknowledge a couple of awesome Earth Observation lists that you may list to check out:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-Geospatial",
+          "description": "Long list of geospatial tools and resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T12:00:01Z",
+            "owner": "sacridini",
+            "repo": "Awesome-Geospatial",
+            "stars": 5246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-remote-sensing-change-detection",
+          "description": "List of datasets, codes, and contests related to remote sensing change detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-16T14:44:49Z",
+            "owner": "wenhwu",
+            "repo": "awesome-remote-sensing-change-detection",
+            "stars": 2300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Geospatial Companies",
+          "description": "List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T02:14:59Z",
+            "owner": "chrieke",
+            "repo": "awesome-geospatial-companies",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Sentinel",
+          "description": "curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-20T08:03:22Z",
+            "owner": "kr-stn",
+            "repo": "awesome-sentinel",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-remote-sensing",
+          "description": "Collection of Remote Sensing Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-18T16:06:11Z",
+            "owner": "attibalazs",
+            "repo": "awesome-remote-sensing",
+            "stars": 114
+          }
+        }
+      ],
+      "title": "A footnote on awesome"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution 1.0 International License.\n",
+      "items": [],
+      "title": "End"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:13:31.296Z",
+    "original_repository": "acgeospatial/awesome-earthobservation-code",
+    "original_repository_sha": "ff6f976fb813144e7dcbedf9ae27e14fab5a37fb",
+    "enhanced_repository": "enhansome/enhansome-earthobservation-code",
+    "enhanced_repository_description": null,
+    "title": "Awesome-EarthObservation-Code with stars"
+  }
+}
