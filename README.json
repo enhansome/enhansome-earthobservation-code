@@ -63,7 +63,7 @@
             "last_commit": "2024-10-02T09:22:49Z",
             "owner": "sentinelsat",
             "repo": "sentinelsat",
-            "stars": 1019
+            "stars": 1020
           }
         },
         {
@@ -374,7 +374,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T09:42:00Z",
+            "last_commit": "2026-08-14T14:31:27Z",
             "owner": "xcube-dev",
             "repo": "xcube",
             "stars": 230
@@ -1624,10 +1624,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T16:02:43Z",
+            "last_commit": "2026-08-14T00:46:50Z",
             "owner": "rasterio",
             "repo": "rasterio",
-            "stars": 2558
+            "stars": 2560
           }
         },
         {
@@ -1778,7 +1778,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-10T01:27:26Z",
+            "last_commit": "2026-08-14T05:39:05Z",
             "owner": "EOPF-Explorer",
             "repo": "titiler-eopf",
             "stars": 18
@@ -1812,7 +1812,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-07-18T12:07:51Z",
+            "last_commit": "2026-08-14T13:46:58Z",
             "owner": "r-lidar",
             "repo": "lidR",
             "stars": 703
@@ -2182,7 +2182,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T16:01:59Z",
+            "last_commit": "2026-08-14T15:54:16Z",
             "owner": "PDAL",
             "repo": "PDAL",
             "stars": 1403
@@ -2196,7 +2196,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T20:26:01Z",
+            "last_commit": "2026-08-14T15:58:28Z",
             "owner": "nasa-gibs",
             "repo": "worldview",
             "stars": 1261
@@ -2224,24 +2224,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T14:56:46Z",
+            "last_commit": "2026-08-14T15:48:59Z",
             "owner": "radiantearth",
             "repo": "stac-browser",
             "stars": 409
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Global Forest Watch",
-          "description": "Global Forest Watch: An online, global, near-real time forest monitoring tool",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-13T14:13:11Z",
-            "owner": "wri",
-            "repo": "gfw",
-            "stars": 319
           }
         },
         {
@@ -2255,7 +2241,21 @@
             "last_commit": "2026-05-31T20:29:39Z",
             "owner": "lukeroth",
             "repo": "gdal",
-            "stars": 318
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Global Forest Watch",
+          "description": "Global Forest Watch: An online, global, near-real time forest monitoring tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-14T14:29:55Z",
+            "owner": "wri",
+            "repo": "gfw",
+            "stars": 319
           }
         },
         {
@@ -2269,7 +2269,7 @@
             "last_commit": "2024-08-07T08:40:45Z",
             "owner": "senbox-org",
             "repo": "s1tbx",
-            "stars": 239
+            "stars": 240
           }
         },
         {
@@ -2325,7 +2325,7 @@
             "last_commit": "2026-02-06T13:26:26Z",
             "owner": "ESA-PhiLab",
             "repo": "iris",
-            "stars": 165
+            "stars": 166
           }
         },
         {
@@ -2604,7 +2604,7 @@
             "last_commit": "2022-05-24T20:17:06Z",
             "owner": "patrickcgray",
             "repo": "open-geo-tutorial",
-            "stars": 333
+            "stars": 334
           }
         },
         {
@@ -2721,7 +2721,7 @@
                 "last_commit": "2023-03-27T15:07:15Z",
                 "owner": "EO-College",
                 "repo": "tomography_tutorial",
-                "stars": 131
+                "stars": 132
               }
             }
           ]
@@ -2874,7 +2874,7 @@
             "last_commit": "2026-08-12T01:12:46Z",
             "owner": "gee-community",
             "repo": "geemap",
-            "stars": 4011
+            "stars": 4013
           }
         },
         {
@@ -2888,7 +2888,7 @@
             "last_commit": "2026-08-10T22:58:54Z",
             "owner": "google",
             "repo": "earthengine-api",
-            "stars": 3386
+            "stars": 3387
           }
         },
         {
@@ -2902,7 +2902,7 @@
             "last_commit": "2021-03-16T15:05:05Z",
             "owner": "giswqs",
             "repo": "earthengine-py-notebooks",
-            "stars": 1552
+            "stars": 1553
           }
         },
         {
@@ -3693,10 +3693,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-11T21:55:39Z",
+            "last_commit": "2026-08-13T17:59:48Z",
             "owner": "OSGeo",
             "repo": "grass",
-            "stars": 1153
+            "stars": 1154
           }
         },
         {
@@ -3707,7 +3707,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:10:45Z",
+            "last_commit": "2026-08-14T14:12:09Z",
             "owner": "gee-community",
             "repo": "qgis-earthengine-plugin",
             "stars": 513
@@ -3995,7 +3995,7 @@
             "last_commit": "2026-08-11T15:50:51Z",
             "owner": "johntruckenbrodt",
             "repo": "pyroSAR",
-            "stars": 610
+            "stars": 611
           }
         },
         {
@@ -4326,7 +4326,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T16:14:05Z",
+            "last_commit": "2026-08-13T16:13:59Z",
             "owner": "hobuinc",
             "repo": "usgs-lidar",
             "stars": 172
@@ -4481,7 +4481,7 @@
             "last_commit": "2026-08-11T00:58:37Z",
             "owner": "insarlab",
             "repo": "MintPy",
-            "stars": 823
+            "stars": 824
           }
         },
         {
@@ -4534,7 +4534,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T00:25:18Z",
+            "last_commit": "2026-08-13T23:13:08Z",
             "owner": "isce-framework",
             "repo": "isce3",
             "stars": 228
@@ -4782,7 +4782,7 @@
             "last_commit": "2025-09-18T05:12:40Z",
             "owner": "fchollet",
             "repo": "deep-learning-with-python-notebooks",
-            "stars": 20232
+            "stars": 20235
           }
         },
         {
@@ -4810,7 +4810,7 @@
             "last_commit": "2025-06-22T15:37:46Z",
             "owner": "dunovank",
             "repo": "jupyter-themes",
-            "stars": 9820
+            "stars": 9819
           }
         },
         {
@@ -4824,7 +4824,7 @@
             "last_commit": "2024-03-14T02:46:03Z",
             "owner": "amueller",
             "repo": "introduction_to_ml_with_python",
-            "stars": 8146
+            "stars": 8144
           }
         },
         {
@@ -4835,10 +4835,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T14:43:00Z",
+            "last_commit": "2026-08-14T14:30:15Z",
             "owner": "pydata",
             "repo": "xarray",
-            "stars": 4188
+            "stars": 4189
           }
         },
         {
@@ -4998,7 +4998,7 @@
             "last_commit": "2026-07-09T02:14:59Z",
             "owner": "chrieke",
             "repo": "awesome-geospatial-companies",
-            "stars": 880
+            "stars": 883
           }
         },
         {
@@ -5012,7 +5012,7 @@
             "last_commit": "2025-02-20T08:03:22Z",
             "owner": "kr-stn",
             "repo": "awesome-sentinel",
-            "stars": 581
+            "stars": 582
           }
         },
         {
@@ -5039,7 +5039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:13:31.296Z",
+    "last_updated": "2026-08-14T16:09:18.120Z",
     "original_repository": "acgeospatial/awesome-earthobservation-code",
     "original_repository_sha": "ff6f976fb813144e7dcbedf9ae27e14fab5a37fb",
     "enhanced_repository": "enhansome/enhansome-earthobservation-code",
