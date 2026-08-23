@@ -270,7 +270,7 @@
                 "last_commit": "2026-08-04T17:47:38Z",
                 "owner": "fatiando",
                 "repo": "verde",
-                "stars": 665
+                "stars": 666
               }
             },
             {
@@ -1146,7 +1146,7 @@
                     "archived": false,
                     "id": 194306692,
                     "language": "Python",
-                    "last_commit": "2026-08-20T08:32:11Z",
+                    "last_commit": "2026-08-22T21:46:04Z",
                     "owner": "developmentseed",
                     "repo": "titiler",
                     "stars": 1148
@@ -1438,7 +1438,7 @@
                 "last_commit": "2026-03-10T10:53:30Z",
                 "owner": "sentinel-hub",
                 "repo": "sentinelhub-py",
-                "stars": 909
+                "stars": 910
               }
             },
             {
@@ -1707,7 +1707,7 @@
                 "last_commit": "2026-08-20T16:02:25Z",
                 "owner": "rasterio",
                 "repo": "rasterio",
-                "stars": 2563
+                "stars": 2564
               }
             },
             {
@@ -1928,7 +1928,7 @@
             "last_commit": "2026-08-20T18:27:16Z",
             "owner": "r-spatial",
             "repo": "stars",
-            "stars": 612
+            "stars": 611
           }
         },
         {
@@ -2351,7 +2351,7 @@
             "archived": false,
             "id": 132832921,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T10:50:01Z",
+            "last_commit": "2026-08-22T21:27:24Z",
             "owner": "radiantearth",
             "repo": "stac-browser",
             "stars": 409
@@ -3066,7 +3066,7 @@
             "last_commit": "2026-08-18T21:51:24Z",
             "owner": "google",
             "repo": "earthengine-api",
-            "stars": 3393
+            "stars": 3397
           }
         },
         {
@@ -3081,7 +3081,7 @@
             "last_commit": "2021-03-16T15:05:05Z",
             "owner": "giswqs",
             "repo": "earthengine-py-notebooks",
-            "stars": 1553
+            "stars": 1554
           }
         },
         {
@@ -3920,7 +3920,7 @@
             "archived": false,
             "id": 187247007,
             "language": "C",
-            "last_commit": "2026-08-21T19:54:39Z",
+            "last_commit": "2026-08-23T11:16:10Z",
             "owner": "OSGeo",
             "repo": "grass",
             "stars": 1154
@@ -4020,7 +4020,7 @@
             "last_commit": "2026-08-17T20:18:42Z",
             "owner": "Unidata",
             "repo": "MetPy",
-            "stars": 1436
+            "stars": 1437
           }
         },
         {
@@ -4578,7 +4578,7 @@
             "last_commit": "2026-08-17T00:43:03Z",
             "owner": "icesat2py",
             "repo": "icepyx",
-            "stars": 257
+            "stars": 258
           }
         },
         {
@@ -4590,7 +4590,7 @@
             "archived": false,
             "id": 166285655,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T16:06:00Z",
+            "last_commit": "2026-08-22T16:01:36Z",
             "owner": "hobuinc",
             "repo": "usgs-lidar",
             "stars": 172
@@ -5111,7 +5111,7 @@
             "last_commit": "2024-03-14T02:46:03Z",
             "owner": "amueller",
             "repo": "introduction_to_ml_with_python",
-            "stars": 8152
+            "stars": 8155
           }
         },
         {
@@ -5126,7 +5126,7 @@
             "last_commit": "2026-08-19T20:48:32Z",
             "owner": "pydata",
             "repo": "xarray",
-            "stars": 4189
+            "stars": 4190
           }
         },
         {
@@ -5267,7 +5267,7 @@
             "last_commit": "2026-08-20T12:40:36Z",
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5267
+            "stars": 5268
           }
         },
         {
@@ -5282,7 +5282,7 @@
             "last_commit": "2026-04-16T14:44:49Z",
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2305
+            "stars": 2306
           }
         },
         {
@@ -5297,7 +5297,7 @@
             "last_commit": "2026-07-09T02:14:59Z",
             "owner": "chrieke",
             "repo": "awesome-geospatial-companies",
-            "stars": 886
+            "stars": 887
           }
         },
         {
@@ -5335,7 +5335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:39:58.031Z",
+    "last_updated": "2026-08-23T15:41:26.080Z",
     "original_repository": "acgeospatial/awesome-earthobservation-code",
     "original_repository_id": 255615540,
     "original_repository_sha": "ff6f976fb813144e7dcbedf9ae27e14fab5a37fb",
