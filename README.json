@@ -408,7 +408,7 @@
                 "archived": false,
                 "id": 130693090,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:36:51Z",
+                "last_commit": "2026-08-24T14:33:14Z",
                 "owner": "xcube-dev",
                 "repo": "xcube",
                 "stars": 230
@@ -723,7 +723,7 @@
                 "archived": false,
                 "id": 140029056,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:27:23Z",
+                "last_commit": "2026-08-24T14:28:14Z",
                 "owner": "johntruckenbrodt",
                 "repo": "spatialist",
                 "stars": 32
@@ -1218,7 +1218,7 @@
                         "archived": false,
                         "id": 109979598,
                         "language": "Python",
-                        "last_commit": "2026-08-10T15:55:56Z",
+                        "last_commit": "2026-08-24T14:13:05Z",
                         "owner": "stac-utils",
                         "repo": "pystac",
                         "stars": 455
@@ -1710,7 +1710,7 @@
                     "last_commit": "2026-08-24T08:13:33Z",
                     "owner": "developmentseed",
                     "repo": "titiler",
-                    "stars": 1148
+                    "stars": 1149
                   }
                 },
                 {
@@ -1999,7 +1999,7 @@
                 "last_commit": "2026-03-10T10:53:30Z",
                 "owner": "sentinel-hub",
                 "repo": "sentinelhub-py",
-                "stars": 910
+                "stars": 911
               }
             },
             {
@@ -2280,7 +2280,7 @@
                 "archived": false,
                 "id": 51397392,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:18:00Z",
+                "last_commit": "2026-08-24T14:34:16Z",
                 "owner": "pytroll",
                 "repo": "satpy",
                 "stars": 1204
@@ -2885,7 +2885,7 @@
             "last_commit": "2026-08-21T16:27:25Z",
             "owner": "nasa-gibs",
             "repo": "worldview",
-            "stars": 1311
+            "stars": 1326
           }
         },
         {
@@ -2912,7 +2912,7 @@
             "archived": false,
             "id": 132832921,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T13:51:00Z",
+            "last_commit": "2026-08-24T14:40:25Z",
             "owner": "radiantearth",
             "repo": "stac-browser",
             "stars": 410
@@ -4652,7 +4652,7 @@
             "archived": false,
             "id": 1409621,
             "language": "Python",
-            "last_commit": "2026-08-17T20:18:42Z",
+            "last_commit": "2026-08-24T14:15:50Z",
             "owner": "Unidata",
             "repo": "MetPy",
             "stars": 1438
@@ -6012,7 +6012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:09.251Z",
+    "last_updated": "2026-08-24T15:59:24.120Z",
     "original_repository": "acgeospatial/awesome-earthobservation-code",
     "original_repository_id": 255615540,
     "original_repository_sha": "ff6f976fb813144e7dcbedf9ae27e14fab5a37fb",
