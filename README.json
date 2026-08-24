@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "description": "If you are not familiar with Earth Observation then these links may help set context before you start using data. I didn't initially aim at including links like these but if you are not familiar with Earth Observation then some good resources to get you going may help prior to diving into code.\nYou may also wish to navigate a search of the terms and to get the latest list of topics that have these terms in their headers\nTwo excellent videos (approx 20mins) about\nI Couldn't Find a Video Explaining Satellite Images, So I Made One\nHow Radar Satellites See through Clouds (Synthetic Aperture Radar Explained)\nNot sure the best place for data catalogs is but this is a good start if that interests you Data Catalogs",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mapping Data Sources",
+          "description": "Aggregating sources of mapping data An AI version",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1019764414,
+            "language": "HTML",
+            "last_commit": "2025-10-21T19:49:04Z",
+            "owner": "kevinbullock",
+            "repo": "Mapping-data",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Earth Observation Introduction"
+    },
+    {
       "description": "remotesening.info warrents its own section, the vast array of tools and processing software is incredible RemoteSensing - Short tutorials and reference to useful software tools for the acquisition and processing of remote sensed Earth Observation data",
       "items": [
         {
@@ -387,7 +408,7 @@
                 "archived": false,
                 "id": 130693090,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:52:12Z",
+                "last_commit": "2026-08-24T13:36:51Z",
                 "owner": "xcube-dev",
                 "repo": "xcube",
                 "stars": 230
@@ -702,7 +723,7 @@
                 "archived": false,
                 "id": 140029056,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:39:15Z",
+                "last_commit": "2026-08-24T13:27:23Z",
                 "owner": "johntruckenbrodt",
                 "repo": "spatialist",
                 "stars": 32
@@ -1138,6 +1159,546 @@
             {
               "children": [
                 {
+                  "node_type": "group",
+                  "title": "stac-utils",
+                  "description": "Tools for working with SpatioTemporal Asset Catalogs (STAC) (perhaps worth going here first for STAC)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "STAC Spec",
+                      "description": "SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 90879565,
+                        "language": "JavaScript",
+                        "last_commit": "2026-08-17T10:14:09Z",
+                        "owner": "radiantearth",
+                        "repo": "stac-spec",
+                        "stars": 919
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "pystac",
+                      "description": "library for working with any SpatioTemporal Asset Catalog (STAC)",
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "pystac-client",
+                          "description": "client for STAC Catalogs and APIs",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 343990519,
+                            "language": "Python",
+                            "last_commit": "2026-08-24T06:13:19Z",
+                            "owner": "stac-utils",
+                            "repo": "pystac-client",
+                            "stars": 207
+                          }
+                        },
+                        {
+                          "node_type": "item",
+                          "title": "stactools",
+                          "description": "Command line utility and library for STAC",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 288851778,
+                            "language": "Python",
+                            "last_commit": "2024-12-23T12:31:06Z",
+                            "owner": "stac-utils",
+                            "repo": "stactools",
+                            "stars": 113
+                          }
+                        }
+                      ],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 109979598,
+                        "language": "Python",
+                        "last_commit": "2026-08-10T15:55:56Z",
+                        "owner": "stac-utils",
+                        "repo": "pystac",
+                        "stars": 455
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-fastapi",
+                      "description": "STAC API implementation with FastAPI.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 272869556,
+                        "language": "Python",
+                        "last_commit": "2026-08-19T00:17:44Z",
+                        "owner": "stac-utils",
+                        "repo": "stac-fastapi",
+                        "stars": 321
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stackstac",
+                      "description": "Turn a list of STAC items into a 4D xarray DataArray",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 345004760,
+                        "language": "Python",
+                        "last_commit": "2024-08-10T04:34:02Z",
+                        "owner": "gjoseph92",
+                        "repo": "stackstac",
+                        "stars": 270
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "pgstac",
+                      "description": "Schema, functions and a library for storing and accessing STAC collections and items in",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 346072794,
+                        "language": "PLpgSQL",
+                        "last_commit": "2026-08-10T16:26:39Z",
+                        "owner": "stac-utils",
+                        "repo": "pgstac",
+                        "stars": 221
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "pgstac",
+                      "description": "Schema, functions and a python library for storing and accessing STAC collections and items in PostgreSQL",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 346072794,
+                        "language": "PLpgSQL",
+                        "last_commit": "2026-08-10T16:26:39Z",
+                        "owner": "stac-utils",
+                        "repo": "pgstac",
+                        "stars": 221
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "pystac-client",
+                      "description": "client for searching STAC APIs",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 343990519,
+                        "language": "Python",
+                        "last_commit": "2026-08-24T06:13:19Z",
+                        "owner": "stac-utils",
+                        "repo": "pystac-client",
+                        "stars": 207
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-geoparquet",
+                      "description": "Convert STAC items to geoparquet.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 498892414,
+                        "language": "Python",
+                        "last_commit": "2026-08-19T02:18:31Z",
+                        "owner": "stac-utils",
+                        "repo": "stac-geoparquet",
+                        "stars": 148
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-rs",
+                      "description": "implementation of the SpatioTemporal Asset Catalog (STAC) specification",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 352722524,
+                        "language": "Rust",
+                        "last_commit": "2026-08-18T13:15:20Z",
+                        "owner": "stac-utils",
+                        "repo": "rustac",
+                        "stars": 144
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-rs",
+                      "description": "Tools and libraries for the SpatioTemporal Asset Catalog (STAC) specification, written in",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 352722524,
+                        "language": "Rust",
+                        "last_commit": "2026-08-18T13:15:20Z",
+                        "owner": "stac-utils",
+                        "repo": "rustac",
+                        "stars": 144
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "titiler-pgstac",
+                      "description": "TiTiler + PgSTAC",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 387833023,
+                        "language": "Python",
+                        "last_commit": "2026-08-24T05:34:59Z",
+                        "owner": "stac-utils",
+                        "repo": "titiler-pgstac",
+                        "stars": 130
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-fastapi-pgstac",
+                      "description": "PostgreSQL backend for stac-fastapi using pgstac",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 518665236,
+                        "language": "Python",
+                        "last_commit": "2026-08-18T04:33:18Z",
+                        "owner": "stac-utils",
+                        "repo": "stac-fastapi-pgstac",
+                        "stars": 111
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-server",
+                      "description": "A Node-based STAC API, AWS Serverless, OpenSearch",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 226420934,
+                        "language": "TypeScript",
+                        "last_commit": "2026-08-19T12:45:25Z",
+                        "owner": "stac-utils",
+                        "repo": "stac-server",
+                        "stars": 102
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "qgis-stac-plugin",
+                      "description": "QGIS plugin for reading STAC APIs",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 424241270,
+                        "language": "Python",
+                        "last_commit": "2024-07-30T12:37:25Z",
+                        "owner": "stac-utils",
+                        "repo": "qgis-stac-plugin",
+                        "stars": 86
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-pydantic",
+                      "description": "Pydantic data models for the STAC spec",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 246169093,
+                        "language": "Python",
+                        "last_commit": "2026-08-17T09:44:47Z",
+                        "owner": "stac-utils",
+                        "repo": "stac-pydantic",
+                        "stars": 83
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "elastic search",
+                      "description": "Elasticsearch backend for stac-fastapi with Opensearch support.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 453523036,
+                        "language": "Python",
+                        "last_commit": "2026-08-23T14:06:24Z",
+                        "owner": "stac-utils",
+                        "repo": "stac-fastapi-elasticsearch-opensearch",
+                        "stars": 77
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "easystac",
+                      "description": "A package for simple STAC queries",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 449917421,
+                        "language": "Python",
+                        "last_commit": "2022-08-07T10:48:19Z",
+                        "owner": "cloudsen12",
+                        "repo": "easystac",
+                        "stars": 68
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-validator",
+                      "description": "Validator for the stac-spec",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 144780846,
+                        "language": "Python",
+                        "last_commit": "2026-08-05T14:04:15Z",
+                        "owner": "StacLabs",
+                        "repo": "stac-validator",
+                        "stars": 62
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-layer",
+                      "description": "Visualize a STAC Item or Collection on a Leaflet Map",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 382864305,
+                        "language": "HTML",
+                        "last_commit": "2023-10-14T19:56:17Z",
+                        "owner": "stac-utils",
+                        "repo": "stac-layer",
+                        "stars": 53
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-asset",
+                      "description": "Read and download STAC Assets, using a variety of authentication schemes",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 644565166,
+                        "language": "Python",
+                        "last_commit": "2026-08-17T11:14:35Z",
+                        "owner": "stac-utils",
+                        "repo": "stac-asset",
+                        "stars": 47
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "xpystac",
+                      "description": "For extending xarray.open_dataset to accept pystac objects",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 594216541,
+                        "language": "Python",
+                        "last_commit": "2025-11-28T14:15:23Z",
+                        "owner": "stac-utils",
+                        "repo": "xpystac",
+                        "stars": 45
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-nb",
+                      "description": "STAC in Jupyter Notebooks",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 412331352,
+                        "language": "Python",
+                        "last_commit": "2022-10-22T17:40:34Z",
+                        "owner": "darrenwiens",
+                        "repo": "stac-nb",
+                        "stars": 35
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-check",
+                      "description": "Linting and validation tool for STAC assets",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 417848015,
+                        "language": "Python",
+                        "last_commit": "2026-08-03T03:07:23Z",
+                        "owner": "stac-utils",
+                        "repo": "stac-check",
+                        "stars": 31
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-utils",
+                      "description": "Provides a class interface for running custom algorithms on STAC ItemCollections",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 523929556,
+                        "language": "Python",
+                        "last_commit": "2026-05-05T00:38:00Z",
+                        "owner": "stac-utils",
+                        "repo": "stac-task",
+                        "stars": 26
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-api-validator",
+                      "description": "A STAC API validation client",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 368986042,
+                        "language": "Python",
+                        "last_commit": "2026-06-22T12:02:43Z",
+                        "owner": "stac-utils",
+                        "repo": "stac-api-validator",
+                        "stars": 25
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-node-validator",
+                      "description": "Simple validator for STAC Items, Catalogs, and Collections. STAC 1.0.0 compliant!",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 269124205,
+                        "language": "JavaScript",
+                        "last_commit": "2026-08-22T10:50:02Z",
+                        "owner": "moregeo-it",
+                        "repo": "stac-node-validator",
+                        "stars": 21
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-terminal",
+                      "description": "Output info on STAC Items in the terminal",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 356764278,
+                        "language": "Python",
+                        "last_commit": "2023-10-31T22:46:25Z",
+                        "owner": "stac-utils",
+                        "repo": "stac-terminal",
+                        "stars": 19
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac4s",
+                      "description": "A library with primitives to build applications using the SpatioTemporal Asset Catalogs specification",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 223650564,
+                        "language": "Scala",
+                        "last_commit": "2026-07-19T00:19:32Z",
+                        "owner": "stac-utils",
+                        "repo": "stac4s",
+                        "stars": 17
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-fields",
+                      "description": "A minimal STAC library that contains a list of STAC fields with some metadata and helper functions for styling as HTML.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 332840055,
+                        "language": "JavaScript",
+                        "last_commit": "2026-08-04T22:37:52Z",
+                        "owner": "stac-utils",
+                        "repo": "stac-fields",
+                        "stars": 11
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-index",
+                      "description": "A service that lists all available and registered STAC catalogs and APIs.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 288968569,
+                        "language": "Vue",
+                        "last_commit": "2026-08-18T11:29:36Z",
+                        "owner": "moregeo-it",
+                        "repo": "stac-index",
+                        "stars": 10
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "pgstac-rs",
+                      "description": "interface to pgstac",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "id": 586295550,
+                        "language": "Rust",
+                        "last_commit": "2024-04-27T22:30:59Z",
+                        "owner": "stac-utils",
+                        "repo": "pgstac-rs",
+                        "stars": 9
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-table",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "id": 394302288,
+                        "language": "Python",
+                        "last_commit": "2024-02-26T04:53:25Z",
+                        "owner": "stac-utils",
+                        "repo": "stac-table",
+                        "stars": 6
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "stac-migrate",
+                      "description": "A tool to migrate Items, Catalogs and Collections from old versions to the most recent one.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 332839614,
+                        "language": "JavaScript",
+                        "last_commit": "2026-08-18T11:41:27Z",
+                        "owner": "stac-utils",
+                        "repo": "stac-migrate",
+                        "stars": 6
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "STAC"
+            },
+            {
+              "children": [
+                {
                   "node_type": "item",
                   "title": "titiler",
                   "description": "A modern dynamic tile server built on top of and .",
@@ -1146,7 +1707,7 @@
                     "archived": false,
                     "id": 194306692,
                     "language": "Python",
-                    "last_commit": "2026-08-22T21:46:04Z",
+                    "last_commit": "2026-08-24T08:13:33Z",
                     "owner": "developmentseed",
                     "repo": "titiler",
                     "stars": 1148
@@ -1704,7 +2265,7 @@
                 "archived": false,
                 "id": 14116604,
                 "language": "Python",
-                "last_commit": "2026-08-20T16:02:25Z",
+                "last_commit": "2026-08-23T23:10:43Z",
                 "owner": "rasterio",
                 "repo": "rasterio",
                 "stars": 2564
@@ -1782,7 +2343,7 @@
                 "last_commit": "2026-01-31T18:22:47Z",
                 "owner": "opengeos",
                 "repo": "whitebox-python",
-                "stars": 420
+                "stars": 421
               }
             },
             {
@@ -1869,7 +2430,7 @@
                 "archived": false,
                 "id": 1028457252,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T15:52:29Z",
+                "last_commit": "2026-08-24T12:34:03Z",
                 "owner": "EOPF-Explorer",
                 "repo": "titiler-eopf",
                 "stars": 18
@@ -2324,7 +2885,7 @@
             "last_commit": "2026-08-21T16:27:25Z",
             "owner": "nasa-gibs",
             "repo": "worldview",
-            "stars": 1267
+            "stars": 1311
           }
         },
         {
@@ -2351,10 +2912,10 @@
             "archived": false,
             "id": 132832921,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T21:27:24Z",
+            "last_commit": "2026-08-24T13:51:00Z",
             "owner": "radiantearth",
             "repo": "stac-browser",
-            "stars": 409
+            "stars": 410
           }
         },
         {
@@ -2411,7 +2972,7 @@
             "archived": false,
             "id": 21936951,
             "language": "Java",
-            "last_commit": "2026-08-20T13:21:13Z",
+            "last_commit": "2026-08-24T13:38:07Z",
             "owner": "senbox-org",
             "repo": "snap-engine",
             "stars": 212
@@ -2471,7 +3032,7 @@
             "archived": false,
             "id": 63650110,
             "language": "Julia",
-            "last_commit": "2026-08-21T08:15:13Z",
+            "last_commit": "2026-08-24T01:32:46Z",
             "owner": "yeesian",
             "repo": "ArchGDAL.jl",
             "stars": 150
@@ -2931,7 +3492,37 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Segment-geospatial",
+          "description": "A package for segmenting geospatial data with the Segment Anything Model (SAM). docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 629789089,
+            "language": "Python",
+            "last_commit": "2026-08-22T20:41:28Z",
+            "owner": "opengeos",
+            "repo": "segment-geospatial",
+            "stars": 4120
+          }
+        },
+        {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Robin Cole on satellite imagery and deep learning resources",
+              "description": "Resources for deep learning with satellite & aerial imagery. This is the best place to go for this topic I've removed 95% of the associated links from awesome-eo-code as it is just a repetition.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129712017,
+                "language": null,
+                "last_commit": "2026-08-02T12:18:31Z",
+                "owner": "satellite-image-deep-learning",
+                "repo": "techniques",
+                "stars": 10237
+              }
+            },
             {
               "node_type": "item",
               "title": "awesome-satellite-imagery-datasets",
@@ -2944,7 +3535,7 @@
                 "last_commit": "2022-07-14T18:02:46Z",
                 "owner": "chrieke",
                 "repo": "awesome-satellite-imagery-datasets",
-                "stars": 3916
+                "stars": 3915
               }
             },
             {
@@ -2959,13 +3550,57 @@
                 "last_commit": "2018-06-21T20:04:07Z",
                 "owner": "deepVector",
                 "repo": "geospatial-machine-learning",
-                "stars": 706
+                "stars": 707
               }
             }
           ],
-          "description": "Robin Cole on satellite imagery and deep learning resources - Resources for deep learning with satellite & aerial imagery. This is the best place to go for this topic I've removed 95% of the associated links from awesome-eo-code as it is just a repetition.",
+          "description": null,
           "node_type": "group",
           "title": "Curated lists"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "satellite-imagery-labeling-tool",
+              "description": "This is a lightweight web-interface for creating and sharing vector annotations over satellite/aerial imagery scenes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454892674,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-10-15T23:30:38Z",
+                "owner": "microsoft",
+                "repo": "satellite-imagery-labeling-tool",
+                "stars": 295
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Labelling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Earth-Copilot",
+              "description": "An AI powered geospatial application that allows you to explore and visualize Earth science data using natural language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1057383622,
+                "language": "Python",
+                "last_commit": "2026-08-11T18:12:10Z",
+                "owner": "microsoft",
+                "repo": "Planetary-Explorer",
+                "stars": 186
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI - LLM's - Copilots - GeoAI"
         }
       ],
       "title": "Deep learning and Machine Learning"
@@ -3093,7 +3728,7 @@
             "archived": false,
             "id": 205997187,
             "language": "R",
-            "last_commit": "2026-08-17T02:49:07Z",
+            "last_commit": "2026-08-24T02:52:20Z",
             "owner": "r-spatial",
             "repo": "rgee",
             "stars": 776
@@ -3704,7 +4339,7 @@
                 "archived": false,
                 "id": 87350554,
                 "language": "Python",
-                "last_commit": "2026-08-18T06:50:43Z",
+                "last_commit": "2026-08-24T07:31:44Z",
                 "owner": "opendatacube",
                 "repo": "datacube-ows",
                 "stars": 85
@@ -4020,7 +4655,7 @@
             "last_commit": "2026-08-17T20:18:42Z",
             "owner": "Unidata",
             "repo": "MetPy",
-            "stars": 1437
+            "stars": 1438
           }
         },
         {
@@ -4575,7 +5210,7 @@
             "archived": false,
             "id": 193000761,
             "language": "Python",
-            "last_commit": "2026-08-17T00:43:03Z",
+            "last_commit": "2026-08-24T00:43:57Z",
             "owner": "icesat2py",
             "repo": "icepyx",
             "stars": 258
@@ -4590,7 +5225,7 @@
             "archived": false,
             "id": 166285655,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T16:01:36Z",
+            "last_commit": "2026-08-23T16:01:31Z",
             "owner": "hobuinc",
             "repo": "usgs-lidar",
             "stars": 172
@@ -4753,7 +5388,7 @@
             "archived": false,
             "id": 23451558,
             "language": "Python",
-            "last_commit": "2026-08-18T01:41:30Z",
+            "last_commit": "2026-08-24T12:48:29Z",
             "owner": "insarlab",
             "repo": "MintPy",
             "stars": 827
@@ -5066,7 +5701,7 @@
             "last_commit": "2025-09-18T05:12:40Z",
             "owner": "fchollet",
             "repo": "deep-learning-with-python-notebooks",
-            "stars": 20240
+            "stars": 20241
           }
         },
         {
@@ -5111,7 +5746,7 @@
             "last_commit": "2024-03-14T02:46:03Z",
             "owner": "amueller",
             "repo": "introduction_to_ml_with_python",
-            "stars": 8155
+            "stars": 8156
           }
         },
         {
@@ -5123,7 +5758,7 @@
             "archived": false,
             "id": 13221727,
             "language": "Python",
-            "last_commit": "2026-08-19T20:48:32Z",
+            "last_commit": "2026-08-24T12:53:34Z",
             "owner": "pydata",
             "repo": "xarray",
             "stars": 4190
@@ -5253,6 +5888,48 @@
       "title": "Interesting Non EO parts Python"
     },
     {
+      "description": "This section is aimed more a data science/programming resources that 'might' be applicable to Earth Observation, that are not Python",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Efficient R programming",
+          "description": "This is the online version of the O’Reilly book: Efficient R programming. Code is here",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49441727,
+            "language": "TeX",
+            "last_commit": "2025-02-27T11:20:29Z",
+            "owner": "csgillespie",
+            "repo": "efficientR",
+            "stars": 738
+          }
+        }
+      ],
+      "title": "Interesting Non EO parts other languages"
+    },
+    {
+      "description": "I don't really want to add many data resources to this list as it creeps out of scope but this part contains some good data links [not necessarily EO]",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Environmental_Intelligence",
+          "description": "Data for Environmental Intelligence: A mega list of Earth System Datasets covering earth observations, climate, water, forests, biodiversity, ecology, protected areas, natural hazards, marine and the tracking of UN's Sustainable Development Goals",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178381014,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-12-28T19:43:02Z",
+            "owner": "rockita",
+            "repo": "Environmental_Intelligence",
+            "stars": 301
+          }
+        }
+      ],
+      "title": "Data"
+    },
+    {
       "description": "There are many awesome lists relating to 'Geo'. I use that term as widely as possible. This list is not meant to replace these lists. Earth Observation is still way behind the GIS world in terms of audience, reach, number of users etc. Things are changing though, by bringing these links together I hope you can see that there has been so much progress in the last 5 years. I do hope these links are helpful espcially to those who are new to Earth Observation, but also to people like me who with several years of experience think they may have seen it all - we haven't and there is still so much to learn. Earth Observation is not just an academic 'thing' or a basemap anymore, it forms the basis for a growing and diverse business environment. Lets embrace this.\nFinally, I wanted to acknowledge a couple of awesome Earth Observation lists that you may list to check out:",
       "items": [
         {
@@ -5267,7 +5944,7 @@
             "last_commit": "2026-08-20T12:40:36Z",
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5268
+            "stars": 5269
           }
         },
         {
@@ -5282,7 +5959,7 @@
             "last_commit": "2026-04-16T14:44:49Z",
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2306
+            "stars": 2308
           }
         },
         {
@@ -5335,7 +6012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:41:26.080Z",
+    "last_updated": "2026-08-24T14:12:09.251Z",
     "original_repository": "acgeospatial/awesome-earthobservation-code",
     "original_repository_id": 255615540,
     "original_repository_sha": "ff6f976fb813144e7dcbedf9ae27e14fab5a37fb",
