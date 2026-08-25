@@ -723,7 +723,7 @@
                 "archived": false,
                 "id": 140029056,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:28:14Z",
+                "last_commit": "2026-08-25T10:07:51Z",
                 "owner": "johntruckenbrodt",
                 "repo": "spatialist",
                 "stars": 32
@@ -1175,7 +1175,7 @@
                         "last_commit": "2026-08-17T10:14:09Z",
                         "owner": "radiantearth",
                         "repo": "stac-spec",
-                        "stars": 919
+                        "stars": 921
                       }
                     },
                     {
@@ -1428,7 +1428,7 @@
                         "archived": false,
                         "id": 453523036,
                         "language": "Python",
-                        "last_commit": "2026-08-23T14:06:24Z",
+                        "last_commit": "2026-08-25T11:46:41Z",
                         "owner": "stac-utils",
                         "repo": "stac-fastapi-elasticsearch-opensearch",
                         "stars": 77
@@ -2870,7 +2870,7 @@
             "last_commit": "2026-08-24T20:07:46Z",
             "owner": "nasa-gibs",
             "repo": "worldview",
-            "stars": 1542
+            "stars": 1592
           }
         },
         {
@@ -2882,7 +2882,7 @@
             "archived": false,
             "id": 2234863,
             "language": "C++",
-            "last_commit": "2026-08-24T20:49:51Z",
+            "last_commit": "2026-08-25T15:27:03Z",
             "owner": "PDAL",
             "repo": "PDAL",
             "stars": 1404
@@ -2912,7 +2912,7 @@
             "archived": false,
             "id": 132832921,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T04:32:54Z",
+            "last_commit": "2026-08-25T15:00:47Z",
             "owner": "radiantearth",
             "repo": "stac-browser",
             "stars": 410
@@ -2987,10 +2987,10 @@
             "archived": false,
             "id": 242572905,
             "language": "C",
-            "last_commit": "2026-08-18T12:57:12Z",
+            "last_commit": "2026-08-25T09:33:38Z",
             "owner": "davidfrantz",
             "repo": "force",
-            "stars": 198
+            "stars": 199
           }
         },
         {
@@ -3520,7 +3520,7 @@
                 "last_commit": "2026-08-02T12:18:31Z",
                 "owner": "satellite-image-deep-learning",
                 "repo": "techniques",
-                "stars": 10237
+                "stars": 10238
               }
             },
             {
@@ -4244,7 +4244,7 @@
             "archived": false,
             "id": 64436705,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T21:44:22Z",
+            "last_commit": "2026-08-25T07:19:46Z",
             "owner": "opendatacube",
             "repo": "datacube-explorer",
             "stars": 64
@@ -4324,7 +4324,7 @@
                 "archived": false,
                 "id": 35531022,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:17:14Z",
+                "last_commit": "2026-08-25T07:23:27Z",
                 "owner": "opendatacube",
                 "repo": "datacube-core",
                 "stars": 585
@@ -4406,7 +4406,7 @@
                 "last_commit": "2026-08-14T19:38:40Z",
                 "owner": "microsoft",
                 "repo": "PlanetaryComputerExamples",
-                "stars": 453
+                "stars": 454
               }
             },
             {
@@ -4555,7 +4555,7 @@
             "archived": false,
             "id": 187247007,
             "language": "C",
-            "last_commit": "2026-08-25T03:54:55Z",
+            "last_commit": "2026-08-25T13:48:25Z",
             "owner": "OSGeo",
             "repo": "grass",
             "stars": 1154
@@ -4874,7 +4874,7 @@
             "archived": false,
             "id": 95563172,
             "language": "Python",
-            "last_commit": "2026-08-20T14:32:23Z",
+            "last_commit": "2026-08-25T10:17:46Z",
             "owner": "johntruckenbrodt",
             "repo": "pyroSAR",
             "stars": 612
@@ -5391,7 +5391,7 @@
             "last_commit": "2026-08-24T12:48:29Z",
             "owner": "insarlab",
             "repo": "MintPy",
-            "stars": 827
+            "stars": 829
           }
         },
         {
@@ -5701,7 +5701,7 @@
             "last_commit": "2025-09-18T05:12:40Z",
             "owner": "fchollet",
             "repo": "deep-learning-with-python-notebooks",
-            "stars": 20252
+            "stars": 20262
           }
         },
         {
@@ -5716,7 +5716,7 @@
             "last_commit": "2021-05-08T13:40:11Z",
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10848
+            "stars": 10847
           }
         },
         {
@@ -5746,7 +5746,7 @@
             "last_commit": "2024-03-14T02:46:03Z",
             "owner": "amueller",
             "repo": "introduction_to_ml_with_python",
-            "stars": 8157
+            "stars": 8158
           }
         },
         {
@@ -5944,7 +5944,7 @@
             "last_commit": "2026-08-20T12:40:36Z",
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5270
+            "stars": 5269
           }
         },
         {
@@ -5959,7 +5959,7 @@
             "last_commit": "2026-04-16T14:44:49Z",
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2309
+            "stars": 2310
           }
         },
         {
@@ -6012,7 +6012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:09:46.266Z",
+    "last_updated": "2026-08-25T16:04:09.522Z",
     "original_repository": "acgeospatial/awesome-earthobservation-code",
     "original_repository_id": 255615540,
     "original_repository_sha": "ff6f976fb813144e7dcbedf9ae27e14fab5a37fb",
