@@ -423,7 +423,7 @@
                 "archived": false,
                 "id": 39515694,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:14:13Z",
+                "last_commit": "2026-08-27T17:31:52Z",
                 "owner": "mapchete",
                 "repo": "mapchete",
                 "stars": 211
@@ -1323,7 +1323,7 @@
                         "archived": false,
                         "id": 352722524,
                         "language": "Rust",
-                        "last_commit": "2026-08-25T05:55:19Z",
+                        "last_commit": "2026-08-27T23:08:00Z",
                         "owner": "stac-utils",
                         "repo": "rustac",
                         "stars": 144
@@ -1338,7 +1338,7 @@
                         "archived": false,
                         "id": 352722524,
                         "language": "Rust",
-                        "last_commit": "2026-08-25T05:55:19Z",
+                        "last_commit": "2026-08-27T23:08:00Z",
                         "owner": "stac-utils",
                         "repo": "rustac",
                         "stars": 144
@@ -1431,7 +1431,7 @@
                         "last_commit": "2026-08-27T11:08:54Z",
                         "owner": "stac-utils",
                         "repo": "stac-fastapi-elasticsearch-opensearch",
-                        "stars": 77
+                        "stars": 78
                       }
                     },
                     {
@@ -1737,7 +1737,7 @@
                     "archived": false,
                     "id": 192321029,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T17:02:57Z",
+                    "last_commit": "2026-08-27T17:02:59Z",
                     "owner": "blacha",
                     "repo": "cogeotiff",
                     "stars": 115
@@ -2071,7 +2071,7 @@
                 "archived": false,
                 "id": 249687651,
                 "language": "Python",
-                "last_commit": "2026-08-06T15:57:41Z",
+                "last_commit": "2026-08-27T14:23:26Z",
                 "owner": "up42",
                 "repo": "up42-py",
                 "stars": 143
@@ -2265,7 +2265,7 @@
                 "archived": false,
                 "id": 14116604,
                 "language": "Python",
-                "last_commit": "2026-08-24T17:06:23Z",
+                "last_commit": "2026-08-27T22:59:27Z",
                 "owner": "rasterio",
                 "repo": "rasterio",
                 "stars": 2564
@@ -2295,7 +2295,7 @@
                 "archived": false,
                 "id": 239188894,
                 "language": "Python",
-                "last_commit": "2026-08-27T01:23:19Z",
+                "last_commit": "2026-08-27T16:59:05Z",
                 "owner": "xarray-contrib",
                 "repo": "xarray-spatial",
                 "stars": 968
@@ -2867,10 +2867,10 @@
             "archived": false,
             "id": 19028976,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T21:15:27Z",
+            "last_commit": "2026-08-27T21:08:24Z",
             "owner": "nasa-gibs",
             "repo": "worldview",
-            "stars": 1654
+            "stars": 1661
           }
         },
         {
@@ -2882,7 +2882,7 @@
             "archived": false,
             "id": 2234863,
             "language": "C++",
-            "last_commit": "2026-08-26T21:54:53Z",
+            "last_commit": "2026-08-27T20:28:36Z",
             "owner": "PDAL",
             "repo": "PDAL",
             "stars": 1404
@@ -2912,7 +2912,7 @@
             "archived": false,
             "id": 132832921,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T05:52:46Z",
+            "last_commit": "2026-08-27T22:32:31Z",
             "owner": "radiantearth",
             "repo": "stac-browser",
             "stars": 412
@@ -2942,7 +2942,7 @@
             "archived": false,
             "id": 4357484,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T12:05:00Z",
+            "last_commit": "2026-08-27T13:17:47Z",
             "owner": "wri",
             "repo": "gfw",
             "stars": 319
@@ -3020,7 +3020,7 @@
             "last_commit": "2026-02-06T13:26:26Z",
             "owner": "ESA-PhiLab",
             "repo": "iris",
-            "stars": 167
+            "stars": 168
           }
         },
         {
@@ -3032,7 +3032,7 @@
             "archived": false,
             "id": 63650110,
             "language": "Julia",
-            "last_commit": "2026-08-24T01:32:46Z",
+            "last_commit": "2026-08-27T20:37:59Z",
             "owner": "yeesian",
             "repo": "ArchGDAL.jl",
             "stars": 150
@@ -3503,7 +3503,7 @@
             "last_commit": "2026-08-24T20:37:32Z",
             "owner": "opengeos",
             "repo": "segment-geospatial",
-            "stars": 4123
+            "stars": 4124
           }
         },
         {
@@ -3594,7 +3594,7 @@
                 "last_commit": "2026-08-11T18:12:10Z",
                 "owner": "microsoft",
                 "repo": "Planetary-Explorer",
-                "stars": 186
+                "stars": 187
               }
             }
           ],
@@ -3683,7 +3683,7 @@
             "archived": false,
             "id": 245837930,
             "language": "Python",
-            "last_commit": "2026-08-24T23:54:59Z",
+            "last_commit": "2026-08-27T18:54:31Z",
             "owner": "gee-community",
             "repo": "geemap",
             "stars": 4018
@@ -3701,7 +3701,7 @@
             "last_commit": "2026-08-24T21:58:26Z",
             "owner": "google",
             "repo": "earthengine-api",
-            "stars": 3399
+            "stars": 3400
           }
         },
         {
@@ -3731,7 +3731,7 @@
             "last_commit": "2026-08-24T02:52:20Z",
             "owner": "r-spatial",
             "repo": "rgee",
-            "stars": 776
+            "stars": 777
           }
         },
         {
@@ -4555,7 +4555,7 @@
             "archived": false,
             "id": 187247007,
             "language": "C",
-            "last_commit": "2026-08-26T20:45:02Z",
+            "last_commit": "2026-08-27T21:24:06Z",
             "owner": "OSGeo",
             "repo": "grass",
             "stars": 1154
@@ -4874,7 +4874,7 @@
             "archived": false,
             "id": 95563172,
             "language": "Python",
-            "last_commit": "2026-08-27T11:31:26Z",
+            "last_commit": "2026-08-27T14:42:50Z",
             "owner": "johntruckenbrodt",
             "repo": "pyroSAR",
             "stars": 612
@@ -5225,7 +5225,7 @@
             "archived": false,
             "id": 166285655,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T16:23:28Z",
+            "last_commit": "2026-08-27T19:25:35Z",
             "owner": "hobuinc",
             "repo": "usgs-lidar",
             "stars": 172
@@ -5701,7 +5701,7 @@
             "last_commit": "2025-09-18T05:12:40Z",
             "owner": "fchollet",
             "repo": "deep-learning-with-python-notebooks",
-            "stars": 20273
+            "stars": 20277
           }
         },
         {
@@ -5731,7 +5731,7 @@
             "last_commit": "2025-06-22T15:37:46Z",
             "owner": "dunovank",
             "repo": "jupyter-themes",
-            "stars": 9819
+            "stars": 9818
           }
         },
         {
@@ -5746,7 +5746,7 @@
             "last_commit": "2024-03-14T02:46:03Z",
             "owner": "amueller",
             "repo": "introduction_to_ml_with_python",
-            "stars": 8162
+            "stars": 8163
           }
         },
         {
@@ -6012,7 +6012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:38:15.285Z",
+    "last_updated": "2026-08-28T00:27:09.862Z",
     "original_repository_info": {
       "archived": false,
       "id": 255615540,
