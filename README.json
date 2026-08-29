@@ -16,7 +16,8 @@
             "owner": "kevinbullock",
             "repo": "Mapping-data",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "Earth Observation Introduction"
@@ -37,7 +38,8 @@
             "owner": "remotesensinginfo",
             "repo": "arcsi",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -52,7 +54,8 @@
             "owner": "remotesensinginfo",
             "repo": "eodatadown",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "Remote Sensing.info"
@@ -75,7 +78,8 @@
                 "owner": "sentinelsat",
                 "repo": "sentinelsat",
                 "stars": 1020
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -90,7 +94,8 @@
                 "owner": "developmentseed",
                 "repo": "landsat-util",
                 "stars": 698
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -105,7 +110,8 @@
                 "owner": "yannforget",
                 "repo": "landsatxplore",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -120,7 +126,8 @@
                 "owner": "olivierhagolle",
                 "repo": "LANDSAT-Download",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -135,7 +142,8 @@
                 "owner": "olivierhagolle",
                 "repo": "Sentinel-download",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -150,7 +158,8 @@
                 "owner": "ESA-PhiLab",
                 "repo": "phidown",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -165,7 +174,8 @@
                 "owner": "FrontierDevelopmentLab",
                 "repo": "sat-extractor",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -180,7 +190,8 @@
                 "owner": "yannforget",
                 "repo": "pylandsat",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -195,7 +206,8 @@
                 "owner": "jgomezdans",
                 "repo": "get_modis",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -210,7 +222,8 @@
                 "owner": "jonas-eberle",
                 "repo": "esa_sentinel",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -225,7 +238,8 @@
                 "owner": "SatelliteApplicationsCatapult",
                 "repo": "sedas_pyapi",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ],
           "description": null,
@@ -247,7 +261,8 @@
                 "owner": "plant99",
                 "repo": "felicette",
                 "stars": 1843
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -262,7 +277,8 @@
                 "owner": "OpenGeoscience",
                 "repo": "geonotebook",
                 "stars": 1086
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -276,8 +292,9 @@
                 "last_commit": "2026-06-05T13:54:15Z",
                 "owner": "kvos",
                 "repo": "CoastSat",
-                "stars": 886
-              }
+                "stars": 887
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -292,7 +309,8 @@
                 "owner": "fatiando",
                 "repo": "verde",
                 "stars": 666
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -307,7 +325,8 @@
                 "owner": "earthlab",
                 "repo": "earthpy",
                 "stars": 536
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -322,7 +341,8 @@
                 "owner": "pytroll",
                 "repo": "pyresample",
                 "stars": 385
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -337,7 +357,8 @@
                 "owner": "corteva",
                 "repo": "geocube",
                 "stars": 381
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -352,7 +373,8 @@
                 "owner": "sertit",
                 "repo": "eoreader",
                 "stars": 346
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -367,7 +389,8 @@
                 "owner": "centreborelli",
                 "repo": "s2p",
                 "stars": 264
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -382,7 +405,8 @@
                 "owner": "locationtech",
                 "repo": "rasterframes",
                 "stars": 256
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -397,7 +421,8 @@
                 "owner": "daleroberts",
                 "repo": "bv",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -408,11 +433,12 @@
                 "archived": false,
                 "id": 130693090,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:52:06Z",
+                "last_commit": "2026-08-28T14:37:31Z",
                 "owner": "xcube-dev",
                 "repo": "xcube",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -427,7 +453,8 @@
                 "owner": "mapchete",
                 "repo": "mapchete",
                 "stars": 211
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -442,7 +469,8 @@
                 "owner": "nasa-gibs",
                 "repo": "onearth",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -457,7 +485,8 @@
                 "owner": "avanetten",
                 "repo": "cresi",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -472,7 +501,8 @@
                 "owner": "nansencenter",
                 "repo": "nansat",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -487,7 +517,8 @@
                 "owner": "nmileva",
                 "repo": "starfm4py",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -502,7 +533,8 @@
                 "owner": "arthur-e",
                 "repo": "unmixing",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -516,8 +548,9 @@
                 "last_commit": "2026-06-23T23:44:03Z",
                 "owner": "nkeikon",
                 "repo": "tifviewer",
-                "stars": 101
-              }
+                "stars": 102
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -532,7 +565,8 @@
                 "owner": "samsammurphy",
                 "repo": "6S_emulator",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -547,7 +581,8 @@
                 "owner": "satellogic",
                 "repo": "telluric",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -562,7 +597,8 @@
                 "owner": "tgrippa",
                 "repo": "Opensource_OBIA_processing_chain",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -577,7 +613,8 @@
                 "owner": "tgrippa",
                 "repo": "Opensource_OBIA_processing_chain",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -592,7 +629,8 @@
                 "owner": "MarcYin",
                 "repo": "SIAC",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -607,7 +645,8 @@
                 "owner": "CosmiQ",
                 "repo": "CometTS",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -622,7 +661,8 @@
                 "owner": "dlr-eoc",
                 "repo": "ukis-csmask",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -637,7 +677,8 @@
                 "owner": "cfranken",
                 "repo": "SIF_tools",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -652,7 +693,8 @@
                 "owner": "JavierLopatin",
                 "repo": "Python-Remote-Sensing-Scripts",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -667,7 +709,8 @@
                 "owner": "rander38",
                 "repo": "Remote-Sensing-Indices-Derivation-Tool",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -682,7 +725,8 @@
                 "owner": "PratyushTripathy",
                 "repo": "pyrsgis",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -697,7 +741,8 @@
                 "owner": "lhalloran",
                 "repo": "LandSurfaceClustering",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -712,7 +757,8 @@
                 "owner": "Seyed-Ali-Ahmadi",
                 "repo": "Python-for-Remote-Sensing",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -727,7 +773,8 @@
                 "owner": "johntruckenbrodt",
                 "repo": "spatialist",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -742,7 +789,8 @@
                 "owner": "DigitalGlobe",
                 "repo": "tiletanic",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -757,7 +805,8 @@
                 "owner": "MarcYin",
                 "repo": "S2_TOA_TO_LAI",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -772,7 +821,8 @@
                 "owner": "yannforget",
                 "repo": "landsat-sentinel-fusion",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -787,7 +837,8 @@
                 "owner": "davidbrochart",
                 "repo": "ipyearth",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -802,7 +853,8 @@
                 "owner": "rhammell",
                 "repo": "planet-movement",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -817,7 +869,8 @@
                 "owner": "brianna-corremonte",
                 "repo": "get_river_width",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -832,7 +885,8 @@
                 "owner": "ec-jrc",
                 "repo": "jeolib-pyjeo",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -847,7 +901,8 @@
                 "owner": "PedroVenancio",
                 "repo": "mtg-frp-fire-progression",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -862,7 +917,8 @@
                 "owner": "tommylees112",
                 "repo": "vegetation_health",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -877,7 +933,8 @@
                 "owner": "ceholden",
                 "repo": "cedar-datacube",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -892,7 +949,8 @@
                 "owner": "EkicierNico",
                 "repo": "pykic",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -907,7 +965,8 @@
                 "owner": "Rabscuttler",
                 "repo": "esda-dissertation",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -922,7 +981,8 @@
                 "owner": "cvitolo",
                 "repo": "geff_notebooks",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -937,7 +997,8 @@
                 "owner": "redfoxgis",
                 "repo": "extract_water",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -952,7 +1013,8 @@
                 "owner": "JamesOConnor",
                 "repo": "openaq-s5",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -967,7 +1029,8 @@
                 "owner": "DrGuy",
                 "repo": "ieo",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -982,7 +1045,8 @@
                 "owner": "ceholden",
                 "repo": "stems",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -997,7 +1061,8 @@
                 "owner": "MasterPhysicist",
                 "repo": "Satellite-Image-Analysis",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1012,7 +1077,8 @@
                 "owner": "petescarth",
                 "repo": "fc-up42",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1027,7 +1093,8 @@
                 "owner": "DrGuy",
                 "repo": "IEOtools",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1042,7 +1109,8 @@
                 "owner": "GeoBigData",
                 "repo": "tatortot",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ],
           "description": null,
@@ -1064,7 +1132,8 @@
                 "owner": "developmentseed",
                 "repo": "geolambda",
                 "stars": 306
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1079,7 +1148,8 @@
                 "owner": "developmentseed",
                 "repo": "rio-viz",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1094,7 +1164,8 @@
                 "owner": "RemotePixel",
                 "repo": "remotepixel-api",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1109,7 +1180,8 @@
                 "owner": "developmentseed",
                 "repo": "sentinel-s3",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1124,7 +1196,8 @@
                 "owner": "Element84",
                 "repo": "cng-workshop",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1139,7 +1212,8 @@
                 "owner": "Canadian-Geospatial-Platform",
                 "repo": "geocore",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1154,7 +1228,8 @@
                 "owner": "ua-datalab",
                 "repo": "cloud-native-geospatial",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "children": [
@@ -1176,7 +1251,8 @@
                         "owner": "radiantearth",
                         "repo": "stac-spec",
                         "stars": 922
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1196,7 +1272,8 @@
                             "owner": "stac-utils",
                             "repo": "pystac-client",
                             "stars": 207
-                          }
+                          },
+                          "first_seen": "2026-08-29T00:02:06.782Z"
                         },
                         {
                           "node_type": "item",
@@ -1211,7 +1288,8 @@
                             "owner": "stac-utils",
                             "repo": "stactools",
                             "stars": 113
-                          }
+                          },
+                          "first_seen": "2026-08-29T00:02:06.782Z"
                         }
                       ],
                       "repo_info": {
@@ -1222,7 +1300,8 @@
                         "owner": "stac-utils",
                         "repo": "pystac",
                         "stars": 457
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1233,11 +1312,12 @@
                         "archived": false,
                         "id": 272869556,
                         "language": "Python",
-                        "last_commit": "2026-08-19T00:17:44Z",
+                        "last_commit": "2026-08-28T16:26:53Z",
                         "owner": "stac-utils",
                         "repo": "stac-fastapi",
                         "stars": 323
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1252,7 +1332,8 @@
                         "owner": "gjoseph92",
                         "repo": "stackstac",
                         "stars": 270
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1267,7 +1348,8 @@
                         "owner": "stac-utils",
                         "repo": "pgstac",
                         "stars": 222
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1282,7 +1364,8 @@
                         "owner": "stac-utils",
                         "repo": "pgstac",
                         "stars": 222
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1297,7 +1380,8 @@
                         "owner": "stac-utils",
                         "repo": "pystac-client",
                         "stars": 207
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1312,7 +1396,8 @@
                         "owner": "stac-utils",
                         "repo": "stac-geoparquet",
                         "stars": 149
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1327,7 +1412,8 @@
                         "owner": "stac-utils",
                         "repo": "rustac",
                         "stars": 144
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1342,7 +1428,8 @@
                         "owner": "stac-utils",
                         "repo": "rustac",
                         "stars": 144
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1357,7 +1444,8 @@
                         "owner": "stac-utils",
                         "repo": "titiler-pgstac",
                         "stars": 130
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1372,7 +1460,8 @@
                         "owner": "stac-utils",
                         "repo": "stac-fastapi-pgstac",
                         "stars": 111
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1387,7 +1476,8 @@
                         "owner": "stac-utils",
                         "repo": "stac-server",
                         "stars": 102
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1402,7 +1492,8 @@
                         "owner": "stac-utils",
                         "repo": "qgis-stac-plugin",
                         "stars": 86
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1417,7 +1508,8 @@
                         "owner": "stac-utils",
                         "repo": "stac-pydantic",
                         "stars": 83
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1428,11 +1520,12 @@
                         "archived": false,
                         "id": 453523036,
                         "language": "Python",
-                        "last_commit": "2026-08-27T11:08:54Z",
+                        "last_commit": "2026-08-28T02:51:17Z",
                         "owner": "stac-utils",
                         "repo": "stac-fastapi-elasticsearch-opensearch",
                         "stars": 78
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1447,7 +1540,8 @@
                         "owner": "cloudsen12",
                         "repo": "easystac",
                         "stars": 68
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1462,7 +1556,8 @@
                         "owner": "StacLabs",
                         "repo": "stac-validator",
                         "stars": 62
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1477,7 +1572,8 @@
                         "owner": "stac-utils",
                         "repo": "stac-layer",
                         "stars": 53
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1492,7 +1588,8 @@
                         "owner": "stac-utils",
                         "repo": "stac-asset",
                         "stars": 47
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1507,7 +1604,8 @@
                         "owner": "stac-utils",
                         "repo": "xpystac",
                         "stars": 45
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1522,7 +1620,8 @@
                         "owner": "darrenwiens",
                         "repo": "stac-nb",
                         "stars": 35
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1537,7 +1636,8 @@
                         "owner": "stac-utils",
                         "repo": "stac-check",
                         "stars": 31
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1552,7 +1652,8 @@
                         "owner": "stac-utils",
                         "repo": "stac-task",
                         "stars": 26
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1567,7 +1668,8 @@
                         "owner": "stac-utils",
                         "repo": "stac-api-validator",
                         "stars": 25
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1582,7 +1684,8 @@
                         "owner": "moregeo-it",
                         "repo": "stac-node-validator",
                         "stars": 21
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1597,7 +1700,8 @@
                         "owner": "stac-utils",
                         "repo": "stac-terminal",
                         "stars": 19
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1612,7 +1716,8 @@
                         "owner": "stac-utils",
                         "repo": "stac4s",
                         "stars": 17
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1627,7 +1732,8 @@
                         "owner": "stac-utils",
                         "repo": "stac-fields",
                         "stars": 11
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1642,7 +1748,8 @@
                         "owner": "moregeo-it",
                         "repo": "stac-index",
                         "stars": 10
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1657,7 +1764,8 @@
                         "owner": "stac-utils",
                         "repo": "pgstac-rs",
                         "stars": 9
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1672,7 +1780,8 @@
                         "owner": "stac-utils",
                         "repo": "stac-table",
                         "stars": 6
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     },
                     {
                       "node_type": "item",
@@ -1687,7 +1796,8 @@
                         "owner": "stac-utils",
                         "repo": "stac-migrate",
                         "stars": 6
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:02:06.782Z"
                     }
                   ]
                 }
@@ -1710,8 +1820,9 @@
                     "last_commit": "2026-08-24T08:13:33Z",
                     "owner": "developmentseed",
                     "repo": "titiler",
-                    "stars": 1152
-                  }
+                    "stars": 1153
+                  },
+                  "first_seen": "2026-08-29T00:02:06.782Z"
                 },
                 {
                   "node_type": "item",
@@ -1722,11 +1833,12 @@
                     "archived": false,
                     "id": 186698631,
                     "language": "Python",
-                    "last_commit": "2026-08-09T10:38:32Z",
+                    "last_commit": "2026-08-28T09:11:57Z",
                     "owner": "developmentseed",
                     "repo": "cogeo-mosaic",
                     "stars": 119
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:06.782Z"
                 },
                 {
                   "node_type": "item",
@@ -1737,11 +1849,12 @@
                     "archived": false,
                     "id": 192321029,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T17:02:59Z",
+                    "last_commit": "2026-08-28T17:02:43Z",
                     "owner": "blacha",
                     "repo": "cogeotiff",
-                    "stars": 115
-                  }
+                    "stars": 116
+                  },
+                  "first_seen": "2026-08-29T00:02:06.782Z"
                 },
                 {
                   "node_type": "item",
@@ -1756,7 +1869,8 @@
                     "owner": "geospatial-jeff",
                     "repo": "aiocogeo",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:06.782Z"
                 },
                 {
                   "node_type": "item",
@@ -1771,7 +1885,8 @@
                     "owner": "geospatial-jeff",
                     "repo": "aiocogeo",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:06.782Z"
                 },
                 {
                   "node_type": "item",
@@ -1786,7 +1901,8 @@
                     "owner": "mapbox",
                     "repo": "COGDumper",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:06.782Z"
                 },
                 {
                   "node_type": "item",
@@ -1801,7 +1917,8 @@
                     "owner": "rouault",
                     "repo": "cog_validator",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:06.782Z"
                 },
                 {
                   "node_type": "item",
@@ -1816,7 +1933,8 @@
                     "owner": "developmentseed",
                     "repo": "sentinel-2-cog",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:06.782Z"
                 },
                 {
                   "node_type": "item",
@@ -1831,7 +1949,8 @@
                     "owner": "saheelBreezo",
                     "repo": "Cloud-Optimised-Geotiff",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:06.782Z"
                 }
               ],
               "description": null,
@@ -1858,7 +1977,8 @@
                 "owner": "kscottz",
                 "repo": "PythonFromSpace",
                 "stars": 470
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1873,7 +1993,8 @@
                 "owner": "hfisser",
                 "repo": "Truck_Detection_Sentinel2_COVID19",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1888,7 +2009,8 @@
                 "owner": "parulnith",
                 "repo": "Satellite-Imagery-Analysis-with-Python",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1903,7 +2025,8 @@
                 "owner": "carsonluuu",
                 "repo": "Poverty-Prediction-by-Satellite-Imagery",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1918,7 +2041,8 @@
                 "owner": "dymaxionlabs",
                 "repo": "ap-latam",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1933,7 +2057,8 @@
                 "owner": "JamesOConnor",
                 "repo": "Sentinel_bot",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1948,7 +2073,8 @@
                 "owner": "iam-mhaseeb",
                 "repo": "Satellite-Imagery-Analysis-of-Vegetation-in-Southern-Pakistan",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1963,7 +2089,8 @@
                 "owner": "mikoontz",
                 "repo": "local-structure-wpb-severity",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -1978,7 +2105,8 @@
                 "owner": "craic",
                 "repo": "count_shelters",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ],
           "description": null,
@@ -2000,7 +2128,8 @@
                 "owner": "sentinel-hub",
                 "repo": "sentinelhub-py",
                 "stars": 911
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2015,7 +2144,8 @@
                 "owner": "planetlabs",
                 "repo": "notebooks",
                 "stars": 678
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2030,7 +2160,8 @@
                 "owner": "sentinel-hub",
                 "repo": "sentinel2-cloud-detector",
                 "stars": 493
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2045,7 +2176,8 @@
                 "owner": "planetlabs",
                 "repo": "planet-client-python",
                 "stars": 298
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2060,7 +2192,8 @@
                 "owner": "satellogic",
                 "repo": "orbit-predictor",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2071,11 +2204,12 @@
                 "archived": false,
                 "id": 249687651,
                 "language": "Python",
-                "last_commit": "2026-08-27T14:23:26Z",
+                "last_commit": "2026-08-28T08:39:22Z",
                 "owner": "up42",
                 "repo": "up42-py",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2090,7 +2224,8 @@
                 "owner": "iceye-ltd",
                 "repo": "icecube",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2105,7 +2240,8 @@
                 "owner": "DigitalGlobe",
                 "repo": "gbdxtools",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2120,7 +2256,8 @@
                 "owner": "Orbio-Earth",
                 "repo": "Project-Eucalyptus",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2135,7 +2272,8 @@
                 "owner": "SkyTruth",
                 "repo": "offshore-methane",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2150,7 +2288,8 @@
                 "owner": "gena",
                 "repo": "gbdx-surface-water",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ],
           "description": "(you may need to create an account to use these resources)",
@@ -2172,7 +2311,8 @@
                 "owner": "robintw",
                 "repo": "Py6S",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2187,7 +2327,8 @@
                 "owner": "jgomezdans",
                 "repo": "prosail",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2202,7 +2343,8 @@
                 "owner": "planetlabs",
                 "repo": "radiometric_normalization",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2217,7 +2359,8 @@
                 "owner": "planetlabs",
                 "repo": "color_balance",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2232,7 +2375,8 @@
                 "owner": "robintw",
                 "repo": "PyProSAIL",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2247,7 +2391,8 @@
                 "owner": "acolite",
                 "repo": "acolite_mr",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ],
           "description": null,
@@ -2265,11 +2410,12 @@
                 "archived": false,
                 "id": 14116604,
                 "language": "Python",
-                "last_commit": "2026-08-27T22:59:27Z",
+                "last_commit": "2026-08-28T22:06:59Z",
                 "owner": "rasterio",
                 "repo": "rasterio",
                 "stars": 2564
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2284,7 +2430,8 @@
                 "owner": "pytroll",
                 "repo": "satpy",
                 "stars": 1204
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2298,8 +2445,9 @@
                 "last_commit": "2026-08-27T16:59:05Z",
                 "owner": "xarray-contrib",
                 "repo": "xarray-spatial",
-                "stars": 968
-              }
+                "stars": 969
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2314,7 +2462,8 @@
                 "owner": "corteva",
                 "repo": "rioxarray",
                 "stars": 622
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2329,7 +2478,8 @@
                 "owner": "perrygeo",
                 "repo": "python-rasterstats",
                 "stars": 561
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2344,7 +2494,8 @@
                 "owner": "opengeos",
                 "repo": "whitebox-python",
                 "stars": 422
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2359,7 +2510,8 @@
                 "owner": "perrygeo",
                 "repo": "pyimpute",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2374,7 +2526,8 @@
                 "owner": "dymaxionlabs",
                 "repo": "dask-rasterio",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2389,7 +2542,8 @@
                 "owner": "actinia-org",
                 "repo": "actinia-core",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2404,7 +2558,8 @@
                 "owner": "dlr-eoc",
                 "repo": "ukis-pysat",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2419,7 +2574,8 @@
                 "owner": "robintw",
                 "repo": "XArray_PyConUK2018",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2434,7 +2590,8 @@
                 "owner": "EOPF-Explorer",
                 "repo": "titiler-eopf",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -2449,7 +2606,8 @@
                 "owner": "actinia-org",
                 "repo": "actinia-satellite-plugin",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ],
           "description": null,
@@ -2474,8 +2632,9 @@
             "last_commit": "2026-08-14T13:46:58Z",
             "owner": "r-lidar",
             "repo": "lidR",
-            "stars": 705
-          }
+            "stars": 706
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2490,7 +2649,8 @@
             "owner": "r-spatial",
             "repo": "stars",
             "stars": 611
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2505,7 +2665,8 @@
             "owner": "ropensci",
             "repo": "rnoaa",
             "stars": 340
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2520,7 +2681,8 @@
             "owner": "16EAGLE",
             "repo": "getSpatialData",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2535,7 +2697,8 @@
             "owner": "opengeos",
             "repo": "whiteboxR",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2550,7 +2713,8 @@
             "owner": "appelmar",
             "repo": "gdalcubes",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2565,7 +2729,8 @@
             "owner": "andrew-plowright",
             "repo": "ForestTools",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2580,7 +2745,8 @@
             "owner": "ropensci-archive",
             "repo": "MODISTools",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2595,7 +2761,8 @@
             "owner": "jdbcode",
             "repo": "LandsatLinkr",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2610,7 +2777,8 @@
             "owner": "spatialstatisticsupna",
             "repo": "RGISTools",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2625,7 +2793,8 @@
             "owner": "bevingtona",
             "repo": "planetR",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2640,7 +2809,8 @@
             "owner": "bevingtona",
             "repo": "planetR",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2655,7 +2825,8 @@
             "owner": "ropensci",
             "repo": "rerddap",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2670,7 +2841,8 @@
             "owner": "redfoxgis",
             "repo": "tree_segmentation",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2685,7 +2857,8 @@
             "owner": "MBalthasar",
             "repo": "rHarmonics",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2700,7 +2873,8 @@
             "owner": "geospatial-jeff",
             "repo": "cognition-datasources",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2715,7 +2889,8 @@
             "owner": "ecmwf",
             "repo": "caliver",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2730,7 +2905,8 @@
             "owner": "alyssakullberg",
             "repo": "Landsat_land_surface_temperature",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2745,7 +2921,8 @@
             "owner": "JavierLopatin",
             "repo": "UAV-InvasiveSpp",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2760,7 +2937,8 @@
             "owner": "joheisig",
             "repo": "Spatial_Data_in_R",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2775,7 +2953,8 @@
             "owner": "JavierLopatin",
             "repo": "Grassland-Species-Classification",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2790,7 +2969,8 @@
             "owner": "naturalengland",
             "repo": "Living_England",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2805,7 +2985,8 @@
             "owner": "JavierLopatin",
             "repo": "Peatland-carbon-stock",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2820,7 +3001,8 @@
             "owner": "JavierLopatin",
             "repo": "SpeciesRichness-GLMvsRF-LiDAR",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2835,7 +3017,8 @@
             "owner": "lecrabe",
             "repo": "clip_time_series",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2850,7 +3033,8 @@
             "owner": "be-marc",
             "repo": "swdt",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "Resources for"
@@ -2867,11 +3051,12 @@
             "archived": false,
             "id": 19028976,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T21:08:24Z",
+            "last_commit": "2026-08-28T21:09:29Z",
             "owner": "nasa-gibs",
             "repo": "worldview",
-            "stars": 1661
-          }
+            "stars": 1672
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2882,11 +3067,12 @@
             "archived": false,
             "id": 2234863,
             "language": "C++",
-            "last_commit": "2026-08-27T20:28:36Z",
+            "last_commit": "2026-08-28T14:15:34Z",
             "owner": "PDAL",
             "repo": "PDAL",
             "stars": 1404
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2901,7 +3087,8 @@
             "owner": "sentinel-hub",
             "repo": "custom-scripts",
             "stars": 702
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2916,7 +3103,8 @@
             "owner": "radiantearth",
             "repo": "stac-browser",
             "stars": 412
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2931,7 +3119,8 @@
             "owner": "lukeroth",
             "repo": "gdal",
             "stars": 319
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2942,11 +3131,12 @@
             "archived": false,
             "id": 4357484,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T13:17:47Z",
+            "last_commit": "2026-08-28T19:25:35Z",
             "owner": "wri",
             "repo": "gfw",
             "stars": 319
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2961,7 +3151,8 @@
             "owner": "senbox-org",
             "repo": "s1tbx",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2975,8 +3166,9 @@
             "last_commit": "2026-08-26T16:22:26Z",
             "owner": "senbox-org",
             "repo": "snap-engine",
-            "stars": 212
-          }
+            "stars": 213
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -2991,7 +3183,8 @@
             "owner": "davidfrantz",
             "repo": "force",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3006,7 +3199,8 @@
             "owner": "remotesensinginfo",
             "repo": "rsgislib",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3021,7 +3215,8 @@
             "owner": "ESA-PhiLab",
             "repo": "iris",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3032,11 +3227,12 @@
             "archived": false,
             "id": 63650110,
             "language": "Julia",
-            "last_commit": "2026-08-27T20:37:59Z",
+            "last_commit": "2026-08-28T08:14:05Z",
             "owner": "yeesian",
             "repo": "ArchGDAL.jl",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3051,7 +3247,8 @@
             "owner": "appelmar",
             "repo": "gdalcubes",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3066,7 +3263,8 @@
             "owner": "senbox-org",
             "repo": "s2tbx",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3081,7 +3279,8 @@
             "owner": "acgeospatial",
             "repo": "Julia_Geospatial",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3096,7 +3295,8 @@
             "owner": "jjrom",
             "repo": "resto",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3111,7 +3311,8 @@
             "owner": "sentinel-hub",
             "repo": "sentinelhub-js",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3126,7 +3327,8 @@
             "owner": "planetlabs",
             "repo": "staccato",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3141,7 +3343,8 @@
             "owner": "ceholden",
             "repo": "landsat_preprocess",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3156,7 +3359,8 @@
             "owner": "senbox-org",
             "repo": "s3tbx",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3171,7 +3375,8 @@
             "owner": "GERSL",
             "repo": "Fmask",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3186,7 +3391,8 @@
             "owner": "moregeo-it",
             "repo": "stac-node-validator",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3201,7 +3407,8 @@
             "owner": "emilyselwood",
             "repo": "tiffhax",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3216,7 +3423,8 @@
             "owner": "stac-utils",
             "repo": "stac4s",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3231,7 +3439,8 @@
             "owner": "vannizhang",
             "repo": "aiforearth-landcover-app",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3246,7 +3455,8 @@
             "owner": "jdbcode",
             "repo": "LLR-LandTrendr",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3261,7 +3471,8 @@
             "owner": "yannforget",
             "repo": "conda-recipes",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3276,7 +3487,8 @@
             "owner": "jdbcode",
             "repo": "landsat-solar-elevation",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "group",
@@ -3296,7 +3508,8 @@
                 "owner": "locationtech",
                 "repo": "geotrellis",
                 "stars": 1372
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ]
         }
@@ -3319,7 +3532,8 @@
             "owner": "patrickcgray",
             "repo": "open-geo-tutorial",
             "stars": 334
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3334,7 +3548,8 @@
             "owner": "ceholden",
             "repo": "open-geo-tutorial",
             "stars": 265
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3349,7 +3564,8 @@
             "owner": "mmann1123",
             "repo": "pyGIS",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3364,7 +3580,8 @@
             "owner": "earthlab",
             "repo": "earthlab.github.io",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3379,7 +3596,8 @@
             "owner": "techforspace",
             "repo": "sentinel",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3394,7 +3612,8 @@
             "owner": "profLewis",
             "repo": "geog0111_OLD",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3409,7 +3628,8 @@
             "owner": "planetlabs",
             "repo": "training-workshop",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3424,7 +3644,8 @@
             "owner": "samfranklin",
             "repo": "foss4guk19-jupyter",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "group",
@@ -3444,7 +3665,8 @@
                 "owner": "EO-College",
                 "repo": "tomography_tutorial",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ]
         },
@@ -3466,7 +3688,8 @@
                 "owner": "acgeospatial",
                 "repo": "Satellite_Imagery_Python",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -3481,7 +3704,8 @@
                 "owner": "acgeospatial",
                 "repo": "Geospatial_Python_CourseV1",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ]
         }
@@ -3503,8 +3727,9 @@
             "last_commit": "2026-08-24T20:37:32Z",
             "owner": "opengeos",
             "repo": "segment-geospatial",
-            "stars": 4124
-          }
+            "stars": 4125
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "children": [
@@ -3520,8 +3745,9 @@
                 "last_commit": "2026-08-02T12:18:31Z",
                 "owner": "satellite-image-deep-learning",
                 "repo": "techniques",
-                "stars": 10243
-              }
+                "stars": 10241
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -3535,8 +3761,9 @@
                 "last_commit": "2022-07-14T18:02:46Z",
                 "owner": "chrieke",
                 "repo": "awesome-satellite-imagery-datasets",
-                "stars": 3915
-              }
+                "stars": 3914
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -3551,7 +3778,8 @@
                 "owner": "deepVector",
                 "repo": "geospatial-machine-learning",
                 "stars": 707
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ],
           "description": null,
@@ -3573,7 +3801,8 @@
                 "owner": "microsoft",
                 "repo": "satellite-imagery-labeling-tool",
                 "stars": 295
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ],
           "description": null,
@@ -3595,7 +3824,8 @@
                 "owner": "microsoft",
                 "repo": "Planetary-Explorer",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ],
           "description": null,
@@ -3621,7 +3851,8 @@
             "owner": "dwtkns",
             "repo": "gdal-cheat-sheet",
             "stars": 1223
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3636,7 +3867,8 @@
             "owner": "azavea",
             "repo": "loam",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3651,7 +3883,8 @@
             "owner": "nasa-gibs",
             "repo": "mrf",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3666,7 +3899,8 @@
             "owner": "perrygeo",
             "repo": "docker-gdal-base",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "GDAL of course"
@@ -3686,8 +3920,9 @@
             "last_commit": "2026-08-27T18:54:31Z",
             "owner": "gee-community",
             "repo": "geemap",
-            "stars": 4018
-          }
+            "stars": 4019
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3701,8 +3936,9 @@
             "last_commit": "2026-08-24T21:58:26Z",
             "owner": "google",
             "repo": "earthengine-api",
-            "stars": 3400
-          }
+            "stars": 3403
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3717,7 +3953,8 @@
             "owner": "giswqs",
             "repo": "earthengine-py-notebooks",
             "stars": 1554
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3732,7 +3969,8 @@
             "owner": "r-spatial",
             "repo": "rgee",
             "stars": 777
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3746,8 +3984,9 @@
             "last_commit": "2023-05-27T09:09:30Z",
             "owner": "JiaxuanYou",
             "repo": "crop_yield_prediction",
-            "stars": 422
-          }
+            "stars": 421
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3762,7 +4001,8 @@
             "owner": "gee-community",
             "repo": "ee-palettes",
             "stars": 343
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3777,7 +4017,8 @@
             "owner": "fitoprincipe",
             "repo": "geetools-code-editor",
             "stars": 323
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3792,7 +4033,8 @@
             "owner": "csaybar",
             "repo": "EEwPython",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3807,7 +4049,8 @@
             "owner": "samapriya",
             "repo": "geeup",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3822,7 +4065,8 @@
             "owner": "ndminhhus",
             "repo": "geeguide",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3837,7 +4081,8 @@
             "owner": "tylere",
             "repo": "ee-jupyter-examples",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3852,7 +4097,8 @@
             "owner": "fitoprincipe",
             "repo": "geebap",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3867,7 +4113,8 @@
             "owner": "samapriya",
             "repo": "gee_asset_manager_addon",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3882,7 +4129,8 @@
             "owner": "gee-community",
             "repo": "ee-tensorflow-notebooks",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3897,7 +4145,8 @@
             "owner": "saveriofrancini",
             "repo": "bap",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3912,7 +4161,8 @@
             "owner": "ESA-PhiLab",
             "repo": "radiometric-slope-correction",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3927,7 +4177,8 @@
             "owner": "samapriya",
             "repo": "Planet-GEE-Pipeline-CLI",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3942,7 +4193,8 @@
             "owner": "chrieke",
             "repo": "GoogleEarthEngine-side-projects",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3957,7 +4209,8 @@
             "owner": "seanyx",
             "repo": "global-river-ice-dataset-from-Landsat",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3972,7 +4225,8 @@
             "owner": "gena",
             "repo": "ee-code-editor-archive",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -3987,7 +4241,8 @@
             "owner": "tianjialiu",
             "repo": "HMS-Smoke",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4002,7 +4257,8 @@
             "owner": "sig-gis",
             "repo": "Ecuador_SEPAL",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4017,7 +4273,8 @@
             "owner": "evan-delancey",
             "repo": "GoogleEarthEngine",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4032,7 +4289,8 @@
             "owner": "mikoontz",
             "repo": "remote-sensing-resistance",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4047,7 +4305,8 @@
             "owner": "tylere",
             "repo": "jupyterlab-ee",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4062,7 +4321,8 @@
             "owner": "robintw",
             "repo": "CloudFrequencyApp",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4077,7 +4337,8 @@
             "owner": "yuhhuang",
             "repo": "Building_Identification_Damage_Assessment",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4092,7 +4353,8 @@
             "owner": "profLewis",
             "repo": "geecrop",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4107,7 +4369,8 @@
             "owner": "JavierLopatin",
             "repo": "GEE_Functions",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4122,7 +4385,8 @@
             "owner": "yuhhuang",
             "repo": "Fire_Pattern_Analysis_CONUS",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4137,7 +4401,8 @@
             "owner": "tommylees112",
             "repo": "ox_gee_tutorial",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4152,7 +4417,8 @@
             "owner": "gorelick",
             "repo": "EE-Examples",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "Earth Engine"
@@ -4169,11 +4435,12 @@
             "archived": false,
             "id": 123097163,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T03:09:11Z",
+            "last_commit": "2026-08-28T04:35:47Z",
             "owner": "GeoscienceAustralia",
             "repo": "dea-notebooks",
-            "stars": 536
-          }
+            "stars": 535
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4188,7 +4455,8 @@
             "owner": "corteva",
             "repo": "geocube",
             "stars": 381
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4199,11 +4467,12 @@
             "archived": false,
             "id": 197511704,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T18:35:12Z",
+            "last_commit": "2026-08-28T06:25:59Z",
             "owner": "digitalearthafrica",
             "repo": "deafrica-sandbox-notebooks",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4217,8 +4486,9 @@
             "last_commit": "2026-07-29T04:13:00Z",
             "owner": "opendatacube",
             "repo": "odc-stac",
-            "stars": 201
-          }
+            "stars": 202
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4233,7 +4503,8 @@
             "owner": "opendatacube",
             "repo": "odc-tools",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4244,11 +4515,12 @@
             "archived": false,
             "id": 64436705,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T07:19:46Z",
+            "last_commit": "2026-08-28T21:13:03Z",
             "owner": "opendatacube",
             "repo": "datacube-explorer",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4263,7 +4535,8 @@
             "owner": "GeoscienceAustralia",
             "repo": "dea-coastlines",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4278,7 +4551,8 @@
             "owner": "ceos-seo",
             "repo": "data_cube_notebooks",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4293,7 +4567,8 @@
             "owner": "Open-EO",
             "repo": "openeo_odc_driver",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4308,7 +4583,8 @@
             "owner": "sentinel-hub",
             "repo": "odc-sh",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "group",
@@ -4324,11 +4600,12 @@
                 "archived": false,
                 "id": 35531022,
                 "language": "Python",
-                "last_commit": "2026-08-25T07:23:27Z",
+                "last_commit": "2026-08-28T23:33:07Z",
                 "owner": "opendatacube",
                 "repo": "datacube-core",
                 "stars": 585
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -4343,7 +4620,8 @@
                 "owner": "opendatacube",
                 "repo": "datacube-ows",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ]
         }
@@ -4366,7 +4644,8 @@
             "owner": "renelikestacos",
             "repo": "Google-Earth-Engine-Python-Examples",
             "stars": 327
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4381,7 +4660,8 @@
             "owner": "gjoseph92",
             "repo": "stackstac",
             "stars": 270
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "Other Datacube-related Python"
@@ -4407,7 +4687,8 @@
                 "owner": "microsoft",
                 "repo": "PlanetaryComputerExamples",
                 "stars": 455
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -4422,7 +4703,8 @@
                 "owner": "microsoft",
                 "repo": "planetary-computer-apis",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -4437,7 +4719,8 @@
                 "owner": "microsoft",
                 "repo": "planetary-computer-sdk-for-python",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -4452,7 +4735,8 @@
                 "owner": "microsoft",
                 "repo": "PlanetaryComputerDataCatalog",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ],
           "repo_info": {
@@ -4463,7 +4747,8 @@
             "owner": "microsoft",
             "repo": "PlanetaryComputer",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4478,7 +4763,8 @@
             "owner": "Element84",
             "repo": "geo-notebooks",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4493,7 +4779,8 @@
             "owner": "shijithpk",
             "repo": "hottest-panchayats-kerala",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4508,7 +4795,8 @@
             "owner": "TomAugspurger",
             "repo": "planetary-computer-deep-dives",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4523,7 +4811,8 @@
             "owner": "globalmangrovewatch",
             "repo": "gmw_planetary_computer_s2_alerts",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4538,7 +4827,8 @@
             "owner": "dzanaga",
             "repo": "satio-pc",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "Planetary Computer"
@@ -4555,11 +4845,12 @@
             "archived": false,
             "id": 187247007,
             "language": "C",
-            "last_commit": "2026-08-27T21:24:06Z",
+            "last_commit": "2026-08-28T14:45:42Z",
             "owner": "OSGeo",
             "repo": "grass",
             "stars": 1154
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4574,7 +4865,8 @@
             "owner": "gee-community",
             "repo": "qgis-earthengine-plugin",
             "stars": 513
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4589,7 +4881,8 @@
             "owner": "opengeos",
             "repo": "qgis-nasa-earthdata-plugin",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4604,7 +4897,8 @@
             "owner": "ceholden",
             "repo": "TSTools",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4619,7 +4913,8 @@
             "owner": "planetlabs",
             "repo": "qgis-planet-plugin",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "QGIS and Grass"
@@ -4645,7 +4940,8 @@
                 "owner": "Deltares",
                 "repo": "aqua-monitor",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ],
           "repo_info": {
@@ -4655,8 +4951,9 @@
             "last_commit": "2026-08-24T17:52:30Z",
             "owner": "Unidata",
             "repo": "MetPy",
-            "stars": 1438
-          }
+            "stars": 1437
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4671,7 +4968,8 @@
             "owner": "willyhagi",
             "repo": "climate-data-science",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4686,7 +4984,8 @@
             "owner": "guidocioni",
             "repo": "eumetsat-python",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4701,7 +5000,8 @@
             "owner": "maximlamare",
             "repo": "s3_tools",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4716,7 +5016,8 @@
             "owner": "openclimatefix-archives",
             "repo": "eumetsat",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4731,7 +5032,8 @@
             "owner": "JackieVeatch",
             "repo": "ocean_color",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4746,7 +5048,8 @@
             "owner": "nicolaerosca",
             "repo": "coda_eumetsat",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4761,7 +5064,8 @@
             "owner": "gher-uliege",
             "repo": "COST-EUMETSAT-Training",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "Climate and weather based resources"
@@ -4782,7 +5086,8 @@
             "owner": "heremaps",
             "repo": "tin-terrain",
             "stars": 612
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4797,7 +5102,8 @@
             "owner": "dem-net",
             "repo": "DEM.Net",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4812,7 +5118,8 @@
             "owner": "dtarb",
             "repo": "TauDEM",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4827,7 +5134,8 @@
             "owner": "centreborelli",
             "repo": "s2p",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4842,7 +5150,8 @@
             "owner": "seedlit",
             "repo": "dsm2dtm",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4857,7 +5166,8 @@
             "owner": "mprakhar",
             "repo": "DSM2DTM",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "DEM projects"
@@ -4874,11 +5184,12 @@
             "archived": false,
             "id": 95563172,
             "language": "Python",
-            "last_commit": "2026-08-27T14:42:50Z",
+            "last_commit": "2026-08-28T14:30:32Z",
             "owner": "johntruckenbrodt",
             "repo": "pyroSAR",
             "stars": 612
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4893,7 +5204,8 @@
             "owner": "bopen",
             "repo": "sarsen",
             "stars": 317
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4907,8 +5219,9 @@
             "last_commit": "2020-02-24T17:44:43Z",
             "owner": "dm6718",
             "repo": "RITSAR",
-            "stars": 260
-          }
+            "stars": 259
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4923,7 +5236,8 @@
             "owner": "ESA-PhiLab",
             "repo": "OpenSarToolkit",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4938,7 +5252,8 @@
             "owner": "birgander2",
             "repo": "PyRAT",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4953,7 +5268,8 @@
             "owner": "SpaceNetChallenge",
             "repo": "SpaceNet_SAR_Buildings_Solutions",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4968,7 +5284,8 @@
             "owner": "EO-College",
             "repo": "sarbian",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4983,7 +5300,8 @@
             "owner": "nansencenter",
             "repo": "sentinel1denoised",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -4998,7 +5316,8 @@
             "owner": "nansencenter",
             "repo": "sea_ice_drift",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5013,7 +5332,8 @@
             "owner": "UN-SPIDER",
             "repo": "radar-based-flood-mapping",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5028,7 +5348,8 @@
             "owner": "SAR-ARD",
             "repo": "s1ard",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5043,7 +5364,8 @@
             "owner": "stactools-packages",
             "repo": "sentinel1",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5058,7 +5380,8 @@
             "owner": "mortcanty",
             "repo": "SARDocker",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5073,7 +5396,8 @@
             "owner": "johntruckenbrodt",
             "repo": "S1_ARD",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5088,7 +5412,8 @@
             "owner": "bminchew",
             "repo": "PySAR",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5103,7 +5428,8 @@
             "owner": "ESA-PhiLab",
             "repo": "infrastructure",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5118,7 +5444,8 @@
             "owner": "earthobservatory",
             "repo": "sentinel1-opds",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5133,7 +5460,8 @@
             "owner": "benjimin",
             "repo": "s1prepro",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5148,7 +5476,8 @@
             "owner": "So-YeonBae",
             "repo": "Sentinel1-Biodiversity",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5163,7 +5492,8 @@
             "owner": "lveci",
             "repo": "awesome-sar",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5178,7 +5508,8 @@
             "owner": "AndrewPham9",
             "repo": "rice_sentinel1",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "SAR"
@@ -5199,7 +5530,8 @@
             "owner": "opengeos",
             "repo": "lidar",
             "stars": 301
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5214,7 +5546,8 @@
             "owner": "icesat2py",
             "repo": "icepyx",
             "stars": 258
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5225,11 +5558,12 @@
             "archived": false,
             "id": 166285655,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T19:25:35Z",
+            "last_commit": "2026-08-28T19:53:20Z",
             "owner": "hobuinc",
             "repo": "usgs-lidar",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5244,7 +5578,8 @@
             "owner": "icesat-2UT",
             "repo": "PhoREAL",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "children": [
@@ -5261,7 +5596,8 @@
                 "owner": "carlos-alberto-silva",
                 "repo": "rGEDI",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -5276,7 +5612,8 @@
                 "owner": "ornldaac",
                 "repo": "gedi_tutorials",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -5291,7 +5628,8 @@
                 "owner": "EduinHSERNA",
                 "repo": "pyGEDI",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -5306,7 +5644,8 @@
                 "owner": "remotesensinginfo",
                 "repo": "pysl4land",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -5321,7 +5660,8 @@
                 "owner": "HeatherKmtb",
                 "repo": "q_research",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -5336,7 +5676,8 @@
                 "owner": "rodolfolotte",
                 "repo": "gedi",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -5351,7 +5692,8 @@
                 "owner": "JohMast",
                 "repo": "GEDI_Yucatan",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             },
             {
               "node_type": "item",
@@ -5366,7 +5708,8 @@
                 "owner": "rbavery",
                 "repo": "sprnca_gedi",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ],
           "description": null,
@@ -5392,7 +5735,8 @@
             "owner": "insarlab",
             "repo": "MintPy",
             "stars": 829
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5407,7 +5751,8 @@
             "owner": "isce-framework",
             "repo": "isce2",
             "stars": 662
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5422,7 +5767,24 @@
             "owner": "yumorishita",
             "repo": "LiCSBAS",
             "stars": 283
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ISCE",
+          "description": "InSAR Scientific Computing Environment version 3 alpha",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290330635,
+            "language": "Python",
+            "last_commit": "2026-08-25T00:05:29Z",
+            "owner": "isce-framework",
+            "repo": "isce3",
+            "stars": 232
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5437,22 +5799,8 @@
             "owner": "GeoscienceAustralia",
             "repo": "PyRate",
             "stars": 232
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ISCE",
-          "description": "InSAR Scientific Computing Environment version 3 alpha",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 290330635,
-            "language": "Python",
-            "last_commit": "2026-08-25T00:05:29Z",
-            "owner": "isce-framework",
-            "repo": "isce3",
-            "stars": 231
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5467,7 +5815,8 @@
             "owner": "mdelgadoblasco",
             "repo": "snap2stamps",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5482,7 +5831,8 @@
             "owner": "aria-tools",
             "repo": "ARIA-tools",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5497,7 +5847,8 @@
             "owner": "levuvietphong",
             "repo": "InSARFlow",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5512,7 +5863,8 @@
             "owner": "RaphaelGrandin",
             "repo": "ROI_PAC-Sentinel1",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5527,7 +5879,8 @@
             "owner": "scottyhq",
             "repo": "insar_scripts",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5542,7 +5895,8 @@
             "owner": "EJFielding",
             "repo": "ISCE_utils",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "InSAR"
@@ -5563,7 +5917,8 @@
             "owner": "greppo-io",
             "repo": "greppo",
             "stars": 420
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5578,7 +5933,8 @@
             "owner": "nkeikon",
             "repo": "GEDI-experiment",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5593,7 +5949,8 @@
             "owner": "openearth",
             "repo": "videomap",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "Visualisation"
@@ -5614,7 +5971,8 @@
             "owner": "ECMWFCode4Earth",
             "repo": "challenges_2020",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5629,7 +5987,8 @@
             "owner": "ECMWFCode4Earth",
             "repo": "challenges_2021",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5644,7 +6003,8 @@
             "owner": "drivendataorg",
             "repo": "cloud-cover-winners",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5659,7 +6019,8 @@
             "owner": "wekeo",
             "repo": "AtmosHack2018",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "group",
@@ -5679,7 +6040,8 @@
                 "owner": "neptune-ai",
                 "repo": "open-solution-mapping-challenge",
                 "stars": 387
-              }
+              },
+              "first_seen": "2026-08-29T00:02:06.782Z"
             }
           ]
         }
@@ -5701,8 +6063,9 @@
             "last_commit": "2025-09-18T05:12:40Z",
             "owner": "fchollet",
             "repo": "deep-learning-with-python-notebooks",
-            "stars": 20277
-          }
+            "stars": 20278
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5717,7 +6080,8 @@
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
             "stars": 10847
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5732,7 +6096,8 @@
             "owner": "dunovank",
             "repo": "jupyter-themes",
             "stars": 9818
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5746,8 +6111,9 @@
             "last_commit": "2024-03-14T02:46:03Z",
             "owner": "amueller",
             "repo": "introduction_to_ml_with_python",
-            "stars": 8163
-          }
+            "stars": 8164
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5758,11 +6124,12 @@
             "archived": false,
             "id": 13221727,
             "language": "Python",
-            "last_commit": "2026-08-24T12:53:34Z",
+            "last_commit": "2026-08-28T03:44:56Z",
             "owner": "pydata",
             "repo": "xarray",
-            "stars": 4190
-          }
+            "stars": 4191
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5777,7 +6144,8 @@
             "owner": "parrt",
             "repo": "dtreeviz",
             "stars": 3155
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5792,7 +6160,8 @@
             "owner": "k-sys",
             "repo": "covid-19",
             "stars": 1361
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5807,7 +6176,8 @@
             "owner": "ternaus",
             "repo": "TernausNet",
             "stars": 1063
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5822,7 +6192,8 @@
             "owner": "GeostatsGuy",
             "repo": "Resources",
             "stars": 396
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5837,7 +6208,8 @@
             "owner": "fangohr",
             "repo": "introduction-to-python-for-computational-science-and-engineering",
             "stars": 391
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5852,7 +6224,8 @@
             "owner": "gpetepg",
             "repo": "python_tips",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5867,7 +6240,8 @@
             "owner": "GDSL-UL",
             "repo": "Teaching_Links",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5882,7 +6256,8 @@
             "owner": "usmanr149",
             "repo": "Classification-Algorithm",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "Interesting Non EO parts Python"
@@ -5902,8 +6277,9 @@
             "last_commit": "2025-02-27T11:20:29Z",
             "owner": "csgillespie",
             "repo": "efficientR",
-            "stars": 738
-          }
+            "stars": 737
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "Interesting Non EO parts other languages"
@@ -5924,7 +6300,8 @@
             "owner": "rockita",
             "repo": "Environmental_Intelligence",
             "stars": 301
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "Data"
@@ -5941,11 +6318,12 @@
             "archived": false,
             "id": 58225794,
             "language": null,
-            "last_commit": "2026-08-25T16:07:49Z",
+            "last_commit": "2026-08-28T09:10:40Z",
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5270
-          }
+            "stars": 5271
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5959,8 +6337,9 @@
             "last_commit": "2026-04-16T14:44:49Z",
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2312
-          }
+            "stars": 2313
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5975,7 +6354,8 @@
             "owner": "chrieke",
             "repo": "awesome-geospatial-companies",
             "stars": 888
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -5990,7 +6370,8 @@
             "owner": "kr-stn",
             "repo": "awesome-sentinel",
             "stars": 583
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         },
         {
           "node_type": "item",
@@ -6005,14 +6386,15 @@
             "owner": "attibalazs",
             "repo": "awesome-remote-sensing",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-29T00:02:06.782Z"
         }
       ],
       "title": "A footnote on awesome"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:27:09.862Z",
+    "last_updated": "2026-08-29T00:02:06.782Z",
     "original_repository_info": {
       "archived": false,
       "id": 255615540,
@@ -6020,7 +6402,7 @@
       "last_commit": "2026-05-13T19:36:13Z",
       "owner": "acgeospatial",
       "repo": "awesome-earthobservation-code",
-      "stars": 1378
+      "stars": 1379
     },
     "original_repository_sha": "ff6f976fb813144e7dcbedf9ae27e14fab5a37fb",
     "enhanced_repository": "enhansome/enhansome-earthobservation-code",
