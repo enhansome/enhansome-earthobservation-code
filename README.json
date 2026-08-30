@@ -1961,7 +1961,7 @@
                         "open_issues": 47,
                         "owner": "radiantearth",
                         "repo": "stac-spec",
-                        "stars": 922,
+                        "stars": 923,
                         "topics": [
                           "earth-observation",
                           "earth-observation-catalogue",
@@ -2373,7 +2373,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-08-28T02:51:17Z",
-                        "open_issues": 32,
+                        "open_issues": 31,
                         "owner": "stac-utils",
                         "repo": "stac-fastapi-elasticsearch-opensearch",
                         "stars": 79,
@@ -2799,8 +2799,8 @@
                     "id": 194306692,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-24T08:13:33Z",
-                    "open_issues": 24,
+                    "last_commit": "2026-08-29T21:45:51Z",
+                    "open_issues": 26,
                     "owner": "developmentseed",
                     "repo": "titiler",
                     "stars": 1154,
@@ -3898,7 +3898,7 @@
                 "id": 125061415,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-20T18:08:18Z",
+                "last_commit": "2026-08-30T13:29:32Z",
                 "open_issues": 34,
                 "owner": "actinia-org",
                 "repo": "actinia-core",
@@ -4671,10 +4671,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:09:29Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "nasa-gibs",
             "repo": "worldview",
-            "stars": 1678,
+            "stars": 1685,
             "topics": [
               "data-visualization",
               "earth-science",
@@ -4700,7 +4700,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:15:34Z",
-            "open_issues": 132,
+            "open_issues": 133,
             "owner": "PDAL",
             "repo": "PDAL",
             "stars": 1405,
@@ -4724,7 +4724,7 @@
             "open_issues": 13,
             "owner": "sentinel-hub",
             "repo": "custom-scripts",
-            "stars": 702,
+            "stars": 703,
             "topics": [
               "earth-observation",
               "remote-sensing",
@@ -5698,7 +5698,7 @@
             "open_issues": 6,
             "owner": "opengeos",
             "repo": "segment-geospatial",
-            "stars": 4128,
+            "stars": 4129,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -5767,7 +5767,7 @@
                 "open_issues": 0,
                 "owner": "chrieke",
                 "repo": "awesome-satellite-imagery-datasets",
-                "stars": 3914,
+                "stars": 3913,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -6043,7 +6043,7 @@
             "open_issues": 21,
             "owner": "google",
             "repo": "earthengine-api",
-            "stars": 3403,
+            "stars": 3404,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:06.782Z"
@@ -7384,8 +7384,8 @@
             "id": 187247007,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T15:48:38Z",
-            "open_issues": 703,
+            "last_commit": "2026-08-29T19:26:42Z",
+            "open_issues": 702,
             "owner": "OSGeo",
             "repo": "grass",
             "stars": 1156,
@@ -7938,7 +7938,7 @@
             "open_issues": 46,
             "owner": "johntruckenbrodt",
             "repo": "pyroSAR",
-            "stars": 612,
+            "stars": 613,
             "topics": [
               "earth-observation",
               "gdal",
@@ -8486,7 +8486,7 @@
             "id": 166285655,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-08-29T15:57:25Z",
+            "last_commit": "2026-08-30T15:59:27Z",
             "open_issues": 31,
             "owner": "hobuinc",
             "repo": "usgs-lidar",
@@ -9247,7 +9247,7 @@
             "open_issues": 217,
             "owner": "fchollet",
             "repo": "deep-learning-with-python-notebooks",
-            "stars": 20280,
+            "stars": 20279,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:06.782Z"
@@ -9294,7 +9294,7 @@
             "open_issues": 205,
             "owner": "dunovank",
             "repo": "jupyter-themes",
-            "stars": 9818,
+            "stars": 9820,
             "topics": [
               "css",
               "jupyter",
@@ -9340,7 +9340,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T03:44:56Z",
-            "open_issues": 1425,
+            "open_issues": 1426,
             "owner": "pydata",
             "repo": "xarray",
             "stars": 4191,
@@ -9625,7 +9625,7 @@
             "open_issues": 1,
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5271,
+            "stars": 5270,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9760,7 +9760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:38:17.250Z",
+    "last_updated": "2026-08-30T18:39:30.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, tutorials, code, projects, links, stuff about Earth Observation, Geospatial Satellite Imagery",
@@ -9772,7 +9772,7 @@
       "open_issues": 6,
       "owner": "acgeospatial",
       "repo": "awesome-earthobservation-code",
-      "stars": 1379,
+      "stars": 1380,
       "topics": [
         "awesome",
         "awesome-list",
