@@ -440,7 +440,7 @@
                 "open_issues": 39,
                 "owner": "OpenGeoscience",
                 "repo": "geonotebook",
-                "stars": 1087,
+                "stars": 1088,
                 "topics": [
                   "analysis",
                   "jupyter",
@@ -563,7 +563,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-09-01T01:32:37Z",
-                "open_issues": 123,
+                "open_issues": 125,
                 "owner": "pytroll",
                 "repo": "pyresample",
                 "stars": 385,
@@ -815,7 +815,7 @@
                 "open_issues": 1,
                 "owner": "nasa-gibs",
                 "repo": "onearth",
-                "stars": 204,
+                "stars": 205,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:06.782Z"
@@ -2799,11 +2799,11 @@
                     "id": 194306692,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T06:45:56Z",
-                    "open_issues": 24,
+                    "last_commit": "2026-09-05T21:45:30Z",
+                    "open_issues": 27,
                     "owner": "developmentseed",
                     "repo": "titiler",
-                    "stars": 1165,
+                    "stars": 1176,
                     "topics": [
                       "aws-cdk",
                       "aws-lambda",
@@ -3317,7 +3317,7 @@
                 "open_issues": 4,
                 "owner": "sentinel-hub",
                 "repo": "sentinel2-cloud-detector",
-                "stars": 493,
+                "stars": 494,
                 "topics": [
                   "classification",
                   "cloud-detector",
@@ -3683,11 +3683,11 @@
                 "id": 14116604,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T16:18:20Z",
-                "open_issues": 157,
+                "last_commit": "2026-09-05T23:15:51Z",
+                "open_issues": 156,
                 "owner": "rasterio",
                 "repo": "rasterio",
-                "stars": 2568,
+                "stars": 2569,
                 "topics": [
                   "cli",
                   "cython",
@@ -3769,7 +3769,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-27T19:37:03Z",
-                "open_issues": 79,
+                "open_issues": 81,
                 "owner": "corteva",
                 "repo": "rioxarray",
                 "stars": 623,
@@ -4159,7 +4159,7 @@
             "open_issues": 5,
             "owner": "opengeos",
             "repo": "whiteboxR",
-            "stars": 187,
+            "stars": 188,
             "topics": [
               "geomorphometry",
               "geoprocessing",
@@ -4674,7 +4674,7 @@
             "open_issues": 22,
             "owner": "nasa-gibs",
             "repo": "worldview",
-            "stars": 1705,
+            "stars": 1802,
             "topics": [
               "data-visualization",
               "earth-science",
@@ -4699,8 +4699,8 @@
             "id": 2234863,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T07:05:21Z",
-            "open_issues": 136,
+            "last_commit": "2026-09-06T10:23:57Z",
+            "open_issues": 135,
             "owner": "PDAL",
             "repo": "PDAL",
             "stars": 1408,
@@ -4745,8 +4745,8 @@
             "id": 132832921,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-05T13:56:30Z",
-            "open_issues": 84,
+            "last_commit": "2026-09-06T12:56:23Z",
+            "open_issues": 83,
             "owner": "radiantearth",
             "repo": "stac-browser",
             "stars": 416,
@@ -4972,8 +4972,8 @@
             "id": 63650110,
             "language": "Julia",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T11:15:38Z",
-            "open_issues": 95,
+            "last_commit": "2026-09-06T12:50:38Z",
+            "open_issues": 97,
             "owner": "yeesian",
             "repo": "ArchGDAL.jl",
             "stars": 151,
@@ -5389,7 +5389,7 @@
                 "open_issues": 250,
                 "owner": "locationtech",
                 "repo": "geotrellis",
-                "stars": 1373,
+                "stars": 1374,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:06.782Z"
@@ -5729,7 +5729,7 @@
                 "open_issues": 0,
                 "owner": "satellite-image-deep-learning",
                 "repo": "techniques",
-                "stars": 10245,
+                "stars": 10246,
                 "topics": [
                   "convolutional-neural-networks",
                   "dataset",
@@ -5871,7 +5871,7 @@
                 "open_issues": 8,
                 "owner": "microsoft",
                 "repo": "Planetary-Explorer",
-                "stars": 188,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:06.782Z"
@@ -6043,7 +6043,7 @@
             "open_issues": 20,
             "owner": "google",
             "repo": "earthengine-api",
-            "stars": 3412,
+            "stars": 3413,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:06.782Z"
@@ -6857,7 +6857,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T02:12:12Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "opendatacube",
             "repo": "odc-stac",
             "stars": 202,
@@ -7384,11 +7384,11 @@
             "id": 187247007,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T15:59:05Z",
-            "open_issues": 702,
+            "last_commit": "2026-09-06T15:49:23Z",
+            "open_issues": 707,
             "owner": "OSGeo",
             "repo": "grass",
-            "stars": 1158,
+            "stars": 1159,
             "topics": [
               "arrays",
               "data-science",
@@ -7554,7 +7554,7 @@
             "open_issues": 379,
             "owner": "Unidata",
             "repo": "MetPy",
-            "stars": 1439,
+            "stars": 1440,
             "topics": [
               "atmospheric-science",
               "hacktoberfest",
@@ -8000,7 +8000,7 @@
             "open_issues": 6,
             "owner": "dm6718",
             "repo": "RITSAR",
-            "stars": 259,
+            "stars": 260,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:06.782Z"
@@ -8050,7 +8050,7 @@
             "open_issues": 10,
             "owner": "birgander2",
             "repo": "PyRAT",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "python",
               "radar",
@@ -8486,7 +8486,7 @@
             "id": 166285655,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-05T15:59:06Z",
+            "last_commit": "2026-09-06T15:59:26Z",
             "open_issues": 31,
             "owner": "hobuinc",
             "repo": "usgs-lidar",
@@ -8796,7 +8796,7 @@
             "open_issues": 162,
             "owner": "isce-framework",
             "repo": "isce3",
-            "stars": 236,
+            "stars": 237,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:06.782Z"
@@ -9220,7 +9220,7 @@
             "open_issues": 218,
             "owner": "fchollet",
             "repo": "deep-learning-with-python-notebooks",
-            "stars": 20280,
+            "stars": 20282,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:06.782Z"
@@ -9241,7 +9241,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10845,
+            "stars": 10846,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -9295,7 +9295,7 @@
             "open_issues": 28,
             "owner": "amueller",
             "repo": "introduction_to_ml_with_python",
-            "stars": 8169,
+            "stars": 8170,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:06.782Z"
@@ -9313,7 +9313,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-05T13:07:36Z",
-            "open_issues": 1432,
+            "open_issues": 1435,
             "owner": "pydata",
             "repo": "xarray",
             "stars": 4193,
@@ -9598,7 +9598,7 @@
             "open_issues": 4,
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5277,
+            "stars": 5278,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9635,7 +9635,7 @@
             "open_issues": 2,
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2317,
+            "stars": 2318,
             "topics": [
               "awesome",
               "change-detection",
@@ -9733,7 +9733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T17:23:50.305Z",
+    "last_updated": "2026-09-06T17:37:04.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, tutorials, code, projects, links, stuff about Earth Observation, Geospatial Satellite Imagery",
@@ -9745,7 +9745,7 @@
       "open_issues": 9,
       "owner": "acgeospatial",
       "repo": "awesome-earthobservation-code",
-      "stars": 1381,
+      "stars": 1382,
       "topics": [
         "awesome",
         "awesome-list",
