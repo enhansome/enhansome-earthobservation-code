@@ -806,7 +806,7 @@
                 "open_issues": 1,
                 "owner": "nasa-gibs",
                 "repo": "onearth",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:06.782Z"
@@ -2363,8 +2363,8 @@
                         "id": 453523036,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-10-01T02:16:31Z",
-                        "open_issues": 38,
+                        "last_commit": "2026-10-03T04:03:43Z",
+                        "open_issues": 33,
                         "owner": "stac-utils",
                         "repo": "stac-fastapi-elasticsearch-opensearch",
                         "stars": 81,
@@ -2730,7 +2730,7 @@
                     {
                       "node_type": "item",
                       "title": "stac-table",
-                      "description": null,
+                      "description": "stac-utils/stac-table",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -3271,8 +3271,8 @@
                 "id": 90404940,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-06-18T14:55:06Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-02T23:18:42Z",
+                "open_issues": 17,
                 "owner": "planetlabs",
                 "repo": "notebooks",
                 "stars": 679,
@@ -3731,7 +3731,7 @@
                 "open_issues": 78,
                 "owner": "xarray-contrib",
                 "repo": "xarray-spatial",
-                "stars": 973,
+                "stars": 974,
                 "topics": [
                   "numba",
                   "python",
@@ -4656,8 +4656,8 @@
             "id": 19028976,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T19:54:03Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-02T21:11:19Z",
+            "open_issues": 23,
             "owner": "nasa-gibs",
             "repo": "worldview",
             "stars": 1873,
@@ -4831,7 +4831,7 @@
             "id": 21936951,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T12:14:30Z",
+            "last_commit": "2026-10-02T23:20:50Z",
             "open_issues": 21,
             "owner": "senbox-org",
             "repo": "snap-engine",
@@ -5362,7 +5362,7 @@
             {
               "node_type": "item",
               "title": "GeoTrellis on Github - Scala",
-              "description": null,
+              "description": "locationtech/geotrellis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6887,8 +6887,8 @@
             "id": 64436705,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T23:18:22Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-02T21:12:57Z",
+            "open_issues": 55,
             "owner": "opendatacube",
             "repo": "datacube-explorer",
             "stars": 64,
@@ -7017,8 +7017,8 @@
                 "id": 35531022,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T07:18:31Z",
-                "open_issues": 86,
+                "last_commit": "2026-10-02T23:33:03Z",
+                "open_issues": 87,
                 "owner": "opendatacube",
                 "repo": "datacube-core",
                 "stars": 588,
@@ -7156,7 +7156,7 @@
             {
               "node_type": "item",
               "title": "planetary-computer-apis",
-              "description": null,
+              "description": "microsoft/planetary-computer-apis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7292,7 +7292,7 @@
         {
           "node_type": "item",
           "title": "planetary-computer-deep-dives",
-          "description": null,
+          "description": "TomAugspurger/planetary-computer-deep-dives",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7370,8 +7370,8 @@
             "id": 187247007,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T17:45:07Z",
-            "open_issues": 705,
+            "last_commit": "2026-10-03T03:08:47Z",
+            "open_issues": 703,
             "owner": "OSGeo",
             "repo": "grass",
             "stars": 1174,
@@ -7416,7 +7416,7 @@
             "open_issues": 16,
             "owner": "gee-community",
             "repo": "qgis-earthengine-plugin",
-            "stars": 515,
+            "stars": 516,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:06.782Z"
@@ -8419,7 +8419,7 @@
             "open_issues": 9,
             "owner": "opengeos",
             "repo": "lidar",
-            "stars": 306,
+            "stars": 307,
             "topics": [
               "digital-elevation-model",
               "gis",
@@ -9298,11 +9298,11 @@
             "id": 13221727,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:00:41Z",
+            "last_commit": "2026-10-02T21:39:55Z",
             "open_issues": 1433,
             "owner": "pydata",
             "repo": "xarray",
-            "stars": 4207,
+            "stars": 4206,
             "topics": [
               "dask",
               "netcdf",
@@ -9581,7 +9581,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-29T15:02:37Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
             "stars": 5309,
@@ -9648,7 +9648,7 @@
             "open_issues": 5,
             "owner": "chrieke",
             "repo": "awesome-geospatial-companies",
-            "stars": 892,
+            "stars": 891,
             "topics": [
               "companies",
               "earth-observation",
@@ -9719,7 +9719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:58:59.442Z",
+    "last_updated": "2026-10-03T04:44:40.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, tutorials, code, projects, links, stuff about Earth Observation, Geospatial Satellite Imagery",
