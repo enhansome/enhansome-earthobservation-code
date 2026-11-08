@@ -721,7 +721,7 @@
                 "open_issues": 1,
                 "owner": "daleroberts",
                 "repo": "bv",
-                "stars": 234,
+                "stars": 235,
                 "topics": [
                   "command-line",
                   "computer-vision",
@@ -2193,7 +2193,7 @@
                         "language": "Rust",
                         "license": "Apache-2.0",
                         "last_commit": "2026-11-04T23:27:48Z",
-                        "open_issues": 31,
+                        "open_issues": 34,
                         "owner": "stac-utils",
                         "repo": "rustac",
                         "stars": 149,
@@ -2224,7 +2224,7 @@
                         "language": "Rust",
                         "license": "Apache-2.0",
                         "last_commit": "2026-11-04T23:27:48Z",
-                        "open_issues": 31,
+                        "open_issues": 34,
                         "owner": "stac-utils",
                         "repo": "rustac",
                         "stars": 149,
@@ -2342,8 +2342,8 @@
                         "id": 453523036,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-06T16:36:39Z",
-                        "open_issues": 32,
+                        "last_commit": "2026-11-08T17:36:44Z",
+                        "open_issues": 28,
                         "owner": "stac-utils",
                         "repo": "stac-fastapi-elasticsearch-opensearch",
                         "stars": 84,
@@ -2790,8 +2790,8 @@
                     "id": 194306692,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-02T16:18:47Z",
-                    "open_issues": 26,
+                    "last_commit": "2026-11-07T21:48:08Z",
+                    "open_issues": 29,
                     "owner": "developmentseed",
                     "repo": "titiler",
                     "stars": 1206,
@@ -3020,7 +3020,7 @@
                 "open_issues": 5,
                 "owner": "kscottz",
                 "repo": "PythonFromSpace",
-                "stars": 472,
+                "stars": 473,
                 "topics": [
                   "computer-vision",
                   "gis",
@@ -3474,7 +3474,7 @@
                 "id": 995575032,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-10-01T15:38:15Z",
+                "last_commit": "2026-11-08T01:04:35Z",
                 "open_issues": 3,
                 "owner": "SkyTruth",
                 "repo": "offshore-methane",
@@ -3727,8 +3727,8 @@
                 "id": 239188894,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-06T17:09:25Z",
-                "open_issues": 60,
+                "last_commit": "2026-11-08T10:16:51Z",
+                "open_issues": 57,
                 "owner": "xarray-contrib",
                 "repo": "xarray-spatial",
                 "stars": 978,
@@ -3755,7 +3755,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-02T20:06:59Z",
-                "open_issues": 77,
+                "open_issues": 78,
                 "owner": "vylor",
                 "repo": "rioxarray",
                 "stars": 630,
@@ -4686,7 +4686,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-06T22:14:59Z",
-            "open_issues": 132,
+            "open_issues": 122,
             "owner": "PDAL",
             "repo": "PDAL",
             "stars": 1432,
@@ -5753,7 +5753,7 @@
                 "open_issues": 0,
                 "owner": "chrieke",
                 "repo": "awesome-satellite-imagery-datasets",
-                "stars": 3922,
+                "stars": 3921,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -5857,7 +5857,7 @@
                 "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "Planetary-Explorer",
-                "stars": 200,
+                "stars": 201,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:06.782Z"
@@ -6029,7 +6029,7 @@
             "open_issues": 21,
             "owner": "google",
             "repo": "earthengine-api",
-            "stars": 3478,
+            "stars": 3479,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:06.782Z"
@@ -7213,7 +7213,7 @@
                 "open_issues": 30,
                 "owner": "microsoft",
                 "repo": "PlanetaryComputerDataCatalog",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "aiforearth"
                 ]
@@ -7370,11 +7370,11 @@
             "id": 187247007,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T17:16:46Z",
-            "open_issues": 716,
+            "last_commit": "2026-11-08T18:10:26Z",
+            "open_issues": 718,
             "owner": "OSGeo",
             "repo": "grass",
-            "stars": 1187,
+            "stars": 1188,
             "topics": [
               "arrays",
               "data-science",
@@ -7537,7 +7537,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-02T14:23:56Z",
-            "open_issues": 421,
+            "open_issues": 422,
             "owner": "Unidata",
             "repo": "MetPy",
             "stars": 1457,
@@ -7952,7 +7952,7 @@
             "id": 437531528,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T18:37:33Z",
+            "last_commit": "2026-11-08T19:21:53Z",
             "open_issues": 14,
             "owner": "bopen",
             "repo": "sarsen",
@@ -8134,7 +8134,7 @@
             "open_issues": 5,
             "owner": "nansencenter",
             "repo": "sea_ice_drift",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:06.782Z"
@@ -8420,7 +8420,7 @@
             "open_issues": 9,
             "owner": "opengeos",
             "repo": "lidar",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "digital-elevation-model",
               "gis",
@@ -8473,7 +8473,7 @@
             "id": 166285655,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-07T16:00:52Z",
+            "last_commit": "2026-11-08T15:57:51Z",
             "open_issues": 33,
             "owner": "hobuinc",
             "repo": "usgs-lidar",
@@ -8804,7 +8804,7 @@
             "open_issues": 32,
             "owner": "GeoscienceAustralia",
             "repo": "PyRate",
-            "stars": 234,
+            "stars": 233,
             "topics": [
               "geodesy",
               "geoscience",
@@ -9207,7 +9207,7 @@
             "open_issues": 221,
             "owner": "fchollet",
             "repo": "deep-learning-with-python-notebooks",
-            "stars": 20361,
+            "stars": 20363,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:06.782Z"
@@ -9254,7 +9254,7 @@
             "open_issues": 205,
             "owner": "dunovank",
             "repo": "jupyter-themes",
-            "stars": 9818,
+            "stars": 9819,
             "topics": [
               "css",
               "jupyter",
@@ -9282,7 +9282,7 @@
             "open_issues": 29,
             "owner": "amueller",
             "repo": "introduction_to_ml_with_python",
-            "stars": 8226,
+            "stars": 8227,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:06.782Z"
@@ -9300,10 +9300,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T03:37:03Z",
-            "open_issues": 1382,
+            "open_issues": 1383,
             "owner": "pydata",
             "repo": "xarray",
-            "stars": 4221,
+            "stars": 4222,
             "topics": [
               "dask",
               "netcdf",
@@ -9527,7 +9527,7 @@
             "open_issues": 33,
             "owner": "csgillespie",
             "repo": "efficientR",
-            "stars": 739,
+            "stars": 738,
             "topics": [
               "book",
               "r",
@@ -9581,11 +9581,11 @@
             "id": 58225794,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-11-05T18:58:37Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-08T09:40:23Z",
+            "open_issues": 21,
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5365,
+            "stars": 5370,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9720,7 +9720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:29:10.927Z",
+    "last_updated": "2026-11-08T19:45:30.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, tutorials, code, projects, links, stuff about Earth Observation, Geospatial Satellite Imagery",
