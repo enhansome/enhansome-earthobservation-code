@@ -49,7 +49,7 @@ Two excellent videos (approx 20mins) about `Earth observation`
 
 [How Radar Satellites See through Clouds (Synthetic Aperture Radar Explained)](https://www.youtube.com/watch?v=zMsCyEAOrh0)
 
-Not sure the best place for data catalogs is but this is a good start if that interests you [Data Catalogs](https://github.com/opengeos/geospatial-data-catalogs) ⭐ 672 | 🐛 0 | 🌐 Python | 📅 2026-11-23
+Not sure the best place for data catalogs is but this is a good start if that interests you [Data Catalogs](https://github.com/opengeos/geospatial-data-catalogs) ⭐ 673 | 🐛 0 | 🌐 Python | 📅 2026-11-24
 
 * [Mapping Data Sources](https://github.com/kevinbullock/Mapping-data) ⭐ 18 | 🐛 1 | 🌐 HTML | 📅 2025-10-21 - Aggregating sources of mapping data [An AI version](https://kevinbullock.github.io/Mapping-data/)
 
@@ -97,17 +97,17 @@ This section full of great code and projects related to processing optical satel
 
 * [geonotebook](https://github.com/OpenGeoscience/geonotebook) ⚠️ Archived - A Jupyter notebook extension for geospatial visualization and analysis `Python`
 
-* [CostalSat](https://github.com/kvos/CoastSat) ⭐ 914 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-06-05 - Global shoreline mapping tool from satellite imagery `Python`
+* [CostalSat](https://github.com/kvos/CoastSat) ⭐ 913 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-06-05 - Global shoreline mapping tool from satellite imagery `Python`
 
 * [verde](https://github.com/fatiando/verde) ⭐ 676 | 🐛 42 | 🌐 Python | 📅 2026-11-16 - Processing and gridding spatial data using Green's functions
 
-* [EarthPy](https://github.com/earthlab/earthpy) ⭐ 538 | 🐛 45 | 🌐 Python | 📅 2026-08-16 - A package built to support working with spatial data using open source python. [docs](https://earthpy.readthedocs.io/en/latest/)
+* [EarthPy](https://github.com/earthlab/earthpy) ⭐ 537 | 🐛 45 | 🌐 Python | 📅 2026-08-16 - A package built to support working with spatial data using open source python. [docs](https://earthpy.readthedocs.io/en/latest/)
 
-* [pyresample](https://github.com/pytroll/pyresample) ⭐ 388 | 🐛 122 | 🌐 Python | 📅 2026-11-19 - Geospatial image resampling in `Python`
+* [pyresample](https://github.com/pytroll/pyresample) ⭐ 387 | 🐛 122 | 🌐 Python | 📅 2026-11-19 - Geospatial image resampling in `Python`
 
 * [geocube](https://github.com/corteva/geocube) ⭐ 382 | 🐛 7 | 🌐 Python | 📅 2026-11-02 - Tool to convert geopandas vector data into rasterized xarray data. `Python` [docs](https://corteva.github.io/geocube/stable/)
 
-* [EOReader](https://github.com/sertit/eoreader) ⭐ 355 | 🐛 66 | 🌐 Python | 📅 2026-11-05 - Opensource `Python` library reading optical and SAR sensors, loading and stacking bands in a sensor-agnostic way.
+* [EOReader](https://github.com/sertit/eoreader) ⭐ 356 | 🐛 66 | 🌐 Python | 📅 2026-11-05 - Opensource `Python` library reading optical and SAR sensors, loading and stacking bands in a sensor-agnostic way.
 
 * [s2p](https://github.com/cmla/s2p) ⭐ 272 | 🐛 32 | 🌐 Python | 📅 2025-10-17 - Satellite Stereo Pipeline `Python`
 
@@ -117,13 +117,13 @@ This section full of great code and projects related to processing optical satel
 
 * [xcube](https://github.com/dcs4cop/xcube) ⭐ 230 | 🐛 170 | 🌐 Python | 📅 2026-11-02 - xcube is a `Python` package for generating and exploiting data cubes powered by xarray, dask, and zarr
 
-* [mapchete](https://github.com/ungarj/mapchete) ⭐ 211 | 🐛 48 | 🌐 Python | 📅 2026-11-20 - Tile-based geodata processing using rasterio & Fiona `Python`
+* [mapchete](https://github.com/ungarj/mapchete) ⭐ 211 | 🐛 48 | 🌐 Python | 📅 2026-11-24 - Tile-based geodata processing using rasterio & Fiona `Python`
 
 * [onearth](https://github.com/nasa-gibs/onearth) ⭐ 208 | 🐛 3 | 🌐 Python | 📅 2026-11-18 - High-performance web services for tiled raster imagery and vector tiles `Python`
 
 * [cresi](https://github.com/avanetten/cresi) ⭐ 205 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2022-08-25 - Road network extraction from satellite imagery, with speed and travel time estmates
 
-* [nansat](https://github.com/nansencenter/nansat) ⭐ 186 | 🐛 100 | 🌐 Python | 📅 2026-09-23 - Scientist friendly Python toolbox for processing 2D satellite Earth observation data. `Python`[docs](https://nansat.readthedocs.io/en/latest/index.html)
+* [nansat](https://github.com/nansencenter/nansat) ⭐ 185 | 🐛 100 | 🌐 Python | 📅 2026-09-23 - Scientist friendly Python toolbox for processing 2D satellite Earth observation data. `Python`[docs](https://nansat.readthedocs.io/en/latest/index.html)
 
 * [StarFM for Python](https://github.com/nmileva/starfm4py) ⭐ 151 | 🐛 1 | 🌐 Python | 📅 2023-02-08 - The STARFM fusion model for `Python` (image fusion)
 
@@ -220,7 +220,7 @@ This section full of great code and projects related to processing optical satel
 #### STAC
 
 * [stac-utils](https://github.com/stac-utils) - Tools for working with SpatioTemporal Asset Catalogs (STAC) (perhaps worth going here first for STAC) `Python` `Javascript`
-  * [STAC Spec](https://github.com/radiantearth/stac-spec) ⭐ 943 | 🐛 54 | 🌐 JavaScript | 📅 2026-11-21 - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
+  * [STAC Spec](https://github.com/radiantearth/stac-spec) ⭐ 943 | 🐛 54 | 🌐 JavaScript | 📅 2026-11-24 - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
   * [pystac](https://github.com/stac-utils/pystac) ⭐ 469 | 🐛 71 | 🌐 Python | 📅 2026-11-19 - `Python` library for working with any SpatioTemporal Asset Catalog (STAC)
     * [pystac-client](https://github.com/stac-utils/pystac-client) ⭐ 212 | 🐛 32 | 🌐 Python | 📅 2026-11-23 - `Python` client for STAC Catalogs and APIs
     * [stactools](https://github.com/stac-utils/stactools) ⭐ 112 | 🐛 43 | 🌐 Python | 📅 2024-12-23 - Command line utility and `Python` library for STAC
@@ -230,16 +230,16 @@ This section full of great code and projects related to processing optical satel
   * [pgstac](https://github.com/stac-utils/pgstac) ⭐ 230 | 🐛 80 | 🌐 PLpgSQL | 📅 2026-11-19 - Schema, functions and a python library for storing and accessing STAC collections and items in PostgreSQL
   * [pystac-client](https://github.com/stac-utils/pystac-client) ⭐ 212 | 🐛 32 | 🌐 Python | 📅 2026-11-23 - `Python` client for searching STAC APIs
   * [stac-geoparquet](https://github.com/stac-utils/stac-geoparquet) ⭐ 159 | 🐛 20 | 🌐 Python | 📅 2026-11-20 - Convert STAC items to geoparquet. `Python`
-  * [stac-rs](https://github.com/stac-utils/stac-rs) ⭐ 150 | 🐛 34 | 🌐 Rust | 📅 2026-11-19 - `Rust` implementation of the SpatioTemporal Asset Catalog (STAC) specification
-  * [stac-rs](https://github.com/stac-utils/stac-rs) ⭐ 150 | 🐛 34 | 🌐 Rust | 📅 2026-11-19 - Tools and libraries for the SpatioTemporal Asset Catalog (STAC) specification, written in `Rust`
-  * [titiler-pgstac](https://github.com/stac-utils/titiler-pgstac) ⭐ 136 | 🐛 9 | 🌐 Python | 📅 2026-11-23 - TiTiler + PgSTAC
-  * [stac-fastapi-pgstac](https://github.com/stac-utils/stac-fastapi-pgstac) ⭐ 117 | 🐛 36 | 🌐 Python | 📅 2026-11-20 - PostgreSQL backend for stac-fastapi using pgstac
+  * [stac-rs](https://github.com/stac-utils/stac-rs) ⭐ 150 | 🐛 36 | 🌐 Rust | 📅 2026-11-24 - `Rust` implementation of the SpatioTemporal Asset Catalog (STAC) specification
+  * [stac-rs](https://github.com/stac-utils/stac-rs) ⭐ 150 | 🐛 36 | 🌐 Rust | 📅 2026-11-24 - Tools and libraries for the SpatioTemporal Asset Catalog (STAC) specification, written in `Rust`
+  * [titiler-pgstac](https://github.com/stac-utils/titiler-pgstac) ⭐ 136 | 🐛 9 | 🌐 Python | 📅 2026-11-24 - TiTiler + PgSTAC
+  * [stac-fastapi-pgstac](https://github.com/stac-utils/stac-fastapi-pgstac) ⭐ 117 | 🐛 36 | 🌐 Python | 📅 2026-11-24 - PostgreSQL backend for stac-fastapi using pgstac
   * [stac-server](https://github.com/stac-utils/stac-server) ⭐ 103 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-18 - A Node-based STAC API, AWS Serverless, OpenSearch `Javascript`
   * [qgis-stac-plugin](https://github.com/stac-utils/qgis-stac-plugin) ⭐ 89 | 🐛 65 | 🌐 Python | 📅 2024-07-30 - QGIS plugin for reading STAC APIs `Python`
-  * [elastic search](https://github.com/stac-utils/stac-fastapi-elasticsearch-opensearch) ⭐ 84 | 🐛 30 | 🌐 Python | 📅 2026-11-21 - Elasticsearch backend for stac-fastapi with Opensearch support. `Python`
+  * [elastic search](https://github.com/stac-utils/stac-fastapi-elasticsearch-opensearch) ⭐ 84 | 🐛 30 | 🌐 Python | 📅 2026-11-24 - Elasticsearch backend for stac-fastapi with Opensearch support. `Python`
   * [stac-pydantic](https://github.com/stac-utils/stac-pydantic) ⭐ 83 | 🐛 10 | 🌐 Python | 📅 2026-11-23 - Pydantic data models for the STAC spec `Python`
   * [easystac](https://github.com/cloudsen12/easystac) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2022-08-07 - A `Python` package for simple STAC queries
-  * [stac-validator](https://github.com/stac-utils/stac-validator) ⭐ 62 | 🐛 11 | 🌐 Python | 📅 2026-09-07 - Validator for the stac-spec `Python`
+  * [stac-validator](https://github.com/stac-utils/stac-validator) ⭐ 62 | 🐛 13 | 🌐 Python | 📅 2026-09-07 - Validator for the stac-spec `Python`
   * [stac-layer](https://github.com/stac-utils/stac-layer) ⭐ 53 | 🐛 13 | 🌐 HTML | 📅 2026-10-06 - Visualize a STAC Item or Collection on a Leaflet Map
   * [xpystac](https://github.com/stac-utils/xpystac) ⭐ 50 | 🐛 9 | 🌐 Python | 📅 2026-11-17 - For extending xarray.open\_dataset to accept pystac objects `Python`
   * [stac-asset](https://github.com/stac-utils/stac-asset) ⭐ 48 | 🐛 19 | 🌐 Python | 📅 2026-11-23 - Read and download STAC Assets, using a variety of authentication schemes
@@ -258,9 +258,9 @@ This section full of great code and projects related to processing optical satel
 
 #### COG
 
-* [titiler](https://github.com/developmentseed/titiler) ⭐ 1,210 | 🐛 27 | 🌐 Python | 📅 2026-11-21 - A modern dynamic tile server built on top of `FastAPI` and `Rasterio/GDAL`.
+* [titiler](https://github.com/developmentseed/titiler) ⭐ 1,210 | 🐛 28 | 🌐 Python | 📅 2026-11-24 - A modern dynamic tile server built on top of `FastAPI` and `Rasterio/GDAL`.
 * [cogeo-mosaic](https://github.com/developmentseed/cogeo-mosaic) ⭐ 121 | 🐛 24 | 🌐 Python | 📅 2026-09-18 - Create and use COG mosaic based on mosaicJSON `Python`
-* [cogeotiff](https://github.com/blacha/cogeotiff) ⭐ 117 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-23 - High performance cloud optimised geotiff reader
+* [cogeotiff](https://github.com/blacha/cogeotiff) ⭐ 117 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-24 - High performance cloud optimised geotiff reader
 * [async-cog-reader](https://github.com/geospatial-jeff/async-cog-reader) ⭐ 76 | 🐛 29 | 🌐 Python | 📅 2021-07-02 - Read Cloud Optimized GeoTiffs without GDAL`Python`
 * [aiocogeo](https://github.com/geospatial-jeff/aiocogeo) ⭐ 76 | 🐛 29 | 🌐 Python | 📅 2021-07-02 - Asynchronous cogeotiff reader `Python`
 * [COG Dumper](https://github.com/mapbox/COGDumper) ⭐ 72 | 🐛 4 | 🌐 Python | 📅 2026-06-29 - Dumps tiles out of a cloud optimized geotiff `Python`
@@ -291,7 +291,7 @@ This section full of great code and projects related to processing optical satel
 * [sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) ⭐ 498 | 🐛 4 | 🌐 Python | 📅 2026-01-15 - Sentinel Hub Cloud Detector for Sentinel-2 images in `Python`
 * [Planet-client-API](https://github.com/planetlabs/planet-client-python) ⭐ 300 | 🐛 84 | 🌐 Python | 📅 2026-11-23 - `Python` client for Planet APIs
 * [Orbit predictor](https://github.com/satellogic/orbit-predictor) ⭐ 151 | 🐛 18 | 🌐 Python | 📅 2025-06-16 - Python library to propagate satellite orbits.
-* [up42-py](https://github.com/up42/up42-py) ⭐ 144 | 🐛 9 | 🌐 Python | 📅 2026-11-23 - Python SDK for UP42, the geospatial marketplace and developer platform. `Python`
+* [up42-py](https://github.com/up42/up42-py) ⭐ 144 | 🐛 11 | 🌐 Python | 📅 2026-11-24 - Python SDK for UP42, the geospatial marketplace and developer platform. `Python`
 * [icecube](https://github.com/iceye-ltd/icecube) ⭐ 87 | 🐛 6 | 🌐 Python | 📅 2021-12-09 - Create time-series datacubes for supervised machine learning with ICEYE SAR images. `Python`
 * [Maxar GDBx tools](https://github.com/DigitalGlobe/gbdxtools) ⚠️ Archived - Python SDK for using GBDX.
 * \[Project Eucalyptus]\(<https://github.com/Orbio-Earth/Project-Eucalyptus> ⭐ 48 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-06-26 - Open-source pipelines for satellite-based methane detection. Includes trained segmentation models, a synthetic plume generator, and benchmarking tools for Sentinel-2, Landsat 8/9, and EMIT. For research and non-commercial use. `Python`
@@ -313,9 +313,9 @@ This section full of great code and projects related to processing optical satel
 ### Python libraries related to EO
 
 * [rasterio](https://github.com/mapbox/rasterio) ⭐ 2,596 | 🐛 159 | 🌐 Python | 📅 2026-11-23 - Rasterio reads and writes geospatial raster datasets
-* [SatPy](https://github.com/pytroll/satpy) ⭐ 1,216 | 🐛 561 | 🌐 Python | 📅 2026-11-20 - `Python` package for earth-observing satellite data processing
+* [SatPy](https://github.com/pytroll/satpy) ⭐ 1,215 | 🐛 562 | 🌐 Python | 📅 2026-11-20 - `Python` package for earth-observing satellite data processing
 * [xarray-spatial](https://github.com/makepath/xarray-spatial) ⭐ 982 | 🐛 43 | 🌐 Python | 📅 2026-11-23 - Raster-based Spatial Analysis for `Python`
-* [rioxarray](https://github.com/corteva/rioxarray) ⭐ 633 | 🐛 81 | 🌐 Python | 📅 2026-11-23 - geospatial xarray extension powered by rasterio [docs](https://corteva.github.io/rioxarray/stable/)
+* [rioxarray](https://github.com/corteva/rioxarray) ⭐ 633 | 🐛 80 | 🌐 Python | 📅 2026-11-24 - geospatial xarray extension powered by rasterio [docs](https://corteva.github.io/rioxarray/stable/)
 * [RasterStats](https://github.com/perrygeo/python-rasterstats) ⭐ 564 | 🐛 41 | 🌐 Python | 📅 2026-05-23 - Summary statistics of geospatial raster datasets based on vector geometries. `Python`
 * [Whitebox Python](https://github.com/giswqs/whitebox-python) ⭐ 430 | 🐛 1 | 🌐 Python | 📅 2026-01-31 - WhiteboxTools `Python` Frontend
 * [pyimpute](https://github.com/perrygeo/pyimpute) ⭐ 128 | 🐛 6 | 🌐 Python | 📅 2023-01-15 - Spatial classification and regression using Scikit-learn and Rasterio `Python`
@@ -323,7 +323,7 @@ This section full of great code and projects related to processing optical satel
 * [actinia core](https://github.com/mundialis/actinia_core) ⭐ 95 | 🐛 24 | 🌐 Python | 📅 2026-11-20 - Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks. `Python`
 * [ukis-pysat](https://github.com/dlr-eoc/ukis-pysat) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2023-06-06 - generic classes and functions to query, access and process multi-spectral and SAR satellite images
 * [Xarray pyconuk 2018](https://github.com/robintw/XArray_PyConUK2018) ⭐ 18 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-06-15 - Code and slides for my talk at PyCon UK 2018 on XArray `Python`
-* \[titiler-eopf]\(<https://github.com/EOPF-Explorer/titiler-eopf> ⭐ 18 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-11-20 - TiTiler application for EOPF dataset `Python`
+* \[titiler-eopf]\(<https://github.com/EOPF-Explorer/titiler-eopf> ⭐ 18 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-11-24 - TiTiler application for EOPF dataset `Python`
 * [actinia satellite plugin](https://github.com/mundialis/actinia_satellite_plugin) ⚠️ Archived - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes `Python`
 * [Scikit-eo](https://yotarazona.github.io/scikit-eo/tutorials/) - a rich suite of algorithms specifically designed for environmental studies
 
@@ -408,15 +408,15 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 
 ## Languages other than `Python` and `R`
 
-* [Worldview](https://github.com/nasa-gibs/worldview) ⭐ 1,976 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-23 - Interactive interface for browsing global, full-resolution satellite imagery `Javascript` application [here](https://worldview.earthdata.nasa.gov/)
+* [Worldview](https://github.com/nasa-gibs/worldview) ⭐ 1,976 | 🐛 17 | 🌐 JavaScript | 📅 2026-11-24 - Interactive interface for browsing global, full-resolution satellite imagery `Javascript` application [here](https://worldview.earthdata.nasa.gov/)
 * [PDAL](https://github.com/PDAL/PDAL) ⭐ 1,438 | 🐛 122 | 🌐 C++ | 📅 2026-11-23 - PDAL is Point Data Abstraction Library. GDAL for point cloud data.
 * [EO Browser Custom Scripts](https://github.com/sentinel-hub/custom-scripts) ⭐ 708 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-29 - A repository of custom scripts to be used with Sentinel Hub `JavaScript`
-* [stac-browser](https://github.com/radiantearth/stac-browser) ⭐ 437 | 🐛 91 | 🌐 JavaScript | 📅 2026-11-23 - A Vue-based STAC browser intended for static + dynamic deployment
-* [Global Forest Watch](https://github.com/Vizzuality/gfw) ⭐ 321 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-22 - Global Forest Watch: An online, global, near-real time forest monitoring tool
+* [stac-browser](https://github.com/radiantearth/stac-browser) ⭐ 437 | 🐛 90 | 🌐 JavaScript | 📅 2026-11-24 - A Vue-based STAC browser intended for static + dynamic deployment
+* [Global Forest Watch](https://github.com/Vizzuality/gfw) ⭐ 321 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-24 - Global Forest Watch: An online, global, near-real time forest monitoring tool
 * [GDAL with GoLang](https://github.com/lukeroth/gdal) ⭐ 319 | 🐛 32 | 🌐 Go | 📅 2026-05-31 - `Go` (golang) wrapper for GDAL, the Geospatial Data Abstraction Library
 * [s1tbx](https://github.com/senbox-org/s1tbx) ⚠️ Archived - The Sentinel-1 Toolbox - `Java`
-* [snap\_engine](https://github.com/senbox-org/snap-engine) ⭐ 217 | 🐛 18 | 🌐 Java | 📅 2026-11-24 - ESA Earth Observation Toolbox and `Java` Development Platform
-* [force](https://github.com/davidfrantz/force) ⭐ 203 | 🐛 24 | 🌐 C | 📅 2026-11-04 - Framework for Operational Radiometric Correction for Environmental monitoring in `c`
+* [snap\_engine](https://github.com/senbox-org/snap-engine) ⭐ 217 | 🐛 20 | 🌐 Java | 📅 2026-11-24 - ESA Earth Observation Toolbox and `Java` Development Platform
+* [force](https://github.com/davidfrantz/force) ⭐ 203 | 🐛 26 | 🌐 C | 📅 2026-11-04 - Framework for Operational Radiometric Correction for Environmental monitoring in `c`
 * [RSGLib](https://github.com/remotesensinginfo/rsgislib) ⭐ 177 | 🐛 6 | 🌐 C++ | 📅 2026-06-18 - The remote sensing and GIS software library (RSGISLib) is a set of `C++` libraries and commands for the processing of spatial data (raster and vector). Functionality is via `Python` interface though
 * [iris](https://github.com/ESA-PhiLab/iris) ⭐ 170 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-09 - Semi-automatic tool for manual segmentation of multi-spectral and geo-spatial imagery. `Javascript`
 * [ArchGDAL - Julia](https://github.com/yeesian/ArchGDAL.jl) ⭐ 151 | 🐛 102 | 🌐 Julia | 📅 2026-11-06 - `Julia` A high level API for GDAL - Geospatial Data Abstract
@@ -466,12 +466,12 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 
 ## Deep learning and Machine Learning
 
-* [Segment-geospatial](https://github.com/opengeos/segment-geospatial) ⭐ 4,213 | 🐛 9 | 🌐 Python | 📅 2026-11-23 - A `Python` package for segmenting geospatial data with the Segment Anything Model (SAM). [docs](https://samgeo.gishub.org/)
+* [Segment-geospatial](https://github.com/opengeos/segment-geospatial) ⭐ 4,216 | 🐛 10 | 🌐 Python | 📅 2026-11-23 - A `Python` package for segmenting geospatial data with the Segment Anything Model (SAM). [docs](https://samgeo.gishub.org/)
 * [future learn course - artificial intelligence for earth monitoring](https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring)
 
 #### Curated lists
 
-[Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning) ⭐ 10,313 | 🐛 0 | 📅 2026-11-21 - Resources for deep learning with satellite & aerial imagery. <b>This is the best place to go for this topic</b> I've removed 95% of the associated links from awesome-eo-code as it is just a repetition.
+[Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning) ⭐ 10,315 | 🐛 0 | 📅 2026-11-21 - Resources for deep learning with satellite & aerial imagery. <b>This is the best place to go for this topic</b> I've removed 95% of the associated links from awesome-eo-code as it is just a repetition.
 
 * [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) ⚠️ Archived - List of satellite image training datasets with annotations for computer vision and deep learning. `ARCHIVED REPO`
 * [Deep Vector](https://github.com/deepVector/geospatial-machine-learning) ⭐ 709 | 🐛 1 | 📅 2018-06-21 - A curated list of resources focused on Machine Learning in Geospatial Data Science.
@@ -529,12 +529,12 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 
 `JavaScript` & `Python` & `R`
 
-Best to start here [Awesome\_GEE](https://github.com/giswqs/Awesome-GEE) ⭐ 1,259 | 🐛 0 | 📅 2026-11-14 - A curated list of Google Earth Engine resources.
+Best to start here [Awesome\_GEE](https://github.com/giswqs/Awesome-GEE) ⭐ 1,260 | 🐛 0 | 📅 2026-11-14 - A curated list of Google Earth Engine resources.
 
-* [GEE Map](https://github.com/giswqs/geemap) ⭐ 4,075 | 🐛 60 | 🌐 Python | 📅 2026-11-23 - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
-* [Earth Engine API](https://github.com/google/earthengine-api) ⭐ 3,502 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-23 - `Python` and `JavaScript` bindings for calling the Earth Engine API.
+* [GEE Map](https://github.com/giswqs/geemap) ⭐ 4,074 | 🐛 57 | 🌐 Python | 📅 2026-11-24 - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
+* [Earth Engine API](https://github.com/google/earthengine-api) ⭐ 3,502 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-24 - `Python` and `JavaScript` bindings for calling the Earth Engine API.
 * [Python GEE notebooks](https://github.com/giswqs/earthengine-py-notebooks) ⭐ 1,569 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2021-03-16 - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
-* [rgee](https://github.com/r-spatial/rgee) ⭐ 777 | 🐛 64 | 🌐 R | 📅 2026-11-23 - Google Earth Engine for `R` [docs](https://csaybar.github.io/rgee/)
+* [rgee](https://github.com/r-spatial/rgee) ⭐ 778 | 🐛 64 | 🌐 R | 📅 2026-11-23 - Google Earth Engine for `R` [docs](https://csaybar.github.io/rgee/)
 * [crop\_yield\_prediction](https://github.com/JiaxuanYou/crop_yield_prediction) ⭐ 422 | 🐛 11 | 🌐 Python | 📅 2023-05-27 - Crop Yield Prediction with Deep Learning with GEE
 * [ee-palettes](https://github.com/gee-community/ee-palettes) ⭐ 347 | 🐛 2 | 🌐 HTML | 📅 2020-09-23 - A set of common color palettes for Google Earth Engine
 * [geetools](https://github.com/fitoprincipe/geetools-code-editor) ⭐ 323 | 🐛 9 | 📅 2023-10-02 - A set of tools to use in Google Earth Engine Code Editor `JavaScript` [docs](https://github.com/fitoprincipe/geetools-code-editor/wiki) ⭐ 323 | 🐛 9 | 📅 2023-10-02
@@ -585,8 +585,8 @@ Best to start here [Awesome\_GEE](https://github.com/giswqs/Awesome-GEE) ⭐ 1,2
 * [openeo\_odc\_driver](https://github.com/SARScripts/openeo_odc_driver) ⭐ 11 | 🐛 7 | 🌐 Python | 📅 2024-10-08 - OpenEO processing engine written in `Python` based on OpenDataCube, `Xarray` and `Dask`.
 * [odc-sh](https://github.com/sentinel-hub/odc-sh) ⭐ 3 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-05-31 - Sentinel Hub plugin for Open data cube
 * [Opendatacube](https://github.com/opendatacube)
-  * [Datacube Core](https://github.com/opendatacube/datacube-core) ⭐ 595 | 🐛 87 | 🌐 Python | 📅 2026-11-24 - Open Data Cube analyses continental scale Earth Observation data through time `Python` `xarray`
-  * [Datacube OWS](https://github.com/opendatacube/datacube-ows) ⭐ 85 | 🐛 38 | 🌐 Python | 📅 2026-11-23 - Open web services for the Open Data Cube. Supports WMS, WMTS and WCS for any dataset indexed into the ODC `Python`
+  * [Datacube Core](https://github.com/opendatacube/datacube-core) ⭐ 595 | 🐛 86 | 🌐 Python | 📅 2026-11-24 - Open Data Cube analyses continental scale Earth Observation data through time `Python` `xarray`
+  * [Datacube OWS](https://github.com/opendatacube/datacube-ows) ⭐ 85 | 🐛 39 | 🌐 Python | 📅 2026-11-23 - Open web services for the Open Data Cube. Supports WMS, WMTS and WCS for any dataset indexed into the ODC `Python`
 
 ## Other Datacube-related Python
 
@@ -609,7 +609,7 @@ Best to start here [Awesome\_GEE](https://github.com/giswqs/Awesome-GEE) ⭐ 1,2
 
 ## QGIS and Grass
 
-* [grass-dev-py3-pdal](https://github.com/OSGeo/grass/tree/master/docker) ⭐ 1,194 | 🐛 733 | 🌐 C | 📅 2026-11-23 - Dockerfile which compiles GRASS GIS 7.9 master with Python 3 and PDAL suppor
+* [grass-dev-py3-pdal](https://github.com/OSGeo/grass/tree/master/docker) ⭐ 1,194 | 🐛 731 | 🌐 C | 📅 2026-11-24 - Dockerfile which compiles GRASS GIS 7.9 master with Python 3 and PDAL suppor
 * [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin) ⭐ 521 | 🐛 16 | 🌐 Python | 📅 2026-08-25 - Integrates Google Earth Engine and QGIS using Python API
   * [QGIS Earth Engine Plugin - installation guide](https://gee-community.github.io/qgis-earthengine-plugin/)
 * [NASA Earthdata QGIS Plugin](https://github.com/opengeos/qgis-nasa-earthdata-plugin) ⭐ 84 | 🐛 3 | 🌐 Python | 📅 2026-11-23 - A QGIS plugin for searching and visualizing NASA Earthdata
@@ -621,7 +621,7 @@ Best to start here [Awesome\_GEE](https://github.com/giswqs/Awesome-GEE) ⭐ 1,2
 
 These are `Python` resources. Please see [R resources](#resources-for-r) for info on R
 
-* [MetPy](https://github.com/Unidata/MetPy) ⭐ 1,458 | 🐛 432 | 🌐 Python | 📅 2026-11-23 - MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data. `Python`
+* [MetPy](https://github.com/Unidata/MetPy) ⭐ 1,459 | 🐛 436 | 🌐 Python | 📅 2026-11-23 - MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data. `Python`
   * [aqua-monitor](https://github.com/Deltares/aqua-monitor) ⭐ 62 | 🐛 43 | 🌐 JavaScript | 📅 2025-04-08 - Monitoring surface water changes from space at global scale. Also checkout the [app](https://aqua-monitor.appspot.com/) `Python`
   * [MetPy docs](https://unidata.github.io/MetPy/latest/)`Python`
 * [Climate data science](https://github.com/willyhagi/climate-data-science) ⚠️ Archived - Climate Data Science and Earth Observation with `Python`
@@ -646,7 +646,7 @@ Such a vast collection of resources that it warrants a sub section within Climat
 ## DEM projects
 
 * [Tin Terrain](https://github.com/heremaps/tin-terrain) ⚠️ Archived - A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes.
-* [DEM.net](https://github.com/dem-net/DEM.Net) ⭐ 362 | 🐛 19 | 🌐 C# | 📅 2026-11-23 - Digital Elevation model library in C#. 3D terrain models, line/point Elevations, intervisibility reports. [Docs](https://elevationapi.com/)
+* [DEM.net](https://github.com/dem-net/DEM.Net) ⭐ 362 | 🐛 19 | 🌐 C# | 📅 2026-11-24 - Digital Elevation model library in C#. 3D terrain models, line/point Elevations, intervisibility reports. [Docs](https://elevationapi.com/)
 * [TauDEM](https://github.com/dtarb/TauDEM) ⭐ 281 | 🐛 94 | 🌐 C++ | 📅 2026-07-24 - Terrain Analysis Using Digital Elevation Models (TauDEM) software for hydrologic terrain analysis and channel network extraction. [Docs](http://hydrology.usu.edu/taudem/taudem5/index.html)
 * [Stereo Mapping to create Elevation with Python](https://github.com/cmla/s2p) ⭐ 272 | 🐛 32 | 🌐 Python | 📅 2025-10-17 - Satellite Stereo Pipeline
 * [dsm2dtm](https://github.com/seedlit/dsm2dtm) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Python library for converting Digital Surface Models (DSMs) to Digital Terrain Models (DTMs).
@@ -655,10 +655,10 @@ Such a vast collection of resources that it warrants a sub section within Climat
 
 ## SAR
 
-* [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) ⭐ 617 | 🐛 47 | 🌐 Python | 📅 2026-11-13 - framework for large-scale SAR satellite data processing
+* [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) ⭐ 616 | 🐛 47 | 🌐 Python | 📅 2026-11-13 - framework for large-scale SAR satellite data processing
 * [sarsen](https://github.com/bopen/sarsen) ⭐ 319 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-11-17 - Algorithms and utilities for Synthetic Aperture Radar (SAR) sensors
 * [RITSAR](https://github.com/dm6718/RITSAR) ⭐ 266 | 🐛 6 | 🌐 Python | 📅 2020-02-24 - Synthetic Aperture Radar (SAR) Image Processing Toolbox for `Python`
-* [OpeSARToolkit](https://github.com/ESA-PhiLab/OpenSarToolkit) ⭐ 248 | 🐛 16 | 🌐 Python | 📅 2026-02-04 - High-level functionality for the inventory, download and pre-processing of Sentinel-1 data in the `python` language.
+* [OpeSARToolkit](https://github.com/ESA-PhiLab/OpenSarToolkit) ⭐ 247 | 🐛 16 | 🌐 Python | 📅 2026-02-04 - High-level functionality for the inventory, download and pre-processing of Sentinel-1 data in the `python` language.
 * [PyRAT](https://github.com/birgander2/PyRAT) ⭐ 228 | 🐛 10 | 🌐 Python | 📅 2025-01-16 - General purpose Synthetic Aperture Radar (SAR) postprocessing software package `Python`
 * [Spacenet6 - SAR buildings](https://github.com/SpaceNetChallenge/SpaceNet_SAR_Buildings_Solutions) ⭐ 78 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2020-12-04 - The winning solutions for the SpaceNet 6 Challenge `Python`
 * [sarbian](https://github.com/EO-College/sarbian) ⭐ 63 | 🐛 8 | 🌐 Shell | 📅 2019-09-04 - a plug’n play Operation System (based on Debian Linux) with all the freely and openly available SAR processing software
@@ -680,9 +680,9 @@ Such a vast collection of resources that it warrants a sub section within Climat
 
 ## LiDAR
 
-* [Lidar](https://github.com/giswqs/lidar) ⭐ 314 | 🐛 8 | 🌐 Python | 📅 2026-11-20 - Terrain and hydrological analysis based on LiDAR-derived digital elevation models (DEM)
+* [Lidar](https://github.com/giswqs/lidar) ⭐ 315 | 🐛 8 | 🌐 Python | 📅 2026-11-20 - Terrain and hydrological analysis based on LiDAR-derived digital elevation models (DEM)
 * [IcePyx](https://github.com/icesat2py/icepyx) ⭐ 259 | 🐛 116 | 🌐 Python | 📅 2026-11-09 - Python tools for obtaining and working with ICESat-2 data
-* [usgs-lidar](https://github.com/hobu/usgs-lidar) ⭐ 172 | 🐛 34 | 🌐 JavaScript | 📅 2026-11-23 - AWS Entwine Point Tiles USGS LiDAR Public Dataset GitHub repo
+* [usgs-lidar](https://github.com/hobu/usgs-lidar) ⭐ 172 | 🐛 34 | 🌐 JavaScript | 📅 2026-11-24 - AWS Entwine Point Tiles USGS LiDAR Public Dataset GitHub repo
 * [ICESAT tools](https://github.com/icesat-2UT/PhoREAL) ⭐ 103 | 🐛 11 | 🌐 Python | 📅 2025-02-26 - Tools and code for Icesat-2 data analysis (Python)
 * [ICESAT extraction script](https://gist.github.com/bzgeo/950f3db986b3513311ed42efe2395171) - Python script to convert from ICESat-2 ATL08 HDF data to shapefile. Usage: 'python icesat2\_shp.py
 
@@ -770,11 +770,11 @@ Github accounts only with examples of work. This section used to contain example
 
 This bit could potentially become the most valuable resource. Lets not ignore other sectors/industries/data science, instead lets embrace it and learn from all that other amazing stuff! This my prelude to saying we are earth data scientists
 
-* [Deep learning with Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) ⭐ 20,378 | 🐛 223 | 🌐 Jupyter Notebook | 📅 2025-09-18 - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
-* [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,852 | 🐛 17 | 📅 2021-05-08 - awesome-semantic-segmentation
-* [Change your Jupyter Theme](https://github.com/dunovank/jupyter-themes) ⭐ 9,817 | 🐛 205 | 🌐 CSS | 📅 2025-06-22 - Custom Jupyter Notebook Themes
-* [introduction to ml with Python](https://github.com/amueller/introduction_to_ml_with_python) ⭐ 8,235 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2024-03-14 - Notebooks and code for the book "Introduction to Machine Learning with `Python`"
-* [Xarray](https://github.com/pydata/xarray) ⭐ 4,240 | 🐛 1,396 | 🌐 Python | 📅 2026-11-22 - N-D labeled arrays and datasets in Python
+* [Deep learning with Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) ⭐ 20,379 | 🐛 223 | 🌐 Jupyter Notebook | 📅 2025-09-18 - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+* [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,854 | 🐛 17 | 📅 2021-05-08 - awesome-semantic-segmentation
+* [Change your Jupyter Theme](https://github.com/dunovank/jupyter-themes) ⭐ 9,818 | 🐛 205 | 🌐 CSS | 📅 2025-06-22 - Custom Jupyter Notebook Themes
+* [introduction to ml with Python](https://github.com/amueller/introduction_to_ml_with_python) ⭐ 8,236 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2024-03-14 - Notebooks and code for the book "Introduction to Machine Learning with `Python`"
+* [Xarray](https://github.com/pydata/xarray) ⭐ 4,240 | 🐛 1,402 | 🌐 Python | 📅 2026-11-22 - N-D labeled arrays and datasets in Python
 * [dtreeviz](https://github.com/parrt/dtreeviz) ⭐ 3,161 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2026-01-02 - A `Python` library for decision tree visualization and model interpretation.
 * [realtime covid19 graphs in USA](https://github.com/k-sys/covid-19) ⭐ 1,359 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2020-09-22 - A collection of work related to COVID-19
 * [TernausNet - used in DSTL kaggle competition (came 3rd)](https://github.com/ternaus/TernausNet) ⭐ 1,062 | 🐛 10 | 🌐 Python | 📅 2022-10-26 - UNet model with VGG11 encoder pre-trained on Kaggle Carvana dataset
@@ -815,9 +815,9 @@ There are many awesome lists relating to 'Geo'. I use that term as widely as pos
 
 Finally, I wanted to acknowledge a couple of awesome Earth Observation lists that you may list to check out:
 
-* [awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,391 | 🐛 16 | 📅 2026-11-18 - Long list of geospatial tools and resources
-* [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,380 | 🐛 2 | 📅 2026-09-09 - List of datasets, codes, and contests related to remote sensing change detection.
-* [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 898 | 🐛 10 | 🌐 Python | 📅 2026-07-09 - List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)
+* [awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,392 | 🐛 18 | 📅 2026-11-18 - Long list of geospatial tools and resources
+* [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,381 | 🐛 2 | 📅 2026-09-09 - List of datasets, codes, and contests related to remote sensing change detection.
+* [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 898 | 🐛 11 | 🌐 Python | 📅 2026-07-09 - List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)
 * [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) ⭐ 586 | 🐛 5 | 📅 2025-02-20 - curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data
 * [awesome-remote-sensing](https://github.com/attibalazs/awesome-remote-sensing) ⭐ 115 | 🐛 4 | 📅 2026-01-18 - Collection of Remote Sensing Resources
 
